@@ -185,9 +185,41 @@
       }
     ]
   },
-  "overrides": [],
+  "overrides": [
+    {
+      "course": "IC-272",
+      "action": "CANCEL",
+      "date": "2026-08-03",
+      "new_time": null,
+      "new_venue": null,
+      "note": "Due to logistical issues",
+      "id": "gmail_19fc3040590c53f8_0",
+      "source": "gmail_sync"
+    },
+    {
+      "course": "EE-203",
+      "action": "CANCEL",
+      "date": "2026-08-03",
+      "new_time": null,
+      "new_venue": null,
+      "note": "There will be no class on 03-08.",
+      "id": "gmail_19fc14995a9181fa_1",
+      "source": "gmail_sync"
+    }
+  ],
   "metadata": {
-    "last_synced": "2026-08-03T01:26:22Z",
-    "processed_emails": []
+    "last_synced": "2026-08-02T21:30:54Z",
+    "processed_emails": [
+      "19fc371f6875c0cc",
+      "19fc3040590c53f8",
+      "19fc2dd1efefab42",
+      "19fc2cfa7a911959",
+      "19fc25243aac2a7f",
+      "19fc14995a9181fa",
+      "19fbd00361cb016e",
+      "19fbce56661a4f0c",
+      "19fbc1cb6894fa9f",
+      "19fbc0f00400df1d"
+    ]
   }
 }
