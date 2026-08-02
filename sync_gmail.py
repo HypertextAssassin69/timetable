@@ -151,12 +151,13 @@ def analyze_email_with_gemini(email, gemini_api_key):
     # System instructions describing task and constraints
     system_instruction = (
         "You are an AI assistant tracking college schedules. Analyze emails and extract schedule adjustments "
-        "only for our courses. Ignore anything about other classes. Return a JSON structure. "
-        "A schedule override can be of these Action Types: CANCEL, RESCHEDULE, EXTRA, LOCATION_CHANGE. "
-        "Compute the exact date (YYYY-MM-DD) for each override. If the email was sent on a certain date and refers "
-        "to a relative time like 'tomorrow' or 'this Friday', calculate the actual date of the change. "
-        "Only extract changes if they concern one of the registered courses. If the email contains no timetable changes "
-        "concerning our courses, return '{\"relevant\": false}'."
+        "only for our courses. Ignore anything about other classes.\n"
+        "RULES:\n"
+        "1. Course Code Formatting: Whitelisted courses use hyphens (e.g. EE-203, IC-272, EE-261). Instructors might write them with spaces or no separators (e.g. 'EE 203', 'EE203', 'IC 272', 'EE 261'). You must match these and normalize the output to the whitelisted course code (strictly using the hyphenated code, like 'EE-203').\n"
+        "2. Sender Authority: Emails may be sent directly by instructors OR by academic secretaries (e.g., Aditya Tayal), student representatives, or the academic office on behalf of the instructors or courses. Treat these as authoritative if they mention one of our whitelisted courses.\n"
+        "3. Action Types: Overrides must be one of: CANCEL, RESCHEDULE, EXTRA, LOCATION_CHANGE.\n"
+        "4. Date Calculation: Compute the exact date (YYYY-MM-DD) for each override. If the email refers to a relative time (like 'tomorrow', 'this Wednesday', or 'on 03-08'), calculate the actual date of the change relative to the Sent Date header of the email.\n"
+        "5. Output Format: Return a JSON structure. If the email contains no schedule changes for our whitelisted courses, return '{\"relevant\": false}'."
     )
     
     prompt = f"""
@@ -222,11 +223,12 @@ def analyze_email_raw_http(email, gemini_api_key):
     
     system_instruction = (
         "Analyze emails and extract schedule adjustments "
-        "only for our courses: EE-261, EE-203, EE-311, EE-260, EE-212, IC-272, EE-261P, IC-222P, IC-202P. "
-        "Ignore any other courses. Compute exact calendar dates (YYYY-MM-DD) relative to sent date. "
-        "Return structured JSON matching: "
-        '{"relevant": true, "overrides": [{"course": "EE-261", "action": "CANCEL", "date": "YYYY-MM-DD", "new_time": null, "new_venue": null, "note": "text"}]} '
-        'or {"relevant": false}.'
+        "only for our courses: EE-261, EE-203, EE-311, EE-260, EE-212, IC-272, EE-261P, IC-222P, IC-202P.\n"
+        "RULES:\n"
+        "1. Course Formatting: Match variations like 'EE 203', 'EE203', 'IC 272' and normalize to hyphenated code (e.g. 'EE-203', 'IC-272').\n"
+        "2. Senders: Accept emails sent by academic secretaries (Aditya Tayal) or student reps on behalf of the course.\n"
+        "3. Compute exact date (YYYY-MM-DD) for overrides relative to the email Sent Date.\n"
+        "4. Return JSON structure matching '{\"relevant\": true, \"overrides\": [...]}' or '{\"relevant\": false}'."
     )
     
     payload = {
