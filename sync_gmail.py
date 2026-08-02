@@ -120,21 +120,18 @@ def get_email_details(message_id, access_token):
     }
 
 def is_potentially_relevant(email):
-    """Performs a quick heuristic pre-filter before invoking the Gemini API."""
+    """Checks if the email mentions any whitelisted course codes or instructor names."""
     text_to_check = (email["subject"] + " " + email["body"]).lower()
     
-    # Check if at least one keyword is present
-    has_keyword = any(kw.lower() in text_to_check for kw in KEYWORDS)
-    if not has_keyword:
-        return False
-        
     # Check if it mentions any course code
     has_course = any(code.lower() in text_to_check for code in REGISTERED_COURSES.keys())
+    
     # Or matches names of teachers
-    has_teacher = any(name.split()[-1].lower() in text_to_check for name in [
-        "Moumita Das", "Pratim Kundu", "Robin Khosla", "Satyajitsinh A. Thakor", 
-        "Srinivasu Bodapati", "Indu Joshi", "Prabhakar Palni", "Gajendra Singh", "Dwijasish Das"
-    ])
+    teachers = [
+        "Moumita", "Das", "Pratim", "Kundu", "Robin", "Khosla", "Satyajitsinh", "Thakor", 
+        "Srinivasu", "Bodapati", "Indu", "Joshi", "Prabhakar", "Palni", "Gajendra", "Singh", "Dwijasish"
+    ]
+    has_teacher = any(name.lower() in text_to_check for name in teachers)
     
     return has_course or has_teacher
 
