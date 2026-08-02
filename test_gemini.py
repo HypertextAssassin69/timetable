@@ -23,6 +23,14 @@ def test():
         if HAS_SDK:
             try:
                 genai.configure(api_key=key)
+                
+                # List available models
+                try:
+                    models = [m.name for m in genai.list_models()]
+                    status += f"Available Models via SDK: {', '.join(models)}\n"
+                except Exception as list_err:
+                    status += f"List Models FAILED: {list_err}\n"
+                    
                 model = genai.GenerativeModel("gemini-1.5-flash")
                 response = model.generate_content("Verify API key connection. Respond with the word 'CONNECTED'.")
                 status += f"Standard SDK Test: SUCCESS (Response: '{response.text.strip()}')\n"
