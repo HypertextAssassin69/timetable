@@ -1,0 +1,113 @@
+{
+  "courses": {
+    "EE-261": {
+      "name": "Electrical Systems Around Us",
+      "instructor": "Moumita Das",
+      "venue": "A17-1A, North Campus",
+      "category": "DC",
+      "credits": 3,
+      "slot": "Slot A"
+    },
+    "EE-203": {
+      "name": "Network Theory",
+      "instructor": "Pratim Kundu",
+      "venue": "A17-1A, North Campus",
+      "category": "DC",
+      "credits": 3,
+      "slot": "Slot B"
+    },
+    "EE-311": {
+      "name": "Device Electronics for Integrated Circuits",
+      "instructor": "Robin Khosla",
+      "venue": "A17-1B, North Campus",
+      "category": "DC",
+      "credits": 3,
+      "slot": "Slot E"
+    },
+    "EE-260": {
+      "name": "Signals and Systems",
+      "instructor": "Satyajitsinh A. Thakor",
+      "venue": "A17-1A, North Campus",
+      "category": "DC",
+      "credits": 3,
+      "slot": "Slot H"
+    },
+    "EE-212": {
+      "name": "Digital System Design",
+      "instructor": "Srinivasu Bodapati",
+      "venue": "A17-1A, North Campus",
+      "category": "DC",
+      "credits": 4,
+      "slot": "Slot G"
+    },
+    "IC-272": {
+      "name": "Machine Learning",
+      "instructor": "Indu Joshi",
+      "venue": "A13-3A, North Campus",
+      "category": "ICC",
+      "credits": 3,
+      "slot": "Slot D"
+    },
+    "EE-261P": {
+      "name": "Electrical Systems Around Us — Lab",
+      "instructor": "Moumita Das",
+      "venue": "Lab Slot 3",
+      "category": "DE",
+      "credits": 2,
+      "slot": "Lab Slot 3 (Wed 2-5 PM)"
+    },
+    "IC-222P": {
+      "name": "Physics Practicum / Practicals",
+      "instructor": "Prabhakar Palni",
+      "venue": "Lab Slot 5",
+      "category": "ICC",
+      "credits": 2,
+      "slot": "Lab Slot 5 (Fri 2-5 PM)"
+    },
+    "IC-202P": {
+      "name": "Design Practicum",
+      "instructor": "Gajendra Singh",
+      "venue": "NO SLOT",
+      "category": "ICB",
+      "credits": 2,
+      "slot": "NO SLOT — not yet timetabled"
+    }
+  },
+  "base_schedule": {
+    "Monday": [
+      { "course": "EE-203", "time": "09:00 - 09:50", "type": "Lecture" },
+      { "course": "IC-272", "time": "11:00 - 11:50", "type": "Lecture" },
+      { "course": "EE-311", "time": "12:00 - 12:50", "type": "Lecture" }
+    ],
+    "Tuesday": [
+      { "course": "EE-212", "time": "09:00 - 09:50", "type": "Lecture" },
+      { "course": "EE-260", "time": "10:00 - 10:50", "type": "Lecture" },
+      { "course": "EE-261", "time": "11:00 - 11:50", "type": "Lecture" },
+      { "course": "EE-203", "time": "12:00 - 12:50", "type": "Lecture" }
+    ],
+    "Wednesday": [
+      { "course": "IC-272", "time": "09:00 - 09:50", "type": "Lecture" },
+      { "course": "EE-311", "time": "11:00 - 11:50", "type": "Lecture" },
+      { "course": "EE-260", "time": "12:00 - 12:50", "type": "Lecture" },
+      { "course": "EE-261P", "time": "14:00 - 17:00", "type": "Lab" }
+    ],
+    "Thursday": [
+      { "course": "EE-212", "time": "08:00 - 08:50", "type": "Lecture" },
+      { "course": "EE-261", "time": "09:00 - 09:50", "type": "Lecture" },
+      { "course": "EE-203", "time": "10:00 - 10:50", "type": "Lecture" },
+      { "course": "IC-272", "time": "12:00 - 12:50", "type": "Lecture" }
+    ],
+    "Friday": [
+      { "course": "EE-260", "time": "08:00 - 08:50", "type": "Lecture" },
+      { "course": "EE-311", "time": "09:00 - 09:50", "type": "Lecture" },
+      { "course": "EE-212", "time": "10:00 - 10:50", "type": "Lecture" },
+      { "course": "EE-261", "time": "12:00 - 12:50", "type": "Lecture" },
+      { "course": "IC-222P", "time": "14:00 - 17:00", "type": "Lab" }
+    ]
+  },
+  "overrides": [],
+  "metadata": {
+    "last_synced": "2026-08-03T01:26:22Z",
+    "processed_emails": []
+  }
+}
