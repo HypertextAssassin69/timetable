@@ -52,8 +52,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git add timetable.json email_log.txt 2>/dev/null || true
-          if [ -n "$(git status --porcelain timetable.json email_log.txt)" ]; then
+          git add -f timetable.json email_log.txt 2>/dev/null || true
+          if [ -n "$(git status --porcelain)" ]; then
             git commit -m "auto_sync: sync timetable and email_log [skip ci]"
             git push origin main
           else
