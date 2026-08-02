@@ -1,0 +1,13 @@
+# Ignore client secrets and tokens
+client_secret*.json
+token.json
+credentials*.json
+*.env
+.env*
+
+# Local test environment
+__pycache__/
+*.pyc
+
+# Local debug outputs
+email_log.txt
