@@ -295,8 +295,8 @@ def main():
         return
 
     # 4. Search Gmail Inbox
-    # Subject matching terms, check emails from last 7 days to cover periods of action failure/maintenance
-    query = "subject:(timetable OR class OR cancel OR reschedule OR extra OR room OR venue)"
+    # Search both subject and body for keywords, restricted to last 2 days to get changes from yesterday till now
+    query = "(timetable OR class OR cancel OR reschedule OR extra OR room OR venue OR Moumita OR Pratim OR Khosla OR Satyajitsinh OR Bodapati OR Indu OR Joshi OR Palni OR Dwijasish) newer_than:2d"
     print(f"Searching Gmail with query: '{query}'")
     
     url = f"https://gmail.googleapis.com/gmail/v1/users/me/messages?q={urllib.parse.quote(query)}"
