@@ -1,6 +1,9 @@
 name: Gmail Timetable Sync
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Run every 3 hours daily
     - cron: '0 */3 * * *'
