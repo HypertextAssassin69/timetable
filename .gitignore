@@ -11,3 +11,4 @@ __pycache__/
 
 # Local debug outputs
 email_log.txt
+gemini_status.txt

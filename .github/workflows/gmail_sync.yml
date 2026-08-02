@@ -49,12 +49,13 @@ jobs:
         run: |
           python sync_gmail.py
           python print_emails.py
+          python test_gemini.py
 
       - name: Commit and Push Changes
         run: |
-          git add -f timetable.json email_log.txt 2>/dev/null || true
+          git add -f timetable.json email_log.txt gemini_status.txt 2>/dev/null || true
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "auto_sync: sync timetable and email_log [skip ci]"
+            git commit -m "auto_sync: sync timetable, email_log and gemini_status [skip ci]"
             git push origin main
           else
             echo "No changes to push."
