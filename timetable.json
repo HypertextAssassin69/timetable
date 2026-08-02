@@ -49,7 +49,7 @@
       "slot": "Slot D"
     },
     "EE-261P": {
-      "name": "Electrical Systems Around Us — Lab",
+      "name": "Electrical Systems Around Us \u2014 Lab",
       "instructor": "Dwijasish Das",
       "venue": "Lab Slot 3",
       "category": "DE",
@@ -70,44 +70,135 @@
       "venue": "NO SLOT",
       "category": "ICB",
       "credits": 2,
-      "slot": "NO SLOT — not yet timetabled"
+      "slot": "NO SLOT \u2014 not yet timetabled"
     }
   },
   "base_schedule": {
     "Monday": [
-      { "course": "EE-203", "time": "09:00 - 09:50", "type": "Lecture" },
-      { "course": "IC-272", "time": "11:00 - 11:50", "type": "Lecture" },
-      { "course": "EE-311", "time": "12:00 - 12:50", "type": "Lecture" }
+      {
+        "course": "EE-203",
+        "time": "09:00 - 09:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "IC-272",
+        "time": "11:00 - 11:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-311",
+        "time": "12:00 - 12:50",
+        "type": "Lecture"
+      }
     ],
     "Tuesday": [
-      { "course": "EE-212", "time": "09:00 - 09:50", "type": "Lecture" },
-      { "course": "EE-260", "time": "10:00 - 10:50", "type": "Lecture" },
-      { "course": "EE-261", "time": "11:00 - 11:50", "type": "Lecture" },
-      { "course": "EE-203", "time": "12:00 - 12:50", "type": "Lecture" }
+      {
+        "course": "EE-212",
+        "time": "09:00 - 09:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-260",
+        "time": "10:00 - 10:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-261",
+        "time": "11:00 - 11:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-203",
+        "time": "12:00 - 12:50",
+        "type": "Lecture"
+      }
     ],
     "Wednesday": [
-      { "course": "IC-272", "time": "09:00 - 09:50", "type": "Lecture" },
-      { "course": "EE-311", "time": "11:00 - 11:50", "type": "Lecture" },
-      { "course": "EE-260", "time": "12:00 - 12:50", "type": "Lecture" },
-      { "course": "EE-261P", "time": "14:00 - 17:00", "type": "Lab" }
+      {
+        "course": "IC-272",
+        "time": "09:00 - 09:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-311",
+        "time": "11:00 - 11:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-260",
+        "time": "12:00 - 12:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-261P",
+        "time": "14:00 - 17:00",
+        "type": "Lab"
+      }
     ],
     "Thursday": [
-      { "course": "EE-212", "time": "08:00 - 08:50", "type": "Lecture" },
-      { "course": "EE-261", "time": "09:00 - 09:50", "type": "Lecture" },
-      { "course": "EE-203", "time": "10:00 - 10:50", "type": "Lecture" },
-      { "course": "IC-272", "time": "12:00 - 12:50", "type": "Lecture" }
+      {
+        "course": "EE-212",
+        "time": "08:00 - 08:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-261",
+        "time": "09:00 - 09:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-203",
+        "time": "10:00 - 10:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "IC-272",
+        "time": "12:00 - 12:50",
+        "type": "Lecture"
+      }
     ],
     "Friday": [
-      { "course": "EE-260", "time": "08:00 - 08:50", "type": "Lecture" },
-      { "course": "EE-311", "time": "09:00 - 09:50", "type": "Lecture" },
-      { "course": "EE-212", "time": "10:00 - 10:50", "type": "Lecture" },
-      { "course": "EE-261", "time": "12:00 - 12:50", "type": "Lecture" },
-      { "course": "IC-222P", "time": "14:00 - 17:00", "type": "Lab" }
+      {
+        "course": "EE-260",
+        "time": "08:00 - 08:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-311",
+        "time": "09:00 - 09:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-212",
+        "time": "10:00 - 10:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "EE-261",
+        "time": "12:00 - 12:50",
+        "type": "Lecture"
+      },
+      {
+        "course": "IC-222P",
+        "time": "14:00 - 17:00",
+        "type": "Lab"
+      }
     ]
   },
   "overrides": [],
   "metadata": {
     "last_synced": "2026-08-03T01:26:22Z",
-    "processed_emails": []
+    "processed_emails": [
+      "19fc371f6875c0cc",
+      "19fc3040590c53f8",
+      "19fc2dd1efefab42",
+      "19fc2cfa7a911959",
+      "19fc25243aac2a7f",
+      "19fc14995a9181fa",
+      "19fbd00361cb016e",
+      "19fbce56661a4f0c",
+      "19fbc1cb6894fa9f",
+      "19fbc0f00400df1d"
+    ]
   }
 }
