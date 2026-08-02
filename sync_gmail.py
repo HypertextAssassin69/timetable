@@ -21,7 +21,7 @@ REGISTERED_COURSES = {
     "EE-260": "Signals and Systems (Satyajitsinh A. Thakor)",
     "EE-212": "Digital System Design (Srinivasu Bodapati)",
     "IC-272": "Machine Learning (Indu Joshi)",
-    "EE-261P": "Electrical Systems Around Us — Lab (Moumita Das)",
+    "EE-261P": "Electrical Systems Around Us — Lab (Dwijasish Das)",
     "IC-222P": "Physics Practicum / Practicals (Prabhakar Palni)",
     "IC-202P": "Design Practicum (Gajendra Singh)"
 }
@@ -30,7 +30,7 @@ REGISTERED_COURSES = {
 KEYWORDS = [
     "timetable", "cancelled", "cancelled class", "cancel", "rescheduled", 
     "reschedule", "extra class", "room changed", "location change", 
-    "Moumita", "Pratim", "Khosla", "Satyajitsinh", "Bodapati", "Indu", "Joshi", "Palni"
+    "Moumita", "Pratim", "Khosla", "Satyajitsinh", "Bodapati", "Indu", "Joshi", "Palni", "Dwijasish"
 ]
 
 def refresh_gmail_token(client_id, client_secret, refresh_token):
@@ -133,7 +133,7 @@ def is_potentially_relevant(email):
     # Or matches names of teachers
     has_teacher = any(name.split()[-1].lower() in text_to_check for name in [
         "Moumita Das", "Pratim Kundu", "Robin Khosla", "Satyajitsinh A. Thakor", 
-        "Srinivasu Bodapati", "Indu Joshi", "Prabhakar Palni", "Gajendra Singh"
+        "Srinivasu Bodapati", "Indu Joshi", "Prabhakar Palni", "Gajendra Singh", "Dwijasish Das"
     ])
     
     return has_course or has_teacher
@@ -171,7 +171,7 @@ def analyze_email_with_gemini(email, gemini_api_key):
     - EE-260: Signals and Systems (Satyajitsinh A. Thakor)
     - EE-212: Digital System Design (Srinivasu Bodapati)
     - IC-272: Machine Learning (Indu Joshi)
-    - EE-261P: Lab (Moumita Das)
+    - EE-261P: Lab (Dwijasish Das)
     - IC-222P: Lab (Prabhakar Palni)
     - IC-202P: Design Practicum (Gajendra Singh)
 
