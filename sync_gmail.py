@@ -205,7 +205,7 @@ def analyze_email_with_gemini(email, gemini_api_key):
     
     try:
         model = genai.GenerativeModel(
-            model_name="gemini-1.5-flash",
+            model_name="gemini-2.5-flash",
             generation_config=generation_config,
             system_instruction=system_instruction
         )
@@ -219,7 +219,7 @@ def analyze_email_with_gemini(email, gemini_api_key):
 
 def analyze_email_raw_http(email, gemini_api_key):
     """Alternative raw HTTP POST request to Gemini API (failsafe)."""
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={gemini_api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={gemini_api_key}"
     
     system_instruction = (
         "Analyze emails and extract schedule adjustments "

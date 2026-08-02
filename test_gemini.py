@@ -31,7 +31,7 @@ def test():
                 except Exception as list_err:
                     status += f"List Models FAILED: {list_err}\n"
                     
-                model = genai.GenerativeModel("gemini-1.5-flash")
+                model = genai.GenerativeModel("gemini-2.5-flash")
                 response = model.generate_content("Verify API key connection. Respond with the word 'CONNECTED'.")
                 status += f"Standard SDK Test: SUCCESS (Response: '{response.text.strip()}')\n"
             except Exception as e:
@@ -40,7 +40,7 @@ def test():
             status += "Standard SDK Test: SKIPPED (SDK not installed)\n"
             
         # Test Raw HTTP API fallback
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={key}"
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={key}"
         payload = {
             "contents": [{
                 "parts": [{
