@@ -1,4 +1,17 @@
-Found 19 emails in the last 2 days:
+Found 20 emails in the last 2 days:
+
+Message ID: 19fc87a61f3fcea3
+From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 3 Aug 2026 22:04:31 +0530
+Subject: Commencement of Inter IIT sports meet Practice
+Snippet: Dear Students,
+
+You can now begin your Inter IIT Sports Meet practice. Coaches have joined
+for all sports disciplines. Please report to your respective sports fields,
+meet your coaches, and start your practice sessions. All coaches will be
+available on the grounds from 6:00 AM every morning.
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 19fc7f55b943fa42
 From: "'Varun Dutt' via all" <all@students.iitmandi.ac.in>
@@ -199,27 +212,6 @@ You are cordially invited to the open seminar of Mr Pragun Jaswal, MTech[R] scho
 Title : Energy-Efficient Hardware Architectures for Next-Generation AI Accelerators
 Date &amp; Time : 04, August 2026 , 12 PM&nbsp;
 Venue : S
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fc3040590c53f8
-From: Aditya Tayal <academic_secretary@students.iitmandi.ac.in>
-Date: Sun, 2 Aug 2026 20:37:10 +0530
-Subject: Re: Regarding IC-272 Class
-Snippet: On Sun, Aug 2, 2026 at 8:36 PM Aditya Tayal 
-wrote:
-
-> Dear All,
->
-> Due to logistical issues, tomorrow's scheduled *IC-272: Machine Learning*
-> class has been cancelled.
-> The next class will be held as per the regular schedule unless
-> communicated otherwise.
->
-> --
-> Warm Regards
->
->
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
