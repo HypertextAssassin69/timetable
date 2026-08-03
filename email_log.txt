@@ -1,4 +1,51 @@
-Found 11 emails in the last 2 days:
+Found 13 emails in the last 2 days:
+
+Message ID: 19fc63ed187b23d6
+From: "'Sayantan Sarkar' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 03 Aug 2026 11:40:26 +0530
+Subject: [Announcement] Invitation to the Second Open Seminar of Aditi Rana (D21027) - 10 August 2026 - 12 PM
+Snippet: Dear All,
+You are cordially invited to attend the&nbsp;Second Open&nbsp;Seminar&nbsp;of&nbsp;Aditi Rana (D21027) as per the details below:
+Date, time: Monday, 10th August 2026, 12 PM 
+Venue: Conference Room No. A11-05-43.
+Title:&nbsp;Bounding the role of water-soluble organic carbon in snow albe
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fc63a55dc9f24a
+From: "'Nalini' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 3 Aug 2026 11:35:15 +0530
+Subject: [Announcement] Invitation to attend Synopsis Seminar of Mr. Anand Mohan (S21027)
+Snippet: Dear All,
+
+A gentle reminder.
+
+On Thu, Jul 30, 2026 at 10:23 AM sceeoffice  wrote:
+
+> Dear All,
+>
+> You are cordially invited to attend the *Synopsis Seminar* of *Mr. Anand
+> Mohan (S21027)* as per the following details:
+>
+> *Date:* 3 August, 2026 (Monday)
+>
+> *Time:* 3:00 PM
+>
+> *Ven
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fc5eaf8aab5533
+From: "'Sunny Zafar' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 03 Aug 2026 10:08:52 +0530
+Subject: [Announcement] ME-511 (manufacturing of composites) class schedule-Autumn 2026
+Snippet: Class schedule will be as follows:
+Tuesdays: 11 am to 12:30 pm
+Wedensday: 11 am to 12:30 pm
+Venue: Conf. Room. at A11.4.31 (opp. SMME office)
+For queries, contact TA: Mr. Aatish (+91 94190 24960)
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 19fc371f6875c0cc
 From: "'Srinivasu  Bodapati' via all" <all@students.iitmandi.ac.in>
@@ -152,18 +199,5 @@ Venue: A11-05-43 (SCENE Conference Room)&nbsp;
 Google Meet Link: meet.google.com/dwy-thet-rpz
 Title: Climate
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fbbd69e5f82c09
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Sat, 1 Aug 2026 11:10:14 +0530
-Subject: IICPC Global QuantFest 2026
-Snippet: Greetings from the *Programming Club, IIT Mandi*!
-We are pleased to announce that *IIT Mandi* is an *official Preliminary
-Round centre* for *IICPC Global QuantFest 2026*, one of India's premier
-quantitative technology competitions.
-
-The competition is organized by *IICPC* with the support of le
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
