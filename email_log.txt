@@ -1,4 +1,12 @@
-Found 18 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 19fc7f55b943fa42
+From: "'Varun Dutt' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 03 Aug 2026 19:39:25 +0530
+Subject: [Announcement] Synopsis Seminar by Mr. Premchand | 4:30 PM | 4 August  2026 | SCEE Conference Room, North Campus
+Snippet: Dear All,You are cordially invited to attend a synopsis seminar by M.Tech. Research Scholar, Mr. Premchand (S24030), as per the following schedule:Date: 04/08/2026Time: 4:30 pm to 5:30 pmVenue: SCEE Conference Room, North CampusColleagues who want to attend virtually can join via this link: meet.goo
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fc75f5f3c00221
 From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -212,16 +220,6 @@ wrote:
 > Warm Regards
 >
 >
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fc2dd1efefab42
-From: "'ABHAY SINGH PARIHAR' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 02 Aug 2026 19:54:52 +0530
-Subject: [Announcement] Lost : Bag containing important documents and money.
-Snippet: Dear everyone,
-I have lost a small HP laptop bag containing my important documents and some cash. It went missing from Room No. 103, Nako Hostel, G-4, South Campus.
-I have attached a photo of the bag below. If anyone finds it or has any information about it, I kindly request you to please contact
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
