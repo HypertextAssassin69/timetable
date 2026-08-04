@@ -1,4 +1,51 @@
-Found 27 emails in the last 2 days:
+Found 30 emails in the last 2 days:
+
+Message ID: 19fcbcbb16e365e6
+From: "'Nitu Kumari' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 04 Aug 2026 13:32:24 +0530
+Subject: [Announcement] One-Day Workshop on “Awareness and Sensitization on Gender and the POSH Act (2013)" 8th August, 2026 (Saturday)
+Snippet: Dear All,
+The Internal Committee is organizing a One-Day Workshop on &ldquo;AWARENESS AND SENSITISATION ON GENDER AND THE POSH ACT (2013)&rdquo;. The Invited Expert for Conducting this Workshop is Dr.&nbsp;Sunita&nbsp;H.&nbsp;Khurana, Founder Director of the Centre for Training, Research and Advoca
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fcbc547bfefbde
+From: "'Neethi Vadakkan Alexander' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 04 Aug 2026 13:25:24 +0530
+Subject: [Announcement] New HSS Course on Modernist Literature (HS 451)
+Snippet: Dear Students,
+&nbsp;
+This is to inform you that a new 3-credit HSS Course on&nbsp;Modernist Literature HS 451&nbsp;is open for registration for&nbsp;all B.Tech. students (2nd-4th year)&nbsp;this semester.
+&nbsp;
+Course Code:&nbsp;HS451
+Title:&nbsp;Modern Literature
+Slot:&nbsp;D
+Credits-3-0-0
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fcba0af299eae0
+From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 04 Aug 2026 12:45:25 +0530
+Subject: [Announcement] PhD Viva Voce examination of Mr. Gautham Varma K., PhD Scholar SPS || 10th August, 2026 II 11:00 AM || A4-Conference Room,  South Campus
+Snippet: Dear all,
+You are cordially invited to attend the PhD viva voce examination of Mr. Gautham Varma K. (D20069), Ph.D. Scholar in the School of Physical Sciences, as per the following schedule.
+&nbsp;
+Date &amp; Time:&nbsp;&nbsp;Monday, 10th August 2026 at 11:00 AM
+&nbsp;
+Venue:&nbsp; &nbsp; A4-Co
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fcb9dc0d800a3a
+From: "'office_scene' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 04 Aug 2026 12:42:13 +0530
+Subject: [Announcement] Ph.D. Synopsis Seminar of Mr. Rohit Kumar (D22078) || 07-08-2026 || A11-05-43.
+Snippet: Dear Sir,
+You are cordially invited to attend the Ph.D. Synopsis Seminar of Mr. Rohit Kumar (D22078) as per the details below:-Date:- 07th August, 2026 (Friday)Time:- 04: 00 PMVenue: &nbsp;A11-05-43 (SCEnE, Conference Room)Link :- meet.google.com/kwk-venx-xwh
+Title: Corrosion-Induced Fatigue Asses
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fcb3a3855e95d7
 From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
@@ -181,53 +228,6 @@ On Thu, Jul 30, 2026 at 10:23 AM sceeoffice  wrote:
 > Mohan (S21027)* as per the following details:
 >
 > *Date:* 3 August, 2026 (Monday)
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fc6b968789a0d0
-From: "'aecoffice' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 03 Aug 2026 13:54:20 +0530
-Subject: [Announcement] Important: Regular Updates to Classroom Allocations – Odd Semester 2026
-Snippet: Dear All,
-&nbsp;
-Please note that the classroom allocations in the&nbsp;"final time table Aug-Nov 2026"&nbsp;are being updated regularly due to changes in course registrations and the need to accommodate larger class sizes.
-Therefore, all students are requested to check the classroom allocations
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fc69b4f3098ea3
-From: "'Rajnish Sharma' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 03 Aug 2026 13:21:27 +0530
-Subject: [Announcement] Invitation to attend the first open seminar of Mr. Ganesh Jaiswal (D22088), Ph.D. scholar in the School of Civil and Environment Engineering (SCEnE)
-Snippet: Dear All&nbsp;
-You are cordially invited to attend the first open seminar of Mr. Ganesh Jaiswal (D22088), Ph.D. scholar in the School of Civil and Environment Engineering (SCEnE), as per the following schedule: -
-Date:- &nbsp; &nbsp;06-08-2026.Time:- &nbsp; 11:00 AM to 12:00 PM.Venue:- A11-05-43 (
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fc686a90d9abe7
-From: "'cair  office' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 03 Aug 2026 12:58:54 +0530
-Subject: [Announcement] Synopsis seminar of M. Tech Research Mr. Jagadeesh Rachapudi (s23096)- CAIR
-Snippet: Dear All,&nbsp;You are cordially invited to attend the Synopsis seminar of M. Tech Research Mr. Jagadeesh Rachapudi (s23096) as per the following schedule:-Date:&nbsp;&nbsp; &nbsp; &nbsp; 04-08-2026Time:&nbsp; &nbsp; &nbsp; 04:00 PMVenue:&nbsp; &nbsp; Drone Lab (North Campus), IIT Mandi.Online lin
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fc6844e504ca6e
-From: "'Prasanth P. Jose' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 03 Aug 2026 12:56:20 +0530
-Subject: [Announcement] Open seminar by Mr Sandeep Kushawah, PhD Scholar, SPS on 4th August at 2 PM
-Snippet: Dear All,
-&nbsp;
-You are cordially invited to the Open Seminar of Mr Sandeep Kushawah (D20064).
-&nbsp;
-The seminar schedule is as follows:
-&nbsp;
-Date: Tuesday, August 4th, 2026
-Time: 2 PM
-Venue: A4 Conference room, South Campus
-&nbsp;
-Title:&nbsp;Dynamic heterogeneity and cooper
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
