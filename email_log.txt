@@ -1,5 +1,18 @@
 Found 34 emails in the last 2 days:
 
+Message ID: 19fccb6b75e9ec87
+From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 04 Aug 2026 17:49:05 +0530
+Subject: [Announcement] Invitation to Attend Ph.D. Synopsis Seminar by Mr. Ravi Anand (D22142), || September 07, 2026 (Monday) || SCEE Conference Room (Room No. A17-02-43) || @11:00 AM
+Snippet: Dear All, 
+I cordially invite you to attend the Ph.D. synopsis seminar of Mr. Ravi Anand (D22142), as per the following schedule: -
+Date: 07 September, 2026 (Monday)
+Venue:&nbsp; SCEE Conference Room (Room No. A17-02-43), 2nd Floor, A17 Building.
+Time: 11:00 AM 
+Link: [Invitation] Synopsis Semi
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
 Message ID: 19fcc80c236d0037
 From: "'Nikhil Kumar' via all" <all@students.iitmandi.ac.in>
 Date: Tue, 04 Aug 2026 16:50:11 +0530
@@ -200,25 +213,6 @@ You are cordially invited&nbsp;to attend the Ph.D. thesis defense seminar by&nbs
 Date:&nbsp;August 4, 2026 (Tuesday)
 Time:&nbsp;11:30&nbsp;AM onwards
 Venue:&nbsp;SMME Meeting Room (A11.
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fcaa5a6994aab5
-From: "'Srikanth Sugavanam' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 04 Aug 2026 08:11:14 +0530
-Subject: [Announcement] EE5XX - Photonic Computing - F slot - Classes tomorrow - A17D
-Snippet: Dear students,
-&nbsp;
-To confirm that EE5XX - Photonic Computing is being offered this semester.
-&nbsp;
-
-Slot F
-Room A17D
-First class tomorrow
-
-&nbsp;
-In addition, I will be redelivering only the intro lecture at a deferred time slot, in case you miss the F slot owing to clashes.&nbsp;
-&n
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
