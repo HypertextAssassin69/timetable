@@ -1,4 +1,51 @@
-Found 30 emails in the last 2 days:
+Found 34 emails in the last 2 days:
+
+Message ID: 19fcc80c236d0037
+From: "'Nikhil Kumar' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 04 Aug 2026 16:50:11 +0530
+Subject: [Announcement] Regarding National Scholarship Portal for Academic Year 2026-27
+Snippet: Dear Students,
+This is to inform you that the&nbsp;National&nbsp;Scholarship&nbsp;Portal (NSP) has been opened for the academic year 2026-27. You can visit the portal at the following link:&nbsp;https://scholarships.gov.in/
+&nbsp;
+Interested candidates are required to check their eligibility&nbsp
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fcc3e4026105e1
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 04 Aug 2026 15:37:32 +0530
+Subject: [Announcement] Invitation to attend the PhD Synopsis Seminar by Mr. Shivam Dubey (D22095) in the School of Mechanical and Materials Engineering (SMME)| 05th August 2026
+Snippet: Dear All,
+You are invited to the Synopsis seminar by Mr. Shivam Dubey (D22095) as per the following schedule:
+Date: 05.08.2026 (Wednesday)
+Time: 10.00 AM
+Venue: SMME Conference Room (A11.04.31)
+Abstract
+The growing demand for sustainable, frugal, and flexible electronics has created the need f
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fcc375cdc517eb
+From: "'Harshita' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 04 Aug 2026 15:23:21 +0530
+Subject: [Announcement] Registration Open for New Music Course: IK-521 Connecting Indian Music with Life
+Snippet: &nbsp;
+Dear students,Greetings!
+The Indian Knowledge System and Mental Health Applications Centre (IKSMHA) is introducing a new music course, IK521 &ndash; Connecting Indian Music with Life,&nbsp;this semester.
+Course Overview:
+Connecting Indian Music with Life is a 4-credit interdisciplinary an
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fcc216c932848f
+From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 04 Aug 2026 15:06:03 +0530
+Subject: [Announcement] Registration Open: Contemplative Psychology (IK592_7) – 2-Credit Interdisciplinary Course
+Snippet: Dear Students,
+&nbsp;
+We are pleased to announce an interdisciplinary course at the IKSMHA Centre, IIT Mandi.Course Title:&nbsp;Contemplative PsychologyCourse Code:&nbsp;IK592_7Credits:&nbsp;2 &nbsp;(L-T-P-C: 2-0-0-2)Slot:&nbsp;(NS) No SlotEligibility:&nbsp;Open to Ph.D., Master's, and Undergradua
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 19fcbcbb16e365e6
 From: "'Nitu Kumari' via all" <all@students.iitmandi.ac.in>
@@ -173,61 +220,5 @@ First class tomorrow
 In addition, I will be redelivering only the intro lecture at a deferred time slot, in case you miss the F slot owing to clashes.&nbsp;
 &n
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fc87a61f3fcea3
-From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 3 Aug 2026 22:04:31 +0530
-Subject: Commencement of Inter IIT sports meet Practice
-Snippet: Dear Students,
-
-You can now begin your Inter IIT Sports Meet practice. Coaches have joined
-for all sports disciplines. Please report to your respective sports fields,
-meet your coaches, and start your practice sessions. All coaches will be
-available on the grounds from 6:00 AM every morning.
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fc7f55b943fa42
-From: "'Varun Dutt' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 03 Aug 2026 19:39:25 +0530
-Subject: [Announcement] Synopsis Seminar by Mr. Premchand | 4:30 PM | 4 August  2026 | SCEE Conference Room, North Campus
-Snippet: Dear All,You are cordially invited to attend a synopsis seminar by M.Tech. Research Scholar, Mr. Premchand (S24030), as per the following schedule:Date: 04/08/2026Time: 4:30 pm to 5:30 pmVenue: SCEE Conference Room, North CampusColleagues who want to attend virtually can join via this link: meet.goo
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fc75f5f3c00221
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 3 Aug 2026 16:55:29 +0530
-Subject: Re: Suspension of classes after 05:00 pm on 12th August 2026
-Snippet: Dear Sir/Madam,
-
-This is to inform you that the earlier notification regarding the
-suspension of classes after 05:00 pm on 12th August 2026, as communicated
-in the trailing email, is hereby withdrawn.
-
-Accordingly, all classes scheduled after 05:00 pm on 12th August 2026 shall
-be conducted as
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fc6e20d823ba92
-From: "'Nalini' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 3 Aug 2026 14:38:27 +0530
-Subject: Re: [Announcement] Invitation to attend Synopsis Seminar of Mr. Anand Mohan (S21027)
-Snippet: Dear All,
-
-Online Link: https://meet.google.com/ger-iesy-iij
-
-
-On Thu, Jul 30, 2026 at 10:23 AM sceeoffice  wrote:
-
-> Dear All,
->
-> You are cordially invited to attend the *Synopsis Seminar* of *Mr. Anand
-> Mohan (S21027)* as per the following details:
->
-> *Date:* 3 August, 2026 (Monday)
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
