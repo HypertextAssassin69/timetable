@@ -1,4 +1,19 @@
-Found 33 emails in the last 2 days:
+Found 26 emails in the last 2 days:
+
+Message ID: 19fd0d5d8862cf28
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 5 Aug 2026 13:00:00 +0530
+Subject: Re: NAVARASA- The Mahabharata Experience: A cultural evening
+Snippet: Dear All,
+
+This is a gentle reminder that *NAVARASA: The Mahabharata Experience* will
+be held *today (05 August 2026) at 5:30 PM* in the *Institute Auditorium,
+North Campus*.
+
+All students, faculty, staff, and their family members are cordially
+invited to attend this unique musical and cultur
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fd05643561f78c
 From: "'Nidhi Bisht' via btech_ee2025" <btech_ee2025@students.iitmandi.ac.in>
@@ -172,29 +187,6 @@ We are delighted to invite you to a unique cultural experience – *NAVARASA:
 The Mahabharata Experience*, presented by Ms. Apoorva M. Krishna and her
 brilliant team. This immersive musical journey explores the nine
 fundamental emotions (Rasas) of Indian aesthetics through the timeless ep
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fcb3157489eb50
-From: "'Prasanth P. Jose' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 04 Aug 2026 10:43:49 +0530
-Subject: [Announcement] Re: [Announcement] Open seminar by Mr Sandeep Kushawah, PhD Scholar, SPS on 4th August at 2 PM
-Snippet: Dear All
-A gentle reminder for Open seminar by Mr Sandeep Kushawah, PhD Scholar, SPS on 4nd Aug at 2 PM today, in A4 Conference room,
-Regards
-Prasanth
-
-&nbsp;
-On 8/3/26 12:56 PM, Prasanth P. Jose wrote:
-
-
-
-
-
-
-Dear All,
-&nbsp;
-You are cordially invited to the Open Seminar of Mr Sande
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
