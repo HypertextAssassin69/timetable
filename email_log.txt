@@ -1,4 +1,59 @@
-Found 30 emails in the last 2 days:
+Found 33 emails in the last 2 days:
+
+Message ID: 19fd05643561f78c
+From: "'Nidhi Bisht' via btech_ee2025" <btech_ee2025@students.iitmandi.ac.in>
+Date: Wed, 5 Aug 2026 10:42:07 +0530
+Subject: EE261P Lab Starts on 12 August
+Snippet: Dear Students,
+This is to inform you that the *EE261P Laboratory* will commence from next
+week *Wednesday, 12 August*.
+Further instructions regarding the lab experiments and evaluation will be
+shared during the first session.
+
+Warm Regards,
+Nidhi
+---------------------------------------------
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fd052a506e1bdf
+From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 05 Aug 2026 10:38:17 +0530
+Subject: [Announcement] Reminder :- Invitation to attend the First Open Seminar of Mr. Jaideep Kalani (D23018), PhD Scholar of SPS || A4-Confernece Room ||  11:00 AM
+Snippet: Dear all,
+A Gentle reminder................
+You are cordially invited to attend the first open seminar of&nbsp;Mr. Jaideep Kalani (D23018), PhD Scholar, SPS, as per the following details:
+Date:&nbsp;5 August, 2026 (Wednesday)
+Time:&nbsp;11:00 AM
+Venue:&nbsp;A4 Conference Room (South campus)
+Ti
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fd032dfff645a4
+From: "'Dinesh Kumar' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 05 Aug 2026 10:03:35 +0530
+Subject: [Announcement] Ph.D. Synopsis Seminar of Mr. Ankit Singh (D21111) || 05-08-2026 || A11-05-43
+Snippet: Dear All,
+Gentle Reminder
+You are cordially invited to attend the Ph.D.&nbsp;Synopsis&nbsp;Seminar&nbsp;of&nbsp;Mr.&nbsp;Ankit&nbsp;Singh&nbsp;(D21111) as per the details below:Date:- 05th August,&nbsp;2026&nbsp;(Wednesday)Time:- 03: 00 PMVenue: &nbsp;A11-05-43&nbsp;(SCEnE, Conference Room)Link :-
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fd023ab93aa7eb
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 05 Aug 2026 09:46:59 +0530
+Subject: [Announcement] Gentle Reminder: Invitation to attend the PhD Synopsis Seminar by Mr. Shivam Dubey (D22095) in the School of Mechanical and Materials Engineering (SMME)| 05th August 2026
+Snippet: Dear All,
+&nbsp;A gentle reminder.
+You are invited to the Synopsis seminar by Mr. Shivam Dubey (D22095) as per the following schedule:
+Date:&nbsp;05.08.2026 (Wednesday)
+Time:&nbsp;10.00 AM
+Venue:&nbsp;SMME Conference Room (A11.04.31)
+Abstract
+The growing demand for sustainable, frugal, and fl
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fccb6b75e9ec87
 From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
@@ -141,78 +196,5 @@ Dear All,
 &nbsp;
 You are cordially invited to the Open Seminar of Mr Sande
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fcb215d0c8e2de
-From: "'Dinesh Kumar' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 04 Aug 2026 10:26:22 +0530
-Subject: [Announcement] First Open Seminar of Mr. Mayank Gangwar (D22081) || Ph.D. Scholar SCENE || 04th Aug 2026
-Snippet: Dear All,
-Gentle Reminder
-You are cordially invited to attend the first open seminar of Mr.&nbsp;Mayank&nbsp;Gangwar (D22081) as per the following schedule:-
-Date:&nbsp;4th August, 2026
-Time:&nbsp;2:30 PM&nbsp; to 3:30 PM
-Venue:&nbsp;A11-05-43 (SCENE Conference Room)&nbsp;
-Google Meet Link:&nb
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fcb070b89377d7
-From: "'Nalini' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 4 Aug 2026 09:57:22 +0530
-Subject: Re: [Announcement] Open seminar of Mr. Pragun Jaswal (S24025) on 4th August 2026
-Snippet: Dear All,
-
-A gentle reminder.
-
-On Sun, Aug 2, 2026 at 10:37 PM Srinivasu Bodapati 
-wrote:
-
-> Dear all,
->
-> You are cordially invited to the open seminar of Mr Pragun Jaswal,
-> MTech[R] scholar in the School of Computing and Electrical Engineering.
-> Title : Energy-Efficient Hardware Archi
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fcaf7f4ab6a5f0
-From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 04 Aug 2026 09:41:07 +0530
-Subject: [Announcement] AYURVEDA PANCHAKARMA THERAPY scheduled for next week
-Snippet: Dear All,
-
-
-The basic AYURVEDA PANCHAKARMA THERAPY AND CONSULTATION schedule for upcoming week&nbsp; 10 August 2026&nbsp; to 14 August 2026 is as follows:-
-
-
-&nbsp;
-
-
-Sr.No
-Therapy Name
-Benefits
-
-
-1
-Akshi Tarpan (Eye Therapy)
-Prevents eye degeneration.
-
-
-Relieves eye strain
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fcaea9ec9dfd9a
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 04 Aug 2026 09:26:34 +0530
-Subject: [Announcement] Gentle reminder: Invitation to attend the PhD thesis defense seminar by Mr. Rahul Saraswat (D22129) in the School of Mechanical and Materials Engineering (SMME) | 04th August 2026
-Snippet: Dear All,
-A gentle reminder.
-You are cordially invited&nbsp;to attend the Ph.D. thesis defense seminar by&nbsp;Mr.&nbsp;Rahul&nbsp;Saraswat&nbsp;(D22129) as per the following schedule:&nbsp;
-Date:&nbsp;August 4, 2026 (Tuesday)
-Time:&nbsp;11:30&nbsp;AM onwards
-Venue:&nbsp;SMME Meeting Room (A11.
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
