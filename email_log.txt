@@ -1,4 +1,26 @@
-Found 29 emails in the last 2 days:
+Found 30 emails in the last 2 days:
+
+Message ID: 19fd21af4c16bd52
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 5 Aug 2026 18:56:32 +0530
+Subject: Re: Institute Colloquium : Prof. Vinod K. Singh (07 - August - 2026 at 05:00 PM)
+Snippet: Dear Madam/Sir and Students,
+
+It is hereby informed that the venue for the Institute Colloquium scheduled
+on 7th August 2026 has been changed from A18-1/2 to the *Auditorium, North
+Campus.* The venue at the South Campus shall remain unchanged.
+
+As per the directions of the Competent Authority,
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fd1c6613f5ae6b
+From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 05 Aug 2026 17:24:19 +0530
+Subject: [Announcement] New Course Offering: Bhagavad-Gītā Part I (IK-530) — First Class 6 Aug
+Snippet: Dear All,This semester, Dr. Saswata Adhikari will be offering a 3-credit course titled "Bhagavad-Gītā Part I (IK-530)."The course offers a thorough exploration of the Bhagavad-Gītā and its timeless wisdom on life, duty, and spirituality. Students will engage with themes of self-discovery, ethical de
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fd196c6308d3d0
 From: "'Chief Warden' via all" <all@students.iitmandi.ac.in>
@@ -183,27 +205,5 @@ Venue: SMME Conference Room (A11.04.31)
 Abstract
 The growing demand for sustainable, frugal, and flexible electronics has created the need f
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fcc375cdc517eb
-From: "'Harshita' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 04 Aug 2026 15:23:21 +0530
-Subject: [Announcement] Registration Open for New Music Course: IK-521 Connecting Indian Music with Life
-Snippet: &nbsp;
-Dear students,Greetings!
-The Indian Knowledge System and Mental Health Applications Centre (IKSMHA) is introducing a new music course, IK521 &ndash; Connecting Indian Music with Life,&nbsp;this semester.
-Course Overview:
-Connecting Indian Music with Life is a 4-credit interdisciplinary an
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fcc216c932848f
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 04 Aug 2026 15:06:03 +0530
-Subject: [Announcement] Registration Open: Contemplative Psychology (IK592_7) – 2-Credit Interdisciplinary Course
-Snippet: Dear Students,
-&nbsp;
-We are pleased to announce an interdisciplinary course at the IKSMHA Centre, IIT Mandi.Course Title:&nbsp;Contemplative PsychologyCourse Code:&nbsp;IK592_7Credits:&nbsp;2 &nbsp;(L-T-P-C: 2-0-0-2)Slot:&nbsp;(NS) No SlotEligibility:&nbsp;Open to Ph.D., Master's, and Undergradua
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
