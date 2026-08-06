@@ -1,4 +1,19 @@
-Found 21 emails in the last 2 days:
+Found 18 emails in the last 2 days:
+
+Message ID: 19fd67bc9209ab8f
+From: "'Suman Kalyanpal' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 06 Aug 2026 15:20:56 +0530
+Subject: [Announcement] Second Open seminar of Mr Koushik Gayan (D22160), PhD Scholar, SPS on 10th August
+Snippet: Dear All,
+You are cordially invited to the&nbsp;Open seminar of&nbsp;Mr Koushik Gayan (D22160). 
+The semiar schedule is as follows:
+Date: 10th&nbsp;August, 2026 (Monday)
+Time: 4.00&nbsp;PM
+Venue: A4 Conference Room, South Campus
+Title
+Boosting Stability of Perovskite Solar Cells: Interface En
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fd56c5e08a5d31
 From: "'Academic Office' via btech" <btech@students.iitmandi.ac.in>
@@ -197,16 +212,6 @@ Date:&nbsp;5 August, 2026 (Wednesday)
 Time:&nbsp;11:00 AM
 Venue:&nbsp;A4 Conference Room (South campus)
 Ti
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fd032dfff645a4
-From: "'Dinesh Kumar' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 05 Aug 2026 10:03:35 +0530
-Subject: [Announcement] Ph.D. Synopsis Seminar of Mr. Ankit Singh (D21111) || 05-08-2026 || A11-05-43
-Snippet: Dear All,
-Gentle Reminder
-You are cordially invited to attend the Ph.D.&nbsp;Synopsis&nbsp;Seminar&nbsp;of&nbsp;Mr.&nbsp;Ankit&nbsp;Singh&nbsp;(D21111) as per the details below:Date:- 05th August,&nbsp;2026&nbsp;(Wednesday)Time:- 03: 00 PMVenue: &nbsp;A11-05-43&nbsp;(SCEnE, Conference Room)Link :-
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
