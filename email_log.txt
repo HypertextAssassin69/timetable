@@ -1,4 +1,60 @@
-Found 28 emails in the last 2 days:
+Found 25 emails in the last 2 days:
+
+Message ID: 19fd56c5e08a5d31
+From: "'Academic Office' via btech" <btech@students.iitmandi.ac.in>
+Date: Thu, 6 Aug 2026 10:24:22 +0530
+Subject: Scholarship for young women in professional UG courses | U-GO Scholarship Program 2026-27
+Snippet: Dear Students,
+
+With reference to the trailing email, eligible female students are
+encouraged to go through the details of the *U-Go Scholarship Program* and
+apply if they meet the prescribed eligibility criteria.
+
+You can find the scholarship details, eligibility requirements, and
+applicatio
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fd56a025958421
+From: "'Dinesh Kumar' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 06 Aug 2026 10:21:54 +0530
+Subject: [Announcement] first open seminar of Mr. Ganesh Jaiswal (D22088)|| Ph.D. scholar|| 11:00 AM|| 06.08.2026
+Snippet: Dear All,
+Gentle Reminder&nbsp;
+You are cordially invited to attend the first open seminar of Mr. Ganesh Jaiswal (D22088), Ph.D. scholar in the School of Civil and Environment Engineering (SCEnE), as per the following schedule: -
+Date:- &nbsp; &nbsp;06-08-2026.Time:- &nbsp; 11:00 AM to 12:00 PM.V
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fd54c1dd6da8af
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 06 Aug 2026 09:49:15 +0530
+Subject: [Announcement] Invitation to attend the Seminar by Dr. Sandeep Sahu in the School of Mechanical and Materials Engineering | 07th Aug.2026
+Snippet: On behalf of Dr. Sandeep Sahu
+Dear Faculty Members, Research Scholars, Students, and Project Staff,
+I recently visited the University of Southampton, UK, under a research collaboration and networking programme supported by the Royal Society London, as well as IIT Mandi.
+I will be delivering a sem
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fd54b90c2c01ff
+From: "'Career & Placement Cell IIT Mandi' via btech2025" <btech2025@students.iitmandi.ac.in>
+Date: Thu, 6 Aug 2026 09:48:05 +0530
+Subject: Society 5.0 Workshop session by CnP Cell, IIT Mandi and Cognavi
+Snippet: Dear Students,
+
+CnP Cell is organizing a workshop in collaboration with Cognavi India as
+per the details given below:
+
+Society 5.0 Workshop session:
+Date: 17 August 2026
+Time: 6:00 PM Onwards
+Venue: A13-1A, North campus
+
+Registration Link:
+https://docs.google.com/forms/d/e/1FAIpQLSdbjR0mb
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fd21af4c16bd52
 From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -151,59 +207,6 @@ Subject: [Announcement] Ph.D. Synopsis Seminar of Mr. Ankit Singh (D21111) || 05
 Snippet: Dear All,
 Gentle Reminder
 You are cordially invited to attend the Ph.D.&nbsp;Synopsis&nbsp;Seminar&nbsp;of&nbsp;Mr.&nbsp;Ankit&nbsp;Singh&nbsp;(D21111) as per the details below:Date:- 05th August,&nbsp;2026&nbsp;(Wednesday)Time:- 03: 00 PMVenue: &nbsp;A11-05-43&nbsp;(SCEnE, Conference Room)Link :-
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fd023ab93aa7eb
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 05 Aug 2026 09:46:59 +0530
-Subject: [Announcement] Gentle Reminder: Invitation to attend the PhD Synopsis Seminar by Mr. Shivam Dubey (D22095) in the School of Mechanical and Materials Engineering (SMME)| 05th August 2026
-Snippet: Dear All,
-&nbsp;A gentle reminder.
-You are invited to the Synopsis seminar by Mr. Shivam Dubey (D22095) as per the following schedule:
-Date:&nbsp;05.08.2026 (Wednesday)
-Time:&nbsp;10.00 AM
-Venue:&nbsp;SMME Conference Room (A11.04.31)
-Abstract
-The growing demand for sustainable, frugal, and fl
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fccb6b75e9ec87
-From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 04 Aug 2026 17:49:05 +0530
-Subject: [Announcement] Invitation to Attend Ph.D. Synopsis Seminar by Mr. Ravi Anand (D22142), || September 07, 2026 (Monday) || SCEE Conference Room (Room No. A17-02-43) || @11:00 AM
-Snippet: Dear All, 
-I cordially invite you to attend the Ph.D. synopsis seminar of Mr. Ravi Anand (D22142), as per the following schedule: -
-Date: 07 September, 2026 (Monday)
-Venue:&nbsp; SCEE Conference Room (Room No. A17-02-43), 2nd Floor, A17 Building.
-Time: 11:00 AM 
-Link: [Invitation] Synopsis Semi
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fcc80c236d0037
-From: "'Nikhil Kumar' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 04 Aug 2026 16:50:11 +0530
-Subject: [Announcement] Regarding National Scholarship Portal for Academic Year 2026-27
-Snippet: Dear Students,
-This is to inform you that the&nbsp;National&nbsp;Scholarship&nbsp;Portal (NSP) has been opened for the academic year 2026-27. You can visit the portal at the following link:&nbsp;https://scholarships.gov.in/
-&nbsp;
-Interested candidates are required to check their eligibility&nbsp
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fcc3e4026105e1
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 04 Aug 2026 15:37:32 +0530
-Subject: [Announcement] Invitation to attend the PhD Synopsis Seminar by Mr. Shivam Dubey (D22095) in the School of Mechanical and Materials Engineering (SMME)| 05th August 2026
-Snippet: Dear All,
-You are invited to the Synopsis seminar by Mr. Shivam Dubey (D22095) as per the following schedule:
-Date: 05.08.2026 (Wednesday)
-Time: 10.00 AM
-Venue: SMME Conference Room (A11.04.31)
-Abstract
-The growing demand for sustainable, frugal, and flexible electronics has created the need f
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
