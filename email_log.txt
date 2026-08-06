@@ -1,4 +1,43 @@
-Found 18 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 19fd713abfc37d13
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 6 Aug 2026 18:06:39 +0530
+Subject: Disciplinary Actions Taken Recently
+Snippet: *Dear Students,*
+
+We are sharing below a summary of the disciplinary actions taken by this
+office over the past few months. Please note that any violation of the
+Hostel Code of Conduct may result in similar disciplinary action in the
+future.
+
+S.No.
+
+Category of Violation
+
+No. of cases rep
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fd6e11d81dfb75
+From: "'Career & Placement Cell IIT Mandi' via btech2025" <btech2025@students.iitmandi.ac.in>
+Date: Thu, 6 Aug 2026 17:11:02 +0530
+Subject: Re: Society 5.0 Workshop session by CnP Cell, IIT Mandi and Cognavi
+Snippet: Dear Students,
+
+Please find the flyer for the event on the link:
+https://drive.google.com/file/d/1DtxAJq8pFBrpG5QcAG4TzA4DMl2a67bC/view?usp=sharing
+
+With regards,
+Veomesh Rawat
+
+On Thu, 6 Aug 2026 at 09:48, Career & Placement Cell IIT Mandi  wrote:
+
+> Dear Students,
+>
+> CnP Cell is organ
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fd67bc9209ab8f
 From: "'Suman Kalyanpal' via all" <all@students.iitmandi.ac.in>
@@ -182,36 +221,6 @@ North Campus*.
 
 All students, faculty, staff, and their family members are cordially
 invited to attend this unique musical and cultur
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fd05643561f78c
-From: "'Nidhi Bisht' via btech_ee2025" <btech_ee2025@students.iitmandi.ac.in>
-Date: Wed, 5 Aug 2026 10:42:07 +0530
-Subject: EE261P Lab Starts on 12 August
-Snippet: Dear Students,
-This is to inform you that the *EE261P Laboratory* will commence from next
-week *Wednesday, 12 August*.
-Further instructions regarding the lab experiments and evaluation will be
-shared during the first session.
-
-Warm Regards,
-Nidhi
----------------------------------------------
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fd052a506e1bdf
-From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 05 Aug 2026 10:38:17 +0530
-Subject: [Announcement] Reminder :- Invitation to attend the First Open Seminar of Mr. Jaideep Kalani (D23018), PhD Scholar of SPS || A4-Confernece Room ||  11:00 AM
-Snippet: Dear all,
-A Gentle reminder................
-You are cordially invited to attend the first open seminar of&nbsp;Mr. Jaideep Kalani (D23018), PhD Scholar, SPS, as per the following details:
-Date:&nbsp;5 August, 2026 (Wednesday)
-Time:&nbsp;11:00 AM
-Venue:&nbsp;A4 Conference Room (South campus)
-Ti
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
