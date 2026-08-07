@@ -1,4 +1,56 @@
-Found 21 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 19fdc32bb581eea9
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 7 Aug 2026 17:58:44 +0530
+Subject: Important: Anti-Ragging Guidelines and Institute Policy
+Snippet: Dear Students,
+
+As the new academic session commences, the Institute extends a warm welcome
+to all newly admitted and continuing students.
+
+The Institute is committed to providing a safe, inclusive, and conducive
+academic environment for all members of its community. In accordance with
+the *U
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fdbea7cab7b756
+From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
+Date: Fri, 7 Aug 2026 16:39:48 +0530
+Subject: Saraswati Hostel Arrival and Attendance Confirmation Required
+Snippet: Dear Student,
+
+You have been allotted a room in Saraswati Hostel; however, your entry has
+not been found in the guard register.
+
+If you are present on campus, kindly report to the hostel guard and mark
+your attendance with the security guard at the earliest.
+
+If you have not yet arrived on c
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fdbda4cca693e5
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 7 Aug 2026 16:22:08 +0530
+Subject: Re: Institute Colloquium : Prof. Vinod K. Singh (07 - August - 2026 at 05:00 PM)
+Snippet: Dear All,
+
+Please reach the auditorium by 04:50 pm.
+
+----------------
+Regards,
+
+On Fri, Aug 7, 2026 at 10:01 AM Institute Colloquium - IIT Mandi  wrote:
+
+> Dear Sir/Madam and Students,
+>
+> *Gentle Reminder for today's Institute Colloquium at 05:00 pm.*
+>
+> *Venue: - Auditorium (North Ca
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fdb94575b21eb1
 From: "'office_scene' via all" <all@students.iitmandi.ac.in>
@@ -186,46 +238,5 @@ apply if they meet the prescribed eligibility criteria.
 You can find the scholarship details, eligibility requirements, and
 applicatio
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fd56a025958421
-From: "'Dinesh Kumar' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 06 Aug 2026 10:21:54 +0530
-Subject: [Announcement] first open seminar of Mr. Ganesh Jaiswal (D22088)|| Ph.D. scholar|| 11:00 AM|| 06.08.2026
-Snippet: Dear All,
-Gentle Reminder&nbsp;
-You are cordially invited to attend the first open seminar of Mr. Ganesh Jaiswal (D22088), Ph.D. scholar in the School of Civil and Environment Engineering (SCEnE), as per the following schedule: -
-Date:- &nbsp; &nbsp;06-08-2026.Time:- &nbsp; 11:00 AM to 12:00 PM.V
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fd54c1dd6da8af
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 06 Aug 2026 09:49:15 +0530
-Subject: [Announcement] Invitation to attend the Seminar by Dr. Sandeep Sahu in the School of Mechanical and Materials Engineering | 07th Aug.2026
-Snippet: On behalf of Dr. Sandeep Sahu
-Dear Faculty Members, Research Scholars, Students, and Project Staff,
-I recently visited the University of Southampton, UK, under a research collaboration and networking programme supported by the Royal Society London, as well as IIT Mandi.
-I will be delivering a sem
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fd54b90c2c01ff
-From: "'Career & Placement Cell IIT Mandi' via btech2025" <btech2025@students.iitmandi.ac.in>
-Date: Thu, 6 Aug 2026 09:48:05 +0530
-Subject: Society 5.0 Workshop session by CnP Cell, IIT Mandi and Cognavi
-Snippet: Dear Students,
-
-CnP Cell is organizing a workshop in collaboration with Cognavi India as
-per the details given below:
-
-Society 5.0 Workshop session:
-Date: 17 August 2026
-Time: 6:00 PM Onwards
-Venue: A13-1A, North campus
-
-Registration Link:
-https://docs.google.com/forms/d/e/1FAIpQLSdbjR0mb
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
