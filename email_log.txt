@@ -1,4 +1,76 @@
-Found 18 emails in the last 2 days:
+Found 21 emails in the last 2 days:
+
+Message ID: 19fdb94575b21eb1
+From: "'office_scene' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 07 Aug 2026 15:05:53 +0530
+Subject: [Announcement] Reminder || Ph.D. Synopsis Seminar of Mr. Rohit Kumar (D22078) || 07-08-2026 || A11-05-43.
+Snippet: Dear Sir,
+&nbsp;
+A Gentle Reminder.................
+You are cordially invited to attend the Ph.D. Synopsis Seminar of Mr. Rohit Kumar (D22078) as per the details below:-Date:- 07th August, 2026 (Friday)Time:- 04: 00 PMVenue: &nbsp;A11-05-43 (SCEnE, Conference Room)Link :- meet.google.com/kwk-venx
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fdb8b95daa9019
+From: Gajendra Singh <gajendra@iitmandi.ac.in>
+Date: Fri, 7 Aug 2026 14:56:12 +0530
+Subject: IC202p Grpups
+Snippet: TA List
+
+---------
+GAJENDRA
+TA List---------GAJENDRA
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fdb8134827aeaa
+From: "'scs office' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 07 Aug 2026 14:44:58 +0530
+Subject: [Announcement] Invitation to attend the First Open Seminar of Ms. Nitika Bhutani (D21097)
+Snippet: Dear All,
+&nbsp;
+You are cordially invited to attend the first open seminar of Ms. Nitika Bhutani (D21097) Ph.D. scholar in the School of Chemical Sciences, as per the following schedule:
+&nbsp;
+Date:&nbsp; &nbsp;11-08-2026 (Tuesday)Time:&nbsp;&nbsp; 11:15 AM&nbsp;Venue: A-4 Conference Room, Sou
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fdb6b6c0c82625
+From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
+Date: Fri, 7 Aug 2026 14:21:00 +0530
+Subject: Submission of Room Maintenance Complaints
+Snippet: Dear Students,
+
+All concerned students are requested to share their Room No. and clearly
+mention the issue they are facing with any of the following:
+
+• Almirah Lock / Key
+• Door Lock / Key
+• Almirah Rod (Hanging Rod)
+• Almirah Door / Handle
+• Room Wall Leakage Issue
+• AC Leakage Issue
+•
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fdb250cb10e503
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 7 Aug 2026 13:04:11 +0530
+Subject: Guidelines for Attendance and Seating during Institute Colloquium
+Snippet: Dear Students,
+
+
+
+As per instructions, all students are required to strictly comply with the
+following guidelines during the Institute Colloquium:
+
+
+
+1.      The first five rows of seats in the auditorium are reserved
+exclusively for faculty members. After the commencement of the colloquiu
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 19fda7d7bf88c0b4
 From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -155,70 +227,5 @@ Venue: A13-1A, North campus
 Registration Link:
 https://docs.google.com/forms/d/e/1FAIpQLSdbjR0mb
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fd21af4c16bd52
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 5 Aug 2026 18:56:32 +0530
-Subject: Re: Institute Colloquium : Prof. Vinod K. Singh (07 - August - 2026 at 05:00 PM)
-Snippet: Dear Madam/Sir and Students,
-
-It is hereby informed that the venue for the Institute Colloquium scheduled
-on 7th August 2026 has been changed from A18-1/2 to the *Auditorium, North
-Campus.* The venue at the South Campus shall remain unchanged.
-
-As per the directions of the Competent Authority,
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fd1c6613f5ae6b
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 05 Aug 2026 17:24:19 +0530
-Subject: [Announcement] New Course Offering: Bhagavad-Gītā Part I (IK-530) — First Class 6 Aug
-Snippet: Dear All,This semester, Dr. Saswata Adhikari will be offering a 3-credit course titled "Bhagavad-Gītā Part I (IK-530)."The course offers a thorough exploration of the Bhagavad-Gītā and its timeless wisdom on life, duty, and spirituality. Students will engage with themes of self-discovery, ethical de
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fd196c6308d3d0
-From: "'Chief Warden' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 5 Aug 2026 16:27:16 +0530
-Subject: Important Advisory: Code of Conduct & Strict Adherence to Campus Discipline
-Snippet: Dear Students,
-
-This email serves as an official advisory from the administration regarding
-campus rules, code of conduct, and disciplinary policies. Over the recent
-period (May 1st onwards), several instances of misconduct were recorded,
-leading to strict disciplinary actions against the defau
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fd1856482b3be2
-From: "'Nidhi Bisht' via btech_ee2025" <btech_ee2025@students.iitmandi.ac.in>
-Date: Wed, 5 Aug 2026 16:13:11 +0530
-Subject: Re: EE261P Lab Starts on 12 August
-Snippet: Dear Students,
-
-As per the laboratory safety guidelines, all students and TAs are requested
-to *wear shoes and full-length closed clothing* while attending the EE261P
-- Laboratory sessions, effective *from next week*.
-
-These safety measures are mandatory to minimize the risk of accidents and
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fd179979154ac5
-From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
-Date: Wed, 5 Aug 2026 16:00:19 +0530
-Subject: Re: Please Send Your Room Number and Wardrobe Lock/Key Number
-Snippet: Hello,
-
-The company's technicians have arrived with the keys. Everyone will receive
-their keys by 8:00 PM. If any issue related to the *wardrobe or room key*
-remains after that, please email me after 8:00 PM with the details.
-
-Also, water coolers have been installed on all floors.
-
-Thank & r
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
