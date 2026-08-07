@@ -1,4 +1,51 @@
-Found 19 emails in the last 2 days:
+Found 20 emails in the last 2 days:
+
+Message ID: 19fda7d7bf88c0b4
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 7 Aug 2026 10:01:07 +0530
+Subject: Fwd: Institute Colloquium : Prof. Vinod K. Singh (07 - August - 2026 at 05:00 PM)
+Snippet: Dear Sir/Madam and Students,
+
+*Gentle Reminder for today's Institute Colloquium at 05:00 pm.*
+
+*Venue: - Auditorium (North Campus)*
+
+*              A1 NKN (South Campus) - Live Streaming (Only for Faculty
+members)*
+
+Online link for Colloquia is available on the following link:
+
+
+https://
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fda785533c96db
+From: "'sceeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 07 Aug 2026 09:55:39 +0530
+Subject: [Announcement] Invitation to attend the Viva Voce of Mr. Maha Vishnu (S22051)
+Snippet: Dear All,
+You are cordially invited to attend the&nbsp;Viva Voce&nbsp;of&nbsp;Mr. Maha Vishnu (S22051)&nbsp;as per the following details:
+Date: 12 August, 2026 (Wednesday)
+Time: 1:00 PM
+Venue: SCEE Conference Room
+Title: Closed loop Non Invasive Neuromodulation system.
+&nbsp;
+Abstract: Monito
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fda624e9eb4b96
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 07 Aug 2026 09:31:36 +0530
+Subject: [Announcement] Invitation to attend the Synopsis Seminar of Mr. Naveen Kumar Bankapalli (D21038), PhD scholar in the school of Mechanical and and Materials Engineering (SMME) | 11th August 2026
+Snippet: Dear All,
+You are cordially invited to the synopsis seminar of Mr. Naveen Kumar Bankapalli (D21038), PhD scholar in the School of Mechanical and Materials Engineering, as per the following schedule:
+Date:&nbsp;11.08.2026 (Tuesday)
+Time:&nbsp;11:00 AM
+Venue: A11.04.17, SMME Meeting Room, North Ca
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fd713abfc37d13
 From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
@@ -173,54 +220,5 @@ Also, water coolers have been installed on all floors.
 
 Thank & r
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fd17885f6c8e16
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 5 Aug 2026 15:59:07 +0530
-Subject: अधिसूचना/NOTIFICATION : Celebration of Independence Day on 15th August 2026 (Saturday) at IIT Mandi (H. P.). – reg.
-Snippet: Dear Students,
-
-Notification no.  IITMandi/F/Administration/INT-A10/2026/3834-40 dated
-05.08.2026, regarding* "* *Celebration of Independence Day on 15th August
-2026 (Saturday) at IIT Mandi**” * has been uploaded on the Institute
-website.
-
-Please click the below web link to view and download
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fd14424ffd39ac
-From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
-Date: Wed, 5 Aug 2026 15:01:57 +0530
-Subject: Please Send Your Room Number and Wardrobe Lock/Key Number
-Snippet: Dear Students ,
-
-If your wardrobe is still locked and cannot be opened, please email your *Room
-Number* and the *Key/Lock Number* written on the wardrobe lock so that we
-can assist you further.
-
-Thank you.
-
-Ravi Kumar
-
-Caretaker Saraswati hostel
-Dear Students ,If your wardrobe is still lo
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fd0d5d8862cf28
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 5 Aug 2026 13:00:00 +0530
-Subject: Re: NAVARASA- The Mahabharata Experience: A cultural evening
-Snippet: Dear All,
-
-This is a gentle reminder that *NAVARASA: The Mahabharata Experience* will
-be held *today (05 August 2026) at 5:30 PM* in the *Institute Auditorium,
-North Campus*.
-
-All students, faculty, staff, and their family members are cordially
-invited to attend this unique musical and cultur
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
