@@ -1,4 +1,21 @@
-Found 16 emails in the last 2 days:
+Found 14 emails in the last 2 days:
+
+Message ID: 19fe11f2fea064cf
+From: Niketan IIT Mandi <d22073@students.iitmandi.ac.in>
+Date: Sat, 8 Aug 2026 16:55:30 +0530
+Subject: DP IC202 P (2026)G49 Weekly Submission of Tasks, Milestones, and Attendance
+Snippet: Dear Students,
+
+To ensure proper monitoring of your project progress, you are requested to
+submit your *weekly tasks and milestones* by filling in the attached *Excel
+sheet*.
+
+Please follow the instructions below:
+
+   1. *Weekly Progress Submission*
+      - Fill in the attached Excel sheet
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 19fe01f969ec4d70
 From: "'K Sai Shivani' via all" <all@students.iitmandi.ac.in>
@@ -195,45 +212,6 @@ You are cordially invited to the synopsis seminar of Mr. Naveen Kumar Bankapalli
 Date:&nbsp;11.08.2026 (Tuesday)
 Time:&nbsp;11:00 AM
 Venue: A11.04.17, SMME Meeting Room, North Ca
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fd713abfc37d13
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 6 Aug 2026 18:06:39 +0530
-Subject: Disciplinary Actions Taken Recently
-Snippet: *Dear Students,*
-
-We are sharing below a summary of the disciplinary actions taken by this
-office over the past few months. Please note that any violation of the
-Hostel Code of Conduct may result in similar disciplinary action in the
-future.
-
-S.No.
-
-Category of Violation
-
-No. of cases rep
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fd6e11d81dfb75
-From: "'Career & Placement Cell IIT Mandi' via btech2025" <btech2025@students.iitmandi.ac.in>
-Date: Thu, 6 Aug 2026 17:11:02 +0530
-Subject: Re: Society 5.0 Workshop session by CnP Cell, IIT Mandi and Cognavi
-Snippet: Dear Students,
-
-Please find the flyer for the event on the link:
-https://drive.google.com/file/d/1DtxAJq8pFBrpG5QcAG4TzA4DMl2a67bC/view?usp=sharing
-
-With regards,
-Veomesh Rawat
-
-On Thu, 6 Aug 2026 at 09:48, Career & Placement Cell IIT Mandi  wrote:
-
-> Dear Students,
->
-> CnP Cell is organ
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
