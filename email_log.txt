@@ -1,4 +1,4 @@
-Found 14 emails in the last 2 days:
+Found 9 emails in the last 2 days:
 
 Message ID: 19fe547781c6d936
 From: Surajtaal  caretaker <caretaker_surajtaal@iitmandi.ac.in>
@@ -136,77 +136,5 @@ On Fri, Aug 7, 2026 at 10:01 AM Institute Colloquium - IIT Mandi  wrote:
 >
 > *Venue: - Auditorium (North Ca
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fdb94575b21eb1
-From: "'office_scene' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 07 Aug 2026 15:05:53 +0530
-Subject: [Announcement] Reminder || Ph.D. Synopsis Seminar of Mr. Rohit Kumar (D22078) || 07-08-2026 || A11-05-43.
-Snippet: Dear Sir,
-&nbsp;
-A Gentle Reminder.................
-You are cordially invited to attend the Ph.D. Synopsis Seminar of Mr. Rohit Kumar (D22078) as per the details below:-Date:- 07th August, 2026 (Friday)Time:- 04: 00 PMVenue: &nbsp;A11-05-43 (SCEnE, Conference Room)Link :- meet.google.com/kwk-venx
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fdb8b95daa9019
-From: Gajendra Singh <gajendra@iitmandi.ac.in>
-Date: Fri, 7 Aug 2026 14:56:12 +0530
-Subject: IC202p Grpups
-Snippet: TA List
-
----------
-GAJENDRA
-TA List---------GAJENDRA
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fdb8134827aeaa
-From: "'scs office' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 07 Aug 2026 14:44:58 +0530
-Subject: [Announcement] Invitation to attend the First Open Seminar of Ms. Nitika Bhutani (D21097)
-Snippet: Dear All,
-&nbsp;
-You are cordially invited to attend the first open seminar of Ms. Nitika Bhutani (D21097) Ph.D. scholar in the School of Chemical Sciences, as per the following schedule:
-&nbsp;
-Date:&nbsp; &nbsp;11-08-2026 (Tuesday)Time:&nbsp;&nbsp; 11:15 AM&nbsp;Venue: A-4 Conference Room, Sou
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fdb6b6c0c82625
-From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
-Date: Fri, 7 Aug 2026 14:21:00 +0530
-Subject: Submission of Room Maintenance Complaints
-Snippet: Dear Students,
-
-All concerned students are requested to share their Room No. and clearly
-mention the issue they are facing with any of the following:
-
-• Almirah Lock / Key
-• Door Lock / Key
-• Almirah Rod (Hanging Rod)
-• Almirah Door / Handle
-• Room Wall Leakage Issue
-• AC Leakage Issue
-•
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fdb250cb10e503
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 7 Aug 2026 13:04:11 +0530
-Subject: Guidelines for Attendance and Seating during Institute Colloquium
-Snippet: Dear Students,
-
-
-
-As per instructions, all students are required to strictly comply with the
-following guidelines during the Institute Colloquium:
-
-
-
-1.      The first five rows of seats in the auditorium are reserved
-exclusively for faculty members. After the commencement of the colloquiu
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
