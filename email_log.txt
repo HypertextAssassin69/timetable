@@ -1,4 +1,4 @@
-Found 9 emails in the last 2 days:
+Found 6 emails in the last 2 days:
 
 Message ID: 19fe547781c6d936
 From: Surajtaal  caretaker <caretaker_surajtaal@iitmandi.ac.in>
@@ -83,58 +83,6 @@ A few things.
    or your faculty mentor's lab.
    - No other classes are allowed during DP lab hours.
    - I will have biweek
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fdc32bb581eea9
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 7 Aug 2026 17:58:44 +0530
-Subject: Important: Anti-Ragging Guidelines and Institute Policy
-Snippet: Dear Students,
-
-As the new academic session commences, the Institute extends a warm welcome
-to all newly admitted and continuing students.
-
-The Institute is committed to providing a safe, inclusive, and conducive
-academic environment for all members of its community. In accordance with
-the *U
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fdbea7cab7b756
-From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
-Date: Fri, 7 Aug 2026 16:39:48 +0530
-Subject: Saraswati Hostel Arrival and Attendance Confirmation Required
-Snippet: Dear Student,
-
-You have been allotted a room in Saraswati Hostel; however, your entry has
-not been found in the guard register.
-
-If you are present on campus, kindly report to the hostel guard and mark
-your attendance with the security guard at the earliest.
-
-If you have not yet arrived on c
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fdbda4cca693e5
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 7 Aug 2026 16:22:08 +0530
-Subject: Re: Institute Colloquium : Prof. Vinod K. Singh (07 - August - 2026 at 05:00 PM)
-Snippet: Dear All,
-
-Please reach the auditorium by 04:50 pm.
-
-----------------
-Regards,
-
-On Fri, Aug 7, 2026 at 10:01 AM Institute Colloquium - IIT Mandi  wrote:
-
-> Dear Sir/Madam and Students,
->
-> *Gentle Reminder for today's Institute Colloquium at 05:00 pm.*
->
-> *Venue: - Auditorium (North Ca
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
