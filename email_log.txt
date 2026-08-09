@@ -1,5 +1,39 @@
 Found 14 emails in the last 2 days:
 
+Message ID: 19fe547781c6d936
+From: Surajtaal  caretaker <caretaker_surajtaal@iitmandi.ac.in>
+Date: Sun, 9 Aug 2026 12:18:01 +0530
+Subject: Removal of Mattresses and Personal Belongings from Suraj Taal Hostel Common Room
+Snippet: Dear Students,
+
+All students of Suraj Taal Hostel who have shifted to Ganga, Saraswati, or
+Nako Hostel and were residing in Suraj Taal Hostel last year are requested
+to collect their mattresses and other belongings kept in the common room by
+Tuesday.
+
+If you are unable to collect your belong
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fe50d1c7920a81
+From: KHWAJA MOHAMMAD NOOR <v26017@students.iitmandi.ac.in>
+Date: Sun, 9 Aug 2026 11:14:16 +0530
+Subject: Re: Submission of Room Maintenance Complaints
+Snippet: Respected sir,
+In room number 523 there is an issue with AC, Tiles Flooring, wifi and
+Almirah Lock has been installed in our room
+Please do the needful.
+KM NOOR
+523, SARASWATI HOSTEL
+
+On Fri, 7 Aug, 2026, 2:21 pm caretaker saraswati,  wrote:
+
+> Dear Students,
+>
+> All concerned students ar
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
 Message ID: 19fe4bb3f24ddc98
 From: Jia from Unstop <noreply@unstop.news>
 Date: Sun, 09 Aug 2026 09:45:04 +0530
@@ -173,41 +207,6 @@ following guidelines during the Institute Colloquium:
 
 1.      The first five rows of seats in the auditorium are reserved
 exclusively for faculty members. After the commencement of the colloquiu
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fda7d7bf88c0b4
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 7 Aug 2026 10:01:07 +0530
-Subject: Fwd: Institute Colloquium : Prof. Vinod K. Singh (07 - August - 2026 at 05:00 PM)
-Snippet: Dear Sir/Madam and Students,
-
-*Gentle Reminder for today's Institute Colloquium at 05:00 pm.*
-
-*Venue: - Auditorium (North Campus)*
-
-*              A1 NKN (South Campus) - Live Streaming (Only for Faculty
-members)*
-
-Online link for Colloquia is available on the following link:
-
-
-https://
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fda785533c96db
-From: "'sceeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 07 Aug 2026 09:55:39 +0530
-Subject: [Announcement] Invitation to attend the Viva Voce of Mr. Maha Vishnu (S22051)
-Snippet: Dear All,
-You are cordially invited to attend the&nbsp;Viva Voce&nbsp;of&nbsp;Mr. Maha Vishnu (S22051)&nbsp;as per the following details:
-Date: 12 August, 2026 (Wednesday)
-Time: 1:00 PM
-Venue: SCEE Conference Room
-Title: Closed loop Non Invasive Neuromodulation system.
-&nbsp;
-Abstract: Monito
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
