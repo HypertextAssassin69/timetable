@@ -1,5 +1,13 @@
 Found 14 emails in the last 2 days:
 
+Message ID: 19fe4bb3f24ddc98
+From: Jia from Unstop <noreply@unstop.news>
+Date: Sun, 09 Aug 2026 09:45:04 +0530
+Subject: Earn stipend upto INR 60,000!
+Snippet: Your profile is a match!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279;
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
 Message ID: 19fe11f2fea064cf
 From: Niketan IIT Mandi <d22073@students.iitmandi.ac.in>
 Date: Sat, 8 Aug 2026 16:55:30 +0530
@@ -201,17 +209,5 @@ Title: Closed loop Non Invasive Neuromodulation system.
 &nbsp;
 Abstract: Monito
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fda624e9eb4b96
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 07 Aug 2026 09:31:36 +0530
-Subject: [Announcement] Invitation to attend the Synopsis Seminar of Mr. Naveen Kumar Bankapalli (D21038), PhD scholar in the school of Mechanical and and Materials Engineering (SMME) | 11th August 2026
-Snippet: Dear All,
-You are cordially invited to the synopsis seminar of Mr. Naveen Kumar Bankapalli (D21038), PhD scholar in the School of Mechanical and Materials Engineering, as per the following schedule:
-Date:&nbsp;11.08.2026 (Tuesday)
-Time:&nbsp;11:00 AM
-Venue: A11.04.17, SMME Meeting Room, North Ca
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
