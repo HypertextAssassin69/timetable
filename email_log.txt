@@ -1,4 +1,38 @@
-Found 9 emails in the last 2 days:
+Found 10 emails in the last 2 days:
+
+Message ID: 19fea89d072e5e79
+From: "'Archi Banerjee' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 10 Aug 2026 12:48:41 +0530
+Subject: [Announcement] Class Timings of IK 526_Kalā and NātyaṠāstra
+Snippet: Dear All,
+&nbsp;
+Please note that the classes of IK 526 (IK526 &ndash; Kalā &amp; NātyaṠāstra) will start from Next Week. The first class will be on coming Monday (17.08.2026) between 3 PM to 5 PM at Yoga Hall (A18, Third floor, North campus).
+&nbsp;
+For further details please contact us at arch
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fea1dc14722663
+From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 10 Aug 2026 10:50:38 +0530
+Subject: [Announcement] Invitation to Enroll in IK526 – Kalā &amp; NātyaṠāstra
+Snippet: Dear students,Greetings!
+The Indian Knowledge System and Mental Health Applications Centre (IKSMHA) is introducing a new course, IK526 &ndash; Kalā &amp; NātyaṠāstra this semester.
+Course Overview:
+Kalā &amp; NātyaṠāstra is a 3-credit course that introduces foundational theories of various Indian
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fea04f604214f6
+From: "'office_scene' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 10 Aug 2026 10:23:34 +0530
+Subject: [Announcement] Invitation to Attend the First Open Seminar of Mr. Vivek Singh (D22041) || Ph.D. Scholar SCENE || 12th Aug., 2026 || A11-05-43
+Snippet: Dear All,
+You are cordially invited to attend the first open seminar of Mr. Vivek Singh (D22041) as per the following schedule:-Date: 12th August, 2026Time: 12:00 PM to 1:00 PMVenue: A11-05-43 (SCENE Conference Room)&nbsp;Google Meet Link: meet.google.com/ked-cksu-tsf&nbsp;
+&nbsp;
+Title: Life-Cyc
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fe9d9fe668b7a4
 From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
@@ -94,32 +128,5 @@ Please follow the instructions below:
    1. *Weekly Progress Submission*
       - Fill in the attached Excel sheet
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fe01f969ec4d70
-From: "'K Sai Shivani' via all" <all@students.iitmandi.ac.in>
-Date: Sat, 08 Aug 2026 12:16:27 +0530
-Subject: [Announcement] Course Announcement: IK-520 (Foundations of Indian Knowledge Systems in Music)
-Snippet: Dear Students,
-Greetings from the IKSHMA Centre!
-&nbsp;
-We are excited to introduce IK-520: Foundations of Indian Knowledge Systems in Music, a newly proposed 4-credit course exploring Indian music as a profound intellectual and cultural tradition. No prior musical training is required.
-&nbsp;
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fdfded36a12aec
-From: Gajendra Singh <gajendra@iitmandi.ac.in>
-Date: Sat, 8 Aug 2026 11:05:23 +0530
-Subject: Re: IC202p Grpups
-Snippet: Dear Students,
-A few things.
-
-   - Friday, 2 to 5 pm is strictly dedicated to Design Practicum. You are
-   supposed to work on the DP project during these hours either in the DP lab
-   or your faculty mentor's lab.
-   - No other classes are allowed during DP lab hours.
-   - I will have biweek
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
