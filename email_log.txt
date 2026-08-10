@@ -1,4 +1,31 @@
-Found 7 emails in the last 2 days:
+Found 9 emails in the last 2 days:
+
+Message ID: 19fe9d9fe668b7a4
+From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 10 Aug 2026 09:36:37 +0530
+Subject: [Announcement] Reminder : PhD Viva Voce examination of Mr. Gautham Varma K., PhD Scholar SPS || 10th August, 2026 II 11:00 AM || A4-Conference Room, South Campus
+Snippet: Dear all,
+&nbsp;
+A Gentle reminder..................
+&nbsp;
+You are cordially invited to attend the PhD viva voce examination of Mr. Gautham Varma K. (D20069), Ph.D. Scholar in the School of Physical Sciences, as per the following schedule.
+&nbsp;
+Date &amp; Time:&nbsp;&nbsp;Monday, 10th Augus
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fe9979eddb3165
+From: "'Sayantan Sarkar' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 10 Aug 2026 08:24:08 +0530
+Subject: [Announcement] Reminder: Second Open Seminar of Aditi Rana
+Snippet: Dear All,
+A gentle reminder for the Second Open Seminar today as per details below:
+&nbsp;
+Date, time:&nbsp;Monday, 10th&nbsp;August 2026, 12 PM
+Venue:&nbsp;Conference Room No. A11-05-43.
+Title:&nbsp;Bounding the role of water-soluble organic carbon in snow albedo forcing in the northwestern Hi
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fe7231f3a69062
 From: "'Siddharth Rajesh Tiwari' via all" <all@students.iitmandi.ac.in>
