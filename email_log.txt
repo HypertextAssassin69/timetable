@@ -1,5 +1,32 @@
 Found 13 emails in the last 2 days:
 
+Message ID: 19feb2f3d1b87b02
+From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 10 Aug 2026 15:49:22 +0530
+Subject: [Announcement] AYURVEDA PANCHAKARMA THERAPY scheduled for next week
+Snippet: Dear All,
+
+
+The basic AYURVEDA PANCHAKARMA THERAPY AND CONSULTATION schedule for upcoming week&nbsp; 17 August 2026&nbsp; to 21 August 2026 is as follows:-
+
+
+&nbsp;
+
+
+Sr.No
+Therapy Name
+Benefits
+
+
+1
+Akshi Tarpan (Eye Therapy)
+Prevents eye degeneration.
+
+
+Relieves eye strain
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
 Message ID: 19feb19819cd67b8
 From: "'Dean Office' via all" <all@students.iitmandi.ac.in>
 Date: Mon, 10 Aug 2026 15:25:37 +0530
@@ -157,23 +184,6 @@ From: Jia from Unstop <noreply@unstop.news>
 Date: Sun, 09 Aug 2026 09:45:04 +0530
 Subject: Earn stipend upto INR 60,000!
 Snippet: Your profile is a match!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279;
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fe11f2fea064cf
-From: Niketan IIT Mandi <d22073@students.iitmandi.ac.in>
-Date: Sat, 8 Aug 2026 16:55:30 +0530
-Subject: DP IC202 P (2026)G49 Weekly Submission of Tasks, Milestones, and Attendance
-Snippet: Dear Students,
-
-To ensure proper monitoring of your project progress, you are requested to
-submit your *weekly tasks and milestones* by filling in the attached *Excel
-sheet*.
-
-Please follow the instructions below:
-
-   1. *Weekly Progress Submission*
-      - Fill in the attached Excel sheet
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
