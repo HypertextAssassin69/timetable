@@ -1,4 +1,51 @@
-Found 10 emails in the last 2 days:
+Found 13 emails in the last 2 days:
+
+Message ID: 19feb19819cd67b8
+From: "'Dean Office' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 10 Aug 2026 15:25:37 +0530
+Subject: [Announcement] Orientation Programme for August 2026 Admitted PhD and M.Tech (R) Scholars – 11th August 2026
+Snippet: Dear Scholars,
+&nbsp;
+This is to inform you that the PhD and M.Tech (R) Orientation Programme is scheduled to be held on&nbsp;11th August 2026,&nbsp;from&nbsp;02:30&nbsp;pm&nbsp;to&nbsp;03:30&nbsp;pm.
+&nbsp;
+The session will provide important information regarding the academic regulations, req
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19feaecec2e088f5
+From: "'Sarthak Nag' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 10 Aug 2026 14:36:55 +0530
+Subject: [Announcement] Seminar after foreign visit
+Snippet: Dear all,
+You are cordially invited to a seminar after my research visit to Kyushu University and Fujikura Ltd.
+Date: 12th August 2026 (Wednesday)Time: 04:30 PM ~Venue: SMME Meeting Room A11.4.17
+I will share key highlights from these visits.
+I look forward to your presence.
+Best Regards,Sartha
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fea99fe202b600
+From: "'Krishna Gajendra Panda' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 10 Aug 2026 13:06:21 +0530
+Subject: [Announcement] [Announcement] Class Timings of IK-101: Sanskrit Language – Level 1
+Snippet: Dear Students,
+Greetings!
+Please note that the classes for IK-101_NEW: Sanskrit Language &ndash; Level 1 for first-year B.Tech. students will commence tomorrow. The relevant details are as follows:
+
+
+First Class
+
+
+Date: Tuesday, 11 August 2026
+
+
+Time: 09:00 AM&ndash;09:45 AM
+
+
+Venue: A
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19fea89d072e5e79
 From: "'Archi Banerjee' via all" <all@students.iitmandi.ac.in>
