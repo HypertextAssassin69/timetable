@@ -1,5 +1,19 @@
 Found 20 emails in the last 2 days:
 
+Message ID: 19ff151a1f9eb516
+From: "'Nitu Kumari' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 11 Aug 2026 20:24:38 +0530
+Subject: [Announcement] Revised Timing: Invitation to Attend Ph.D. Synopsis Seminar by Mr. Kanav Singh Rana (D22069)|| August 14, 2026 (Friday) || A13 Conference Room || 10:00 AM
+Snippet: A Gentle Reminder!
+&nbsp;
+Dear All,You are cordially invited to attend the Synopsis Seminar of SMSS PhD student Mr. Kanav Singh Rana (D22069). Revised timing of synopsis is as given below:&nbsp;
+
+Date: 14 August 2026 (Friday)
+Time: 10:00 AM
+Venue: A13 Conference Room, Third Floor A13 Building,
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
 Message ID: 19ff0318a21a0dca
 From: "'Registrar IIT Mandi' via all" <all@students.iitmandi.ac.in>
 Date: Tue, 11 Aug 2026 15:09:47 +0530
@@ -226,18 +240,6 @@ Time: 09:00 AM&ndash;09:45 AM
 
 
 Venue: A
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fea89d072e5e79
-From: "'Archi Banerjee' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 10 Aug 2026 12:48:41 +0530
-Subject: [Announcement] Class Timings of IK 526_Kalā and NātyaṠāstra
-Snippet: Dear All,
-&nbsp;
-Please note that the classes of IK 526 (IK526 &ndash; Kalā &amp; NātyaṠāstra) will start from Next Week. The first class will be on coming Monday (17.08.2026) between 3 PM to 5 PM at Yoga Hall (A18, Third floor, North campus).
-&nbsp;
-For further details please contact us at arch
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
