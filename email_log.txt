@@ -1,4 +1,22 @@
-Found 19 emails in the last 2 days:
+Found 20 emails in the last 2 days:
+
+Message ID: 19ff0318a21a0dca
+From: "'Registrar IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 11 Aug 2026 15:09:47 +0530
+Subject: Fwd: Kindly disseminate this announcement through the official website and other official channels so that interested candidates may participate in the 3- Day Artificial Intelligence Workshop & 2-Day Helicopter Design Workshop.
+Snippet: *Sincerely,Dr. Kumar Sambhav Pandey*
+
+
+
+
+
+*Registrar Indian Institute of Technology (IIT )-MandiVPO Kamand-175075,
+Distt. Mandi (Himachal Pradesh), IndiaE-mail:registrar@iitmandi.ac.in
+; URL:http://iitmandi.ac.in/
+ Tele: +91-1905-267015 Fax :
++91-1905-267075================================
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 19fef94f081365c4
 From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -220,17 +238,6 @@ Snippet: Dear All,
 Please note that the classes of IK 526 (IK526 &ndash; Kalā &amp; NātyaṠāstra) will start from Next Week. The first class will be on coming Monday (17.08.2026) between 3 PM to 5 PM at Yoga Hall (A18, Third floor, North campus).
 &nbsp;
 For further details please contact us at arch
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fea1dc14722663
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 10 Aug 2026 10:50:38 +0530
-Subject: [Announcement] Invitation to Enroll in IK526 – Kalā &amp; NātyaṠāstra
-Snippet: Dear students,Greetings!
-The Indian Knowledge System and Mental Health Applications Centre (IKSMHA) is introducing a new course, IK526 &ndash; Kalā &amp; NātyaṠāstra this semester.
-Course Overview:
-Kalā &amp; NātyaṠāstra is a 3-credit course that introduces foundational theories of various Indian
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
