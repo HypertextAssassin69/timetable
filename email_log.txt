@@ -1,4 +1,94 @@
-Found 15 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 19fef94f081365c4
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 11 Aug 2026 12:18:47 +0530
+Subject: Institute Colloquium : Dr. Debiprosad Duari (13 - August - 2026 at 05:30 PM)
+Snippet: Dear Sir/ Madam and Students,
+
+
+
+The Institute Colloquium Cell, is pleased to inform you that Dr. Debiprosad
+Duari, will deliver a talk (Institute Colloquium) on “Our Cosmic
+Consciousness”*. *The details of the talk are as follows;
+
+
+
+*Title of the talk: - “Our Cosmic Consciousness”*
+
+*D
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fef914b830226e
+From: "'Dean Office' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 11 Aug 2026 12:14:57 +0530
+Subject: [Announcement] Reminder: Orientation Programme for August 2026 Admitted PhD and M.Tech (R) Scholars – 11th August 2026
+Snippet: A gentle reminder.
+
+&nbsp;
+Dear Scholars,
+&nbsp;
+This is to inform you that the PhD and M.Tech (R)&nbsp;Orientation&nbsp;Programme is scheduled to be held on&nbsp;11th August 2026,&nbsp;from&nbsp;02:30&nbsp;pm&nbsp;to&nbsp;03:30&nbsp;pm.
+&nbsp;
+The session will provide important information r
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fef74938817670
+From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 11 Aug 2026 11:43:23 +0530
+Subject: Re - opening of swimming Pool
+Snippet: Dear All,
+
+
+
+
+
+
+*We are pleased to inform you that the technical issues in the Swimming
+Poolhave been successfully resolved. The Swimming Pool will now reopen
+fromWednesday, 12th August 2026.All swimmers may use the pool according to
+their allotted slots. Kindly ensurethat you bring the pr
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fef57bba0af674
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 11 Aug 2026 11:12:04 +0530
+Subject: [Announcement] Venue & Timing Revised: Invitation to attend the Synopsis Seminar of Mr. Naveen Kumar Bankapalli (D21038), PhD scholar in the school of Mechanical and and Materials Engineering (SMME) | 11th August 2026 | 04:00 PM
+Snippet: Dear All,
+You are cordially invited to the synopsis seminar of Mr.&nbsp;Naveen Kumar&nbsp;Bankapalli (D21038), PhD scholar in the School of Mechanical and Materials Engineering, as per the following schedule:
+Date:&nbsp;11.08.2026 (Tuesday)
+Revised Timing:&nbsp;&nbsp; 04:00PM Onwards
+R
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fef32a1e9499ad
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 11 Aug 2026 10:31:28 +0530
+Subject: [Announcement] Timing Revised: Invitation to attend the Synopsis Seminar of Mr. Naveen Kumar Bankapalli (D21038), PhD scholar in the school of Mechanical and and Materials Engineering (SMME) | 11th August 2026 | 03:00 PM
+Snippet: Dear All,
+Gentle reminder.
+You are cordially invited to the synopsis seminar of Mr.&nbsp;Naveen Kumar&nbsp;Bankapalli (D21038), PhD scholar in the School of Mechanical and Materials Engineering, as per the following schedule:
+Date:&nbsp;11.08.2026 (Tuesday)
+Revised Timing:&nbsp;&nbsp; 03:00PM On
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19fef2ec3ed745b7
+From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 11 Aug 2026 10:27:20 +0530
+Subject: [Announcement] Invitation to attend the First Open Seminar of Ms. Pratiksha Chauhan D22037
+Snippet: Dear All,
+You are cordially invited to attend the first open seminar of Ms. Pratiksha Chauhan (D22037) Ph.D. scholar in the School of Mathematical and Statistical Sciences, as per the following schedule:
+&nbsp;
+Date: 13th August 2026 (Thursday)
+Time:&nbsp; 12:00 pm
+Venue: SMSS conference room (
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19feef6f40899c9b
 From: "'scs office' via all" <all@students.iitmandi.ac.in>
@@ -142,87 +232,5 @@ The Indian Knowledge System and Mental Health Applications Centre (IKSMHA) is in
 Course Overview:
 Kalā &amp; NātyaṠāstra is a 3-credit course that introduces foundational theories of various Indian
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fea04f604214f6
-From: "'office_scene' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 10 Aug 2026 10:23:34 +0530
-Subject: [Announcement] Invitation to Attend the First Open Seminar of Mr. Vivek Singh (D22041) || Ph.D. Scholar SCENE || 12th Aug., 2026 || A11-05-43
-Snippet: Dear All,
-You are cordially invited to attend the first open seminar of Mr. Vivek Singh (D22041) as per the following schedule:-Date: 12th August, 2026Time: 12:00 PM to 1:00 PMVenue: A11-05-43 (SCENE Conference Room)&nbsp;Google Meet Link: meet.google.com/ked-cksu-tsf&nbsp;
-&nbsp;
-Title: Life-Cyc
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fe9d9fe668b7a4
-From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 10 Aug 2026 09:36:37 +0530
-Subject: [Announcement] Reminder : PhD Viva Voce examination of Mr. Gautham Varma K., PhD Scholar SPS || 10th August, 2026 II 11:00 AM || A4-Conference Room, South Campus
-Snippet: Dear all,
-&nbsp;
-A Gentle reminder..................
-&nbsp;
-You are cordially invited to attend the PhD viva voce examination of Mr. Gautham Varma K. (D20069), Ph.D. Scholar in the School of Physical Sciences, as per the following schedule.
-&nbsp;
-Date &amp; Time:&nbsp;&nbsp;Monday, 10th Augus
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fe9979eddb3165
-From: "'Sayantan Sarkar' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 10 Aug 2026 08:24:08 +0530
-Subject: [Announcement] Reminder: Second Open Seminar of Aditi Rana
-Snippet: Dear All,
-A gentle reminder for the Second Open Seminar today as per details below:
-&nbsp;
-Date, time:&nbsp;Monday, 10th&nbsp;August 2026, 12 PM
-Venue:&nbsp;Conference Room No. A11-05-43.
-Title:&nbsp;Bounding the role of water-soluble organic carbon in snow albedo forcing in the northwestern Hi
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fe7231f3a69062
-From: "'Siddharth Rajesh Tiwari' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 09 Aug 2026 20:57:38 +0530
-Subject: [Announcement] Join the Celebration! Volunteer or Perform for Janmashtami 2026
-Snippet: Hare Krishna Everyone! 🙏
-&nbsp;
-We are gearing up to celebrate the 5,253rd divine appearance of Lord Krishna with devotion, vibrant colors, culture, and community spirit! Come be a part of making this Janmashtami truly magical&mdash;whether as a volunteer, performer, or contestant, there&rsquo;s a
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fe547781c6d936
-From: Surajtaal  caretaker <caretaker_surajtaal@iitmandi.ac.in>
-Date: Sun, 9 Aug 2026 12:18:01 +0530
-Subject: Removal of Mattresses and Personal Belongings from Suraj Taal Hostel Common Room
-Snippet: Dear Students,
-
-All students of Suraj Taal Hostel who have shifted to Ganga, Saraswati, or
-Nako Hostel and were residing in Suraj Taal Hostel last year are requested
-to collect their mattresses and other belongings kept in the common room by
-Tuesday.
-
-If you are unable to collect your belong
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fe50d1c7920a81
-From: KHWAJA MOHAMMAD NOOR <v26017@students.iitmandi.ac.in>
-Date: Sun, 9 Aug 2026 11:14:16 +0530
-Subject: Re: Submission of Room Maintenance Complaints
-Snippet: Respected sir,
-In room number 523 there is an issue with AC, Tiles Flooring, wifi and
-Almirah Lock has been installed in our room
-Please do the needful.
-KM NOOR
-523, SARASWATI HOSTEL
-
-On Fri, 7 Aug, 2026, 2:21 pm caretaker saraswati,  wrote:
-
-> Dear Students,
->
-> All concerned students ar
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
