@@ -205,10 +205,20 @@
       "note": "There will be no class on 03-08.",
       "id": "gmail_19fc14995a9181fa_1",
       "source": "gmail_sync"
+    },
+    {
+      "course": "EE-261",
+      "action": "CANCEL",
+      "date": "2026-08-11",
+      "new_time": null,
+      "new_venue": null,
+      "note": "due to heavy rains",
+      "id": "gmail_19feed2182ff4fe7_0",
+      "source": "gmail_sync"
     }
   ],
   "metadata": {
-    "last_synced": "2026-08-02T21:30:54Z",
+    "last_synced": "2026-08-11T04:17:17Z",
     "processed_emails": [
       "19fc371f6875c0cc",
       "19fc3040590c53f8",
@@ -296,7 +306,9 @@
       "19feaecec2e088f5",
       "19fea99fe202b600",
       "19feb2f3d1b87b02",
-      "19febd6e4193fc9b"
+      "19febd6e4193fc9b",
+      "19feef6f40899c9b",
+      "19feed2182ff4fe7"
     ]
   }
 }

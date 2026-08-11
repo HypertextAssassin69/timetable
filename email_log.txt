@@ -1,4 +1,37 @@
-Found 14 emails in the last 2 days:
+Found 15 emails in the last 2 days:
+
+Message ID: 19feef6f40899c9b
+From: "'scs office' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 11 Aug 2026 09:26:22 +0530
+Subject: [Announcement] Reminder: Invitation to attend the First Open Seminar of Ms. Nitika Bhutani (D21097)
+Snippet: A gentle reminder.
+&nbsp;
+Dear All,
+&nbsp;
+You are cordially invited to attend the first open seminar of Ms. Nitika Bhutani (D21097) Ph.D. scholar in the School of Chemical Sciences, as per the following schedule:
+&nbsp;
+Date:&nbsp; &nbsp;11-08-2026 (Tuesday)Time:&nbsp;&nbsp;&nbsp;11:15 AM&nbs
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19feed2182ff4fe7
+From: "'Moumita Das' via btech_ee2025" <btech_ee2025@students.iitmandi.ac.in>
+Date: Tue, 11 Aug 2026 08:45:58 +0530
+Subject: Regarding Today's Lecture (EE261)
+Snippet: Dear All,
+
+Today's lecture is cancelled due to heavy rains. Please inform all the
+students if they are not in the mailing list.
+-- 
+Thanks & Regards,
+
+Dr. Moumita Das
+Associate Professor
+School of Computing and Electrical Engineering
+Indian Institute of Technology Mandi
+Kamand, Himachal P
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19febd6e4193fc9b
 From: "'Nitu Kumari' via all" <all@students.iitmandi.ac.in>
@@ -190,14 +223,6 @@ On Fri, 7 Aug, 2026, 2:21 pm caretaker saraswati,  wrote:
 > Dear Students,
 >
 > All concerned students ar
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fe4bb3f24ddc98
-From: Jia from Unstop <noreply@unstop.news>
-Date: Sun, 09 Aug 2026 09:45:04 +0530
-Subject: Earn stipend upto INR 60,000!
-Snippet: Your profile is a match!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279;
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
