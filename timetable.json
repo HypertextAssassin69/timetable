@@ -215,10 +215,20 @@
       "note": "due to heavy rains",
       "id": "gmail_19feed2182ff4fe7_0",
       "source": "gmail_sync"
+    },
+    {
+      "course": "IC-202P",
+      "action": "EXTRA",
+      "date": "2026-08-14",
+      "new_time": null,
+      "new_venue": null,
+      "note": "Instructor will have biweekly meetings with the groups whom he is not supervising on Fridays. Next Friday (2026-08-14) is an even Friday.",
+      "id": "gmail_19ff4aa57570cefb_0",
+      "source": "gmail_sync"
     }
   ],
   "metadata": {
-    "last_synced": "2026-08-11T04:17:17Z",
+    "last_synced": "2026-08-12T07:21:01Z",
     "processed_emails": [
       "19fc371f6875c0cc",
       "19fc3040590c53f8",
@@ -316,7 +326,11 @@
       "19fef32a1e9499ad",
       "19fef2ec3ed745b7",
       "19ff0318a21a0dca",
-      "19ff151a1f9eb516"
+      "19ff151a1f9eb516",
+      "19ff4aa57570cefb",
+      "19ff4647d962ea5c",
+      "19ff461525f3c5a3",
+      "19ff45d0321c8eb9"
     ]
   }
 }

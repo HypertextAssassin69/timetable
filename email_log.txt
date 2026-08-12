@@ -1,4 +1,54 @@
-Found 18 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 19ff4aa57570cefb
+From: Gajendra Singh <gajendra@iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 12:00:17 +0530
+Subject: Re: IC202p Grpups
+Snippet: Dear Students,
+Please find attached the updated Project Group List. A few changes are as
+follows:
+
+   - A new Group is formed (Group-01) on request of the institute's NCC
+   coordinator. The NCC students are supposed to work on a problem together
+   and develop something that would be benefici
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19ff4647d962ea5c
+From: "'office_scene' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 10:44:06 +0530
+Subject: [Announcement] Ph.D. viva-voce examination of Mr. Ankit Kumar Goyal (D18023) || 14-08-2026 || A11-05-43.
+Snippet: Dear all,&nbsp;
+You are cordially invited to attend the PhD viva voce examination of Mr. Ankit Kumar Goyal (D18023), Ph.D. Scholar in the School of Civil and Environmental Engineering, as per the following schedule.&nbsp;Date :- 14th August, 2026 (Friday).Time:- 10:00 AM&nbsp;Venue: &nbsp;A11-05-43
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19ff461525f3c5a3
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 10:40:28 +0530
+Subject: Fwd: अधिसूचना/NOTIFICATION : Celebration of Independence Day on 15th August 2026 (Saturday) at IIT Mandi (H. P.). – reg.
+Snippet: Dear Students,
+
+With reference to the subject of this communication, the invitation for the
+Independence Day Celebration is forwarded herewith for your kind perusal.
+
+You all are requested to please join for the Independence Day Celebration
+as per the schedule mentioned in the trail mail.
+---
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19ff45d0321c8eb9
+From: "'office_scene' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 10:35:56 +0530
+Subject: [Announcement] Reminder || Invitation to Attend the First Open Seminar of Mr. Vivek Singh (D22041) || Ph.D. Scholar SCENE || 12th Aug., 2026 || A11-05-43.
+Snippet: Dear All,
+&nbsp;
+A Gentle Reminder................
+&nbsp;
+You are cordially invited to attend the first open seminar of Mr. Vivek Singh (D22041) as per the following schedule:-Date: 12th August, 2026Time: 12:00 PM to 1:00 PMVenue: A11-05-43 (SCENE Conference Room)&nbsp;Google Meet Link: meet.goo
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19ff151a1f9eb516
 From: "'Nitu Kumari' via all" <all@students.iitmandi.ac.in>
@@ -166,80 +216,6 @@ Time: 09:30 AM
 Venue: A13 Conference Room, Third Floor A13 Building, North Campus
 &nbsp;
 The title a
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19feb2f3d1b87b02
-From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 10 Aug 2026 15:49:22 +0530
-Subject: [Announcement] AYURVEDA PANCHAKARMA THERAPY scheduled for next week
-Snippet: Dear All,
-
-
-The basic AYURVEDA PANCHAKARMA THERAPY AND CONSULTATION schedule for upcoming week&nbsp; 17 August 2026&nbsp; to 21 August 2026 is as follows:-
-
-
-&nbsp;
-
-
-Sr.No
-Therapy Name
-Benefits
-
-
-1
-Akshi Tarpan (Eye Therapy)
-Prevents eye degeneration.
-
-
-Relieves eye strain
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19feb19819cd67b8
-From: "'Dean Office' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 10 Aug 2026 15:25:37 +0530
-Subject: [Announcement] Orientation Programme for August 2026 Admitted PhD and M.Tech (R) Scholars – 11th August 2026
-Snippet: Dear Scholars,
-&nbsp;
-This is to inform you that the PhD and M.Tech (R) Orientation Programme is scheduled to be held on&nbsp;11th August 2026,&nbsp;from&nbsp;02:30&nbsp;pm&nbsp;to&nbsp;03:30&nbsp;pm.
-&nbsp;
-The session will provide important information regarding the academic regulations, req
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19feaecec2e088f5
-From: "'Sarthak Nag' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 10 Aug 2026 14:36:55 +0530
-Subject: [Announcement] Seminar after foreign visit
-Snippet: Dear all,
-You are cordially invited to a seminar after my research visit to Kyushu University and Fujikura Ltd.
-Date: 12th August 2026 (Wednesday)Time: 04:30 PM ~Venue: SMME Meeting Room A11.4.17
-I will share key highlights from these visits.
-I look forward to your presence.
-Best Regards,Sartha
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fea99fe202b600
-From: "'Krishna Gajendra Panda' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 10 Aug 2026 13:06:21 +0530
-Subject: [Announcement] [Announcement] Class Timings of IK-101: Sanskrit Language – Level 1
-Snippet: Dear Students,
-Greetings!
-Please note that the classes for IK-101_NEW: Sanskrit Language &ndash; Level 1 for first-year B.Tech. students will commence tomorrow. The relevant details are as follows:
-
-
-First Class
-
-
-Date: Tuesday, 11 August 2026
-
-
-Time: 09:00 AM&ndash;09:45 AM
-
-
-Venue: A
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
