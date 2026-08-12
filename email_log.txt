@@ -1,4 +1,36 @@
-Found 18 emails in the last 2 days:
+Found 20 emails in the last 2 days:
+
+Message ID: 19ff60cdbcfffccf
+From: "'Navish Sharma' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 18:27:38 +0530
+Subject: [Announcement] Panchvaktra Marg Reopened for Movement – Important Safety Advisory
+Snippet: Dear All,
+Please refer to the link provided below, which is the correct one. The link shared earlier was incorrect.
+This is to inform you all that the Panchvaktra Marg, connecting both Campuses, has been reopened for traffic and pedestrian movement after partially clearance of the recent landslide
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19ff6059b51a089e
+From: "'Navish Sharma' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 18:19:42 +0530
+Subject: [Announcement] Panchvaktra Marg Reopened for Movement – Important Safety Advisory
+Snippet: Dear All,
+This is to inform you all that the Panchvaktra Marg, connecting both Campuses, has been reopened for traffic and pedestrian movement after partially clearance of the recent landslide.
+However, as the affected stretch has been recently partially cleared, some loose debris and unstable mat
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19ff56ba092e5c7b
+From: "'Ajay  Kumar' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 15:31:31 +0530
+Subject: [Announcement] Invitation : First Open Seminar of Ms. Neethu Das, PhD Scholar (D22110) in the School of Humanities and Social Sciences | 17th August 2026 (Monday) | 03:00 PM onwards
+Snippet: Dear All,
+You are cordially invited to attend the First Open Seminar of Ms. Neethu Das, Ph.D. Scholar (D22110) in the School of Humanities and Social Sciences as per the following schedule :
+Date : 17th August 2026 (Monday)
+Time : 03:00 PM onwards
+Venue : A14.05.16 NKN Conference Hall, SHSS Nort
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19ff54f6b4450a1d
 From: "'Young Innovators Fellowship (YIF)' via btech2025" <btech2025@students.iitmandi.ac.in>
@@ -173,45 +205,6 @@ You are cordially invited to the synopsis seminar of Mr.&nbsp;Naveen Kumar&nbsp;
 Date:&nbsp;11.08.2026 (Tuesday)
 Revised Timing:&nbsp;&nbsp; 04:00PM Onwards
 R
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fef32a1e9499ad
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 11 Aug 2026 10:31:28 +0530
-Subject: [Announcement] Timing Revised: Invitation to attend the Synopsis Seminar of Mr. Naveen Kumar Bankapalli (D21038), PhD scholar in the school of Mechanical and and Materials Engineering (SMME) | 11th August 2026 | 03:00 PM
-Snippet: Dear All,
-Gentle reminder.
-You are cordially invited to the synopsis seminar of Mr.&nbsp;Naveen Kumar&nbsp;Bankapalli (D21038), PhD scholar in the School of Mechanical and Materials Engineering, as per the following schedule:
-Date:&nbsp;11.08.2026 (Tuesday)
-Revised Timing:&nbsp;&nbsp; 03:00PM On
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fef2ec3ed745b7
-From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 11 Aug 2026 10:27:20 +0530
-Subject: [Announcement] Invitation to attend the First Open Seminar of Ms. Pratiksha Chauhan D22037
-Snippet: Dear All,
-You are cordially invited to attend the first open seminar of Ms. Pratiksha Chauhan (D22037) Ph.D. scholar in the School of Mathematical and Statistical Sciences, as per the following schedule:
-&nbsp;
-Date: 13th August 2026 (Thursday)
-Time:&nbsp; 12:00 pm
-Venue: SMSS conference room (
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19feef6f40899c9b
-From: "'scs office' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 11 Aug 2026 09:26:22 +0530
-Subject: [Announcement] Reminder: Invitation to attend the First Open Seminar of Ms. Nitika Bhutani (D21097)
-Snippet: A gentle reminder.
-&nbsp;
-Dear All,
-&nbsp;
-You are cordially invited to attend the first open seminar of Ms. Nitika Bhutani (D21097) Ph.D. scholar in the School of Chemical Sciences, as per the following schedule:
-&nbsp;
-Date:&nbsp; &nbsp;11-08-2026 (Tuesday)Time:&nbsp;&nbsp;&nbsp;11:15 AM&nbs
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
