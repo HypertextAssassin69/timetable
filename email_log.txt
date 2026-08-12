@@ -1,4 +1,41 @@
-Found 20 emails in the last 2 days:
+Found 21 emails in the last 2 days:
+
+Message ID: 19ff648092e50c00
+From: "'Venkata Krishnan' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 19:32:14 +0530
+Subject: [Announcement] Ph.D. viva voce of Devendra Sharma (D21015)
+Snippet: Dear All,
+&nbsp;
+The Ph.D. viva voce of the scholar, Mr. Devendra Sharma (D21015) is scheduled as follows.
+&nbsp;
+Date: Aug. 14, 2026 (Friday)
+Time: 14:00 hours (02:00 p.m.)
+Venue: A-4 Conference Room, South Campus
+&nbsp;
+The title and abstract are given below.
+&nbsp;
+All are cordially inv
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19ff62037e51ffe0
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 18:48:37 +0530
+Subject: Institute Colloquium : Dr. Prahlada Ramarao (14 - August - 2026 at 06:00 pm)
+Snippet: Dear Sir/ Madam and Students,
+
+
+
+The Institute Colloquium Cell, is pleased to inform you that Dr. Prahlada
+Ramarao, will deliver a talk (Institute Colloquium) on “Strength in Defence
+leads to Strong and Progressive Nation”*. *The details of the talk are as
+follows;
+
+
+
+*Title of the talk:
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 19ff60cdbcfffccf
 From: "'Navish Sharma' via all" <all@students.iitmandi.ac.in>
@@ -176,35 +213,5 @@ This is to inform you that the PhD and M.Tech (R)&nbsp;Orientation&nbsp;Programm
 &nbsp;
 The session will provide important information r
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fef74938817670
-From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 11 Aug 2026 11:43:23 +0530
-Subject: Re - opening of swimming Pool
-Snippet: Dear All,
-
-
-
-
-
-
-*We are pleased to inform you that the technical issues in the Swimming
-Poolhave been successfully resolved. The Swimming Pool will now reopen
-fromWednesday, 12th August 2026.All swimmers may use the pool according to
-their allotted slots. Kindly ensurethat you bring the pr
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fef57bba0af674
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 11 Aug 2026 11:12:04 +0530
-Subject: [Announcement] Venue & Timing Revised: Invitation to attend the Synopsis Seminar of Mr. Naveen Kumar Bankapalli (D21038), PhD scholar in the school of Mechanical and and Materials Engineering (SMME) | 11th August 2026 | 04:00 PM
-Snippet: Dear All,
-You are cordially invited to the synopsis seminar of Mr.&nbsp;Naveen Kumar&nbsp;Bankapalli (D21038), PhD scholar in the School of Mechanical and Materials Engineering, as per the following schedule:
-Date:&nbsp;11.08.2026 (Tuesday)
-Revised Timing:&nbsp;&nbsp; 04:00PM Onwards
-R
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
