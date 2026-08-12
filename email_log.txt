@@ -1,4 +1,17 @@
-Found 21 emails in the last 2 days:
+Found 22 emails in the last 2 days:
+
+Message ID: 19ff703ed93f77b3
+From: "'Dean SRIC_IITMandi' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 22:57:17 +0530
+Subject: Reminder to join at 10 am: Invitation to Participate in ANRF-IIT Mandi Research X Impact Conclave (13th-14th Aug 2026)
+Snippet: Dear Colleagues, Postdocs and Research Scholars,
+
+This is a reminder to kindly *join at 10 am* for the  ANRF + IIT Mandi
+Research X Impact conclave (13th-14th Aug 2026). The event is open to all
+research scholars (PhDs, MTech by Research and Project scholars) who  are
+strongly encouraged to joi
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19ff648092e50c00
 From: "'Venkata Krishnan' via all" <all@students.iitmandi.ac.in>
@@ -198,20 +211,5 @@ Consciousness”*. *The details of the talk are as follows;
 
 *D
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19fef914b830226e
-From: "'Dean Office' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 11 Aug 2026 12:14:57 +0530
-Subject: [Announcement] Reminder: Orientation Programme for August 2026 Admitted PhD and M.Tech (R) Scholars – 11th August 2026
-Snippet: A gentle reminder.
-
-&nbsp;
-Dear Scholars,
-&nbsp;
-This is to inform you that the PhD and M.Tech (R)&nbsp;Orientation&nbsp;Programme is scheduled to be held on&nbsp;11th August 2026,&nbsp;from&nbsp;02:30&nbsp;pm&nbsp;to&nbsp;03:30&nbsp;pm.
-&nbsp;
-The session will provide important information r
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
