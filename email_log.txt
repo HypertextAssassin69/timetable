@@ -1,4 +1,33 @@
-Found 19 emails in the last 2 days:
+Found 18 emails in the last 2 days:
+
+Message ID: 19ff54f6b4450a1d
+From: "'Young Innovators Fellowship (YIF)' via btech2025" <btech2025@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 15:00:34 +0530
+Subject: Fwd: Opportunity for AI Startups – NVIDIA Inception Program
+Snippet: Dear Students,
+The following may interest some of you.
+Contact @Abhinandan if interested.
+
+*_______________*
+*Dr. Gajendra Singh (SMME)*
+*On behalf of the Young Innovators Fellowship Committee*
+
+
+
+---------- Forwarded message ---------
+From: Abhinandan Sharma 
+Date: Wed, Aug 12, 2026 at
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19ff52ab6c3df6ec
+From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 14:20:35 +0530
+Subject: [Announcement] Registration Open: One-Week Interdisciplinary Course on Contemplative Psychology (IK592_7)
+Snippet: Dear Students,
+We are pleased to announce an interdisciplinary course at the IKSMHA Centre, IIT Mandi.Course Title:&nbsp;Contemplative PsychologyCourse Code:&nbsp;IK592_7Credits:&nbsp;2 &nbsp;(L-T-P-C: 2-0-0-2)Slot:&nbsp;(NS) No SlotEligibility:&nbsp;Open to Ph.D., Master's, and Undergr
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 19ff4aa57570cefb
 From: Gajendra Singh <gajendra@iitmandi.ac.in>
@@ -183,39 +212,6 @@ Dear All,
 You are cordially invited to attend the first open seminar of Ms. Nitika Bhutani (D21097) Ph.D. scholar in the School of Chemical Sciences, as per the following schedule:
 &nbsp;
 Date:&nbsp; &nbsp;11-08-2026 (Tuesday)Time:&nbsp;&nbsp;&nbsp;11:15 AM&nbs
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19feed2182ff4fe7
-From: "'Moumita Das' via btech_ee2025" <btech_ee2025@students.iitmandi.ac.in>
-Date: Tue, 11 Aug 2026 08:45:58 +0530
-Subject: Regarding Today's Lecture (EE261)
-Snippet: Dear All,
-
-Today's lecture is cancelled due to heavy rains. Please inform all the
-students if they are not in the mailing list.
--- 
-Thanks & Regards,
-
-Dr. Moumita Das
-Associate Professor
-School of Computing and Electrical Engineering
-Indian Institute of Technology Mandi
-Kamand, Himachal P
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19febd6e4193fc9b
-From: "'Nitu Kumari' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 10 Aug 2026 18:52:24 +0530
-Subject: [Announcement] Invitation to Attend Ph.D. Synopsis Seminar by Mr. Kanav Singh Rana (D22069)|| August 12, 2026 (Wednesday) || A13 Conference Room || 9:30 AM
-Snippet: Dear All,You are cordially invited to attend the Synopsis Seminar of SMSS PhD student Mr. Kanav Singh Rana (D22069) as per the details given below:
-
-Date: 12 August 2026 (Wednesday)
-Time: 09:30 AM
-Venue: A13 Conference Room, Third Floor A13 Building, North Campus
-&nbsp;
-The title a
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
