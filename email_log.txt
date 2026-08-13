@@ -1,4 +1,54 @@
-Found 22 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 19ff9d92ca34fc67
+From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 13 Aug 2026 12:09:27 +0530
+Subject: Swimming Pool closed
+Snippet: Dear All,
+Due to an unexpected technical issue in the swimming pool, the facility has
+been temporarily closed, as soon as the problem is resolved, we will inform
+you immediately. We sincerely apologise for the inconvenience caused.
+
+Regards
+Physical education and sports section
+
+Dear All,Due
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19ff9bdf2356df40
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 13 Aug 2026 11:39:49 +0530
+Subject: Re: Institute Colloquium : Dr. Debiprosad Duari (13 - August - 2026 at 05:30 PM)
+Snippet: Dear Sir/Madam and Students,
+
+*Gentle Reminder for today's Institute Colloquium at 05:30 pm.*
+
+*Venue: - Auditorium (North Campus)*
+
+*              A-7 Conference Room (South Campus) - Live Streaming (Only
+for Faculty members)*
+
+Online link for Colloquia is available on the following link:
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19ff9800821288d1
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 13 Aug 2026 10:32:09 +0530
+Subject: Health Advisory – Health and Hygiene Precautions During Monsoon
+Snippet: Dear All,
+
+Please find below the  HEALTH ADVISORY
+
+  regarding
+the recent increase in cases of cough, cold, sore throat, fever, vomiting
+and diarrhoeal illness reported on campus.
+
+All students and other  other campus residents are requested to kindly go
+through the advisory and follow the
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 19ff97394b2dbeff
 From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
@@ -155,47 +205,6 @@ Date: Wed, 12 Aug 2026 10:44:06 +0530
 Subject: [Announcement] Ph.D. viva-voce examination of Mr. Ankit Kumar Goyal (D18023) || 14-08-2026 || A11-05-43.
 Snippet: Dear all,&nbsp;
 You are cordially invited to attend the PhD viva voce examination of Mr. Ankit Kumar Goyal (D18023), Ph.D. Scholar in the School of Civil and Environmental Engineering, as per the following schedule.&nbsp;Date :- 14th August, 2026 (Friday).Time:- 10:00 AM&nbsp;Venue: &nbsp;A11-05-43
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ff461525f3c5a3
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 12 Aug 2026 10:40:28 +0530
-Subject: Fwd: अधिसूचना/NOTIFICATION : Celebration of Independence Day on 15th August 2026 (Saturday) at IIT Mandi (H. P.). – reg.
-Snippet: Dear Students,
-
-With reference to the subject of this communication, the invitation for the
-Independence Day Celebration is forwarded herewith for your kind perusal.
-
-You all are requested to please join for the Independence Day Celebration
-as per the schedule mentioned in the trail mail.
----
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ff45d0321c8eb9
-From: "'office_scene' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 12 Aug 2026 10:35:56 +0530
-Subject: [Announcement] Reminder || Invitation to Attend the First Open Seminar of Mr. Vivek Singh (D22041) || Ph.D. Scholar SCENE || 12th Aug., 2026 || A11-05-43.
-Snippet: Dear All,
-&nbsp;
-A Gentle Reminder................
-&nbsp;
-You are cordially invited to attend the first open seminar of Mr. Vivek Singh (D22041) as per the following schedule:-Date: 12th August, 2026Time: 12:00 PM to 1:00 PMVenue: A11-05-43 (SCENE Conference Room)&nbsp;Google Meet Link: meet.goo
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ff151a1f9eb516
-From: "'Nitu Kumari' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 11 Aug 2026 20:24:38 +0530
-Subject: [Announcement] Revised Timing: Invitation to Attend Ph.D. Synopsis Seminar by Mr. Kanav Singh Rana (D22069)|| August 14, 2026 (Friday) || A13 Conference Room || 10:00 AM
-Snippet: A Gentle Reminder!
-&nbsp;
-Dear All,You are cordially invited to attend the Synopsis Seminar of SMSS PhD student Mr. Kanav Singh Rana (D22069). Revised timing of synopsis is as given below:&nbsp;
-
-Date: 14 August 2026 (Friday)
-Time: 10:00 AM
-Venue: A13 Conference Room, Third Floor A13 Building,
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
