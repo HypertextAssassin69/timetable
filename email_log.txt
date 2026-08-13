@@ -1,5 +1,29 @@
 Found 22 emails in the last 2 days:
 
+Message ID: 19ff97394b2dbeff
+From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 13 Aug 2026 10:18:41 +0530
+Subject: [Announcement] Reminder! Invitation to attend the First Open Seminar of Ms. Pratiksha Chauhan D22037
+Snippet: Dear All,
+This is a reminder for the first open seminar of Ms. Pratiksha Chauhan (D22037) Ph.D. scholar in the School of Mathematical and Statistical Sciences, as per the following schedule:
+&nbsp;
+Date:&nbsp;13th August 2026 (Thursday)
+Time:&nbsp;&nbsp;12:00 pm
+Venue:&nbsp;SMSS conference room
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19ff94a254487a3c
+From: "'C.S. Yadav' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 13 Aug 2026 09:33:26 +0530
+Subject: [Announcement] Seminar on 'Research with Indigeneous high end Instruments'
+Snippet: Dear All,&nbsp;
+You are cordially invited to attend a seminar on research with indigeneous high end instruments, as per the following logistics:
+SPEAKER:&nbsp; &nbsp; Dr Deshdeep Sahdev, Professor(VRS) IIT Kanpur, Director (Quazar Technologies, New Delhi)
+TITLE: Physics &amp; Materials Research w
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
 Message ID: 19ff703ed93f77b3
 From: "'Dean SRIC_IITMandi' via all" <all@students.iitmandi.ac.in>
 Date: Wed, 12 Aug 2026 22:57:17 +0530
@@ -172,44 +196,6 @@ Dear All,You are cordially invited to attend the Synopsis Seminar of SMSS PhD st
 Date: 14 August 2026 (Friday)
 Time: 10:00 AM
 Venue: A13 Conference Room, Third Floor A13 Building,
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ff0318a21a0dca
-From: "'Registrar IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 11 Aug 2026 15:09:47 +0530
-Subject: Fwd: Kindly disseminate this announcement through the official website and other official channels so that interested candidates may participate in the 3- Day Artificial Intelligence Workshop & 2-Day Helicopter Design Workshop.
-Snippet: *Sincerely,Dr. Kumar Sambhav Pandey*
-
-
-
-
-
-*Registrar Indian Institute of Technology (IIT )-MandiVPO Kamand-175075,
-Distt. Mandi (Himachal Pradesh), IndiaE-mail:registrar@iitmandi.ac.in
-; URL:http://iitmandi.ac.in/
- Tele: +91-1905-267015 Fax :
-+91-1905-267075================================
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fef94f081365c4
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 11 Aug 2026 12:18:47 +0530
-Subject: Institute Colloquium : Dr. Debiprosad Duari (13 - August - 2026 at 05:30 PM)
-Snippet: Dear Sir/ Madam and Students,
-
-
-
-The Institute Colloquium Cell, is pleased to inform you that Dr. Debiprosad
-Duari, will deliver a talk (Institute Colloquium) on “Our Cosmic
-Consciousness”*. *The details of the talk are as follows;
-
-
-
-*Title of the talk: - “Our Cosmic Consciousness”*
-
-*D
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
