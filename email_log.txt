@@ -1,4 +1,38 @@
-Found 19 emails in the last 2 days:
+Found 21 emails in the last 2 days:
+
+Message ID: 19ffa74c96bcd2aa
+From: "'K Sai Shivani' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 13 Aug 2026 14:59:38 +0530
+Subject: [Announcement] Final call for enrollment: IK-520 (Foundations of Indian Knowledge Systems in Music)
+Snippet: Dear Students,&nbsp;This is a&nbsp;final reminder to&nbsp;enroll in IK-520: Foundations of Indian Knowledge Systems in Music, a 4-credit course exploring Indian music as a profound intellectual and cultural tradition. No prior musical training is required.
+&nbsp;
+Course Details&bull; Code &amp; Ti
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19ffa6c69dc1119f
+From: "'Vaibhav Gupta' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 13 Aug 2026 14:50:28 +0530
+Subject: [Announcement] Announcement: 7th International Conference on Soft Materials (ICSM-2026), IIT Mandi, Nov 1–4, 2026
+Snippet: Dear Colleagues and Students,
+We are pleased to announce that the 7th International Conference on Soft Materials (ICSM-2026) will be held from November 1&ndash;4, 2026, at the Indian Institute of Technology (IIT) Mandi, Himachal Pradesh, India. The conference is organized by IIT Mandi in
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19ffa192371ae1c0
+From: "'Health Centre' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 13 Aug 2026 13:19:18 +0530
+Subject: HEALTH ADVISORY- Recent Increase in Respiratory and Gastrointestinal Illness on Campus
+Snippet: Dear Campus Community,
+
+ There has been a recent increase in cases of cough, cold, sore throat,
+fever and acute diarrhoeal illness reported at the Health Centre. As a
+precautionary measure, all students, campus residents and faculty/staff are
+requested to follow the advisory below:-
+
+*IMPORTA
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 19ff9d92ca34fc67
 From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
@@ -173,38 +207,6 @@ Contact @Abhinandan if interested.
 ---------- Forwarded message ---------
 From: Abhinandan Sharma 
 Date: Wed, Aug 12, 2026 at
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ff52ab6c3df6ec
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 12 Aug 2026 14:20:35 +0530
-Subject: [Announcement] Registration Open: One-Week Interdisciplinary Course on Contemplative Psychology (IK592_7)
-Snippet: Dear Students,
-We are pleased to announce an interdisciplinary course at the IKSMHA Centre, IIT Mandi.Course Title:&nbsp;Contemplative PsychologyCourse Code:&nbsp;IK592_7Credits:&nbsp;2 &nbsp;(L-T-P-C: 2-0-0-2)Slot:&nbsp;(NS) No SlotEligibility:&nbsp;Open to Ph.D., Master's, and Undergr
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19ff4aa57570cefb
-From: Gajendra Singh <gajendra@iitmandi.ac.in>
-Date: Wed, 12 Aug 2026 12:00:17 +0530
-Subject: Re: IC202p Grpups
-Snippet: Dear Students,
-Please find attached the updated Project Group List. A few changes are as
-follows:
-
-   - A new Group is formed (Group-01) on request of the institute's NCC
-   coordinator. The NCC students are supposed to work on a problem together
-   and develop something that would be benefici
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ff4647d962ea5c
-From: "'office_scene' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 12 Aug 2026 10:44:06 +0530
-Subject: [Announcement] Ph.D. viva-voce examination of Mr. Ankit Kumar Goyal (D18023) || 14-08-2026 || A11-05-43.
-Snippet: Dear all,&nbsp;
-You are cordially invited to attend the PhD viva voce examination of Mr. Ankit Kumar Goyal (D18023), Ph.D. Scholar in the School of Civil and Environmental Engineering, as per the following schedule.&nbsp;Date :- 14th August, 2026 (Friday).Time:- 10:00 AM&nbsp;Venue: &nbsp;A11-05-43
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
