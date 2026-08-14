@@ -1,4 +1,62 @@
-Found 25 emails in the last 2 days:
+Found 29 emails in the last 2 days:
+
+Message ID: 19ffe820c7c3d6d9
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 14 Aug 2026 09:52:28 +0530
+Subject: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
+Snippet: Dear Students,
+
+This is to inform you that the Institute Biometric Registration for all *UG
+and PG students* is scheduled to be conducted on 16th August 2026 (Sunday),
+at both North Campus and South Campus.
+
+*Date: 16th August 2026 (Sunday)*
+
+*Time: 09:00 AM to 05:00 PM*
+
+*Venues:*
+
+*Sou
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19ffe7d0e28df274
+From: "'scs office' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 14 Aug 2026 09:47:09 +0530
+Subject: [Announcement] Synopsis Seminar of SCS PhD Student Mr. Vishal Sharma (D18036), A4-Conference Room, South campus - Wednesday 19th August 26
+Snippet: Dear All,
+&nbsp;
+You are cordially invited to attend the Synopsis Seminar of&nbsp;Mr.&nbsp;Vishal Sharma&nbsp;(D18036), Ph.D. Scholar, SCS, as per the following schedule:
+&nbsp;
+Venue:&nbsp;A4-Conference&nbsp;room, south campus
+&nbsp;Time:&nbsp;1:30&nbsp;pm to 2:30 pm
+&nbsp;Date:&nbsp;19th&nbs
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19ffe6a5bb970eb9
+From: "'Dinesh Kumar' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 14 Aug 2026 09:26:43 +0530
+Subject: [Announcement] Ph.D. viva-voce examination of Mr. Ankit Kumar Goyal (D18023) || 14-08-2026 || A11-05-43
+Snippet: Dear all,&nbsp;
+Gentle Reminder&nbsp;&nbsp;You are cordially invited to attend the PhD viva voce examination of Mr.&nbsp;Ankit&nbsp;Kumar Goyal (D18023), Ph.D. Scholar in the School of Civil and Environmental Engineering, as per the following schedule.&nbsp;Date :- 14th August, 2026 (Friday).Time:-
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 19ffe58b33c3b41a
+From: "'Nitu Kumari' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 14 Aug 2026 09:07:26 +0530
+Subject: [Announcement] Reminder: Invitation to Attend Ph.D. Synopsis Seminar by Mr. Kanav Singh Rana (D22069)|| August 14, 2026 (Friday) || A13 Conference Room || 10:00 AM
+Snippet: A Gentle Reminder for synopsis seminar today!
+&nbsp;
+&nbsp;
+&nbsp;
+Dear All,You are cordially invited to attend the Synopsis Seminar of SMSS PhD student Mr. Kanav Singh Rana (D22069).&nbsp;&nbsp;
+
+Date: 14 August 2026 (Friday)
+Time:
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 19ffae8eb3dfc6c5
 From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -146,61 +204,6 @@ and diarrhoeal illness reported on campus.
 
 All students and other  other campus residents are requested to kindly go
 through the advisory and follow the
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19ff97394b2dbeff
-From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 10:18:41 +0530
-Subject: [Announcement] Reminder! Invitation to attend the First Open Seminar of Ms. Pratiksha Chauhan D22037
-Snippet: Dear All,
-This is a reminder for the first open seminar of Ms. Pratiksha Chauhan (D22037) Ph.D. scholar in the School of Mathematical and Statistical Sciences, as per the following schedule:
-&nbsp;
-Date:&nbsp;13th August 2026 (Thursday)
-Time:&nbsp;&nbsp;12:00 pm
-Venue:&nbsp;SMSS conference room
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ff94a254487a3c
-From: "'C.S. Yadav' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 09:33:26 +0530
-Subject: [Announcement] Seminar on 'Research with Indigeneous high end Instruments'
-Snippet: Dear All,&nbsp;
-You are cordially invited to attend a seminar on research with indigeneous high end instruments, as per the following logistics:
-SPEAKER:&nbsp; &nbsp; Dr Deshdeep Sahdev, Professor(VRS) IIT Kanpur, Director (Quazar Technologies, New Delhi)
-TITLE: Physics &amp; Materials Research w
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ff703ed93f77b3
-From: "'Dean SRIC_IITMandi' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 12 Aug 2026 22:57:17 +0530
-Subject: Reminder to join at 10 am: Invitation to Participate in ANRF-IIT Mandi Research X Impact Conclave (13th-14th Aug 2026)
-Snippet: Dear Colleagues, Postdocs and Research Scholars,
-
-This is a reminder to kindly *join at 10 am* for the  ANRF + IIT Mandi
-Research X Impact conclave (13th-14th Aug 2026). The event is open to all
-research scholars (PhDs, MTech by Research and Project scholars) who  are
-strongly encouraged to joi
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ff648092e50c00
-From: "'Venkata Krishnan' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 12 Aug 2026 19:32:14 +0530
-Subject: [Announcement] Ph.D. viva voce of Devendra Sharma (D21015)
-Snippet: Dear All,
-&nbsp;
-The Ph.D. viva voce of the scholar, Mr. Devendra Sharma (D21015) is scheduled as follows.
-&nbsp;
-Date: Aug. 14, 2026 (Friday)
-Time: 14:00 hours (02:00 p.m.)
-Venue: A-4 Conference Room, South Campus
-&nbsp;
-The title and abstract are given below.
-&nbsp;
-All are cordially inv
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
