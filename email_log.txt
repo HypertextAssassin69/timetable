@@ -1,4 +1,26 @@
-Found 25 emails in the last 2 days:
+Found 26 emails in the last 2 days:
+
+Message ID: 1a0013f62dd779fa
+From: "'technical secretary' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 14 Aug 2026 22:38:37 +0530
+Subject: [Announcement] Join the Independence Day Celebrations
+Snippet: Dear IIT Mandi Residents,As we wake up tomorrow to the dawn of our nation's 80th Independence Day, let us come together to celebrate the spirit of freedom, unity, and pride that makes our country truly great! To honor the sacrifices of our freedom fighters and celebrate the glorious journey of our n
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a001346e30c756f
+From: "'literary Secretary' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 14 Aug 2026 22:26:39 +0530
+Subject: [Announcement] Literary Events for 80th Independence Day
+Snippet: Dear Students,
+&nbsp;
+On the occasion of India&rsquo;s 80th Independence Day, the Student Gymkhana is organising a series of engaging events.
+&nbsp;
+The events are open to everyone, and we invite all students to participate and celebrate the spirit of Independence Day together.
+&nbsp;
+🇮🇳 1. De
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a0005cd28f224c5
 From: "'Siddharth Rajesh Tiwari' via all" <all@students.iitmandi.ac.in>
@@ -188,29 +210,6 @@ On Thu, Aug 13, 2026 at 5:01 PM caretaker saraswati  wrote:
 >
 > If any hostel property, including the bathroom mirror, is found in any
 > stude
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19ffae4ce970c277
-From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 17:01:51 +0530
-Subject: Notice Regarding Reinstallation of Bathroom Mirrors and Misuse of Hostel Property
-Snippet: Dear Students,
-
-Whoever has removed the bathroom mirror is instructed to reinstall it at
-its original location immediately.
-
-If any hostel property, including the bathroom mirror, is found in any
-student's room during inspection, disciplinary action may be taken against
-the concerned student.
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19ffaa0571039d69
-From: "'Harshita' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 15:47:11 +0530
-Subject: [Announcement] Last Call to Enroll in IK-521 (Connecting Indian Music with Life)
-Snippet: Dear Students,&nbsp;This is a&nbsp;final call to&nbsp;enrol in IK-521: Connecting Indian Music with Life, a 4-credit interdisciplinary and experiential course that explores Indian music beyond performance, presenting it as a way of understanding life, human values, creativity, well-being, and consci
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
