@@ -1,4 +1,22 @@
-Found 26 emails in the last 2 days:
+Found 27 emails in the last 2 days:
+
+Message ID: 1a001d73ca1089df
+From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
+Date: Sat, 15 Aug 2026 01:24:21 +0530
+Subject: Literary Society Introduction 2026
+Snippet: Hey Freshers!
+
+Ever watched The Office and thought, “I could definitely run Dunder Mifflin
+better than Michael Scott”?
+
+Or defended One Piece as peak fiction for 40 minutes?
+
+Or gone down a Wikipedia rabbit hole at 3 AM?
+
+Or maybe you’re simply a certified gooner with suspiciously good
+voc
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a0013f62dd779fa
 From: "'technical secretary' via all" <all@students.iitmandi.ac.in>
@@ -192,24 +210,6 @@ Date: Thu, 13 Aug 2026 17:06:28 +0530
 Subject: [Announcement] Last chance to register for One Week Course - Contemplative Psychology
 Snippet: Dear Students,
 This is a&nbsp;last reminder&nbsp;to register for&nbsp;IK592_7 - Contemplative Psychology&nbsp;before the&nbsp;Add/Drop deadline on 14 August.Course Title:&nbsp;Contemplative PsychologyCourse Code:&nbsp;IK592_7Credits:&nbsp;2 &nbsp;(L-T-P-C: 2-0-0-2)Slot:&nbsp;(NS) No SlotEligibility
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19ffae5d09874983
-From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 17:02:58 +0530
-Subject: Re: Notice Regarding Reinstallation of Bathroom Mirrors and Misuse of Hostel Property
-Snippet: Photo Attached
-
-On Thu, Aug 13, 2026 at 5:01 PM caretaker saraswati  wrote:
-
-> Dear Students,
->
-> Whoever has removed the bathroom mirror is instructed to reinstall it at
-> its original location immediately.
->
-> If any hostel property, including the bathroom mirror, is found in any
-> stude
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
