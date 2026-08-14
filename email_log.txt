@@ -1,4 +1,39 @@
-Found 29 emails in the last 2 days:
+Found 27 emails in the last 2 days:
+
+Message ID: 19ffecdf62004b35
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 14 Aug 2026 11:15:22 +0530
+Subject: Re: Institute Colloquium : Dr. Prahlada Ramarao (14 - August - 2026 at 06:00 pm)
+Snippet: Dear Sir/Madam and Students,
+
+*Gentle Reminder for today's Institute Colloquium at 06:00 pm.*
+
+*Venue: - Auditorium (North Campus)*
+
+*              A1-NKN (South Campus) - Live Streaming (Only for Faculty
+members)*
+
+Online link for Colloquia is available on the following link:
+
+
+https://
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19ffeba74bda795d
+From: Surajtaal  caretaker <caretaker_surajtaal@iitmandi.ac.in>
+Date: Fri, 14 Aug 2026 10:54:00 +0530
+Subject: Information Regarding Missing Student’s Carton from the Common Room
+Snippet: *Dear Students,*
+
+You are hereby informed that during the last semester, many students kept
+their belongings in the common room.
+
+A carton belonging to a student named *Namak Khatak (Contact No.
+7206035376)* from *Gama Block (B-18)* has been found missing. The carton
+contained important docum
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 19ffe820c7c3d6d9
 From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -170,40 +205,6 @@ Regards
 Physical education and sports section
 
 Dear All,Due
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19ff9bdf2356df40
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 11:39:49 +0530
-Subject: Re: Institute Colloquium : Dr. Debiprosad Duari (13 - August - 2026 at 05:30 PM)
-Snippet: Dear Sir/Madam and Students,
-
-*Gentle Reminder for today's Institute Colloquium at 05:30 pm.*
-
-*Venue: - Auditorium (North Campus)*
-
-*              A-7 Conference Room (South Campus) - Live Streaming (Only
-for Faculty members)*
-
-Online link for Colloquia is available on the following link:
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ff9800821288d1
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 10:32:09 +0530
-Subject: Health Advisory – Health and Hygiene Precautions During Monsoon
-Snippet: Dear All,
-
-Please find below the  HEALTH ADVISORY
-
-  regarding
-the recent increase in cases of cough, cold, sore throat, fever, vomiting
-and diarrhoeal illness reported on campus.
-
-All students and other  other campus residents are requested to kindly go
-through the advisory and follow the
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
