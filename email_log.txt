@@ -1,4 +1,15 @@
-Found 26 emails in the last 2 days:
+Found 25 emails in the last 2 days:
+
+Message ID: 1a0005cd28f224c5
+From: "'Siddharth Rajesh Tiwari' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 14 Aug 2026 18:31:09 +0530
+Subject: [Announcement] Janmashtami 2026: Final Call for Volunteers & Orientation Session
+Snippet: Dear Everyone,
+We are gearing up for Janmashtami 2026 at IIT Mandi and are inviting students to be a part of the organising team through volunteering, performances, and various event activities.
+Final Call for Volunteer Registration
+Today is the last date to register as a Janmashtami volunteer. I
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a00032c50a68264
 From: "'Registrar IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -201,20 +212,5 @@ Date: Thu, 13 Aug 2026 15:47:11 +0530
 Subject: [Announcement] Last Call to Enroll in IK-521 (Connecting Indian Music with Life)
 Snippet: Dear Students,&nbsp;This is a&nbsp;final call to&nbsp;enrol in IK-521: Connecting Indian Music with Life, a 4-credit interdisciplinary and experiential course that explores Indian music beyond performance, presenting it as a way of understanding life, human values, creativity, well-being, and consci
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19ffa92d7087632a
-From: Gajendra Singh <gajendra@iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 15:32:21 +0530
-Subject: IC202p: A Few Things
-Snippet: Dear Students,
-A few things:
-
-   - The customer empathy canvass submission deadline is tomorrow at 5 pm.
-   You must submit it on an A3 sheet (either hard copy or soft copy) to your
-   TA.
-   - The objectives. Milestones and benchmarking must be completed by
-   Sunday at 5 pm. Please share th
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
