@@ -1,5 +1,49 @@
 Found 26 emails in the last 2 days:
 
+Message ID: 1a00032c50a68264
+From: "'Registrar IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 14 Aug 2026 17:45:02 +0530
+Subject: Greetings on Independence Day and Invite for celebrations.
+Snippet: *Dear All,*
+
+On the proud occasion of *India’s 80th Independence Day*, I extend my
+Choicest Greetings to you and your family and friends.
+
+Let us remember the sacrifices of our freedom fighters and celebrate the
+spirit of *freedom, unity, and patriotism*. May we continue to contribute
+towards
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a00010c30af2e32
+From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 14 Aug 2026 17:07:51 +0530
+Subject: Closure of sports facilities on Independence Day ( 15 August 2026 )
+Snippet: Dear All,
+
+This is with reference to our earlier email regarding the closure of sports
+facilities on account of Independence Day.
+
+We regret to inform you that the days mentioned in our previous
+communication were incorrect. Please note the correct details below:
+
+Sports facilities at IIT Ma
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 19fffdf69b95e18b
+From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 12 Aug 2026 12:39:00 +0530
+Subject: Closure of sports facilities on Independence Day ( 15 August 2026 )
+Snippet: Dear All,
+We are writing to inform you that the sports facilities at IIT Mandi,
+including the Gymnasium and swimming pool, will remain closed on Friday,
+August 15, 2026, on account of Independence Day celebrations.
+All coaches and sports staff will also be on leave for the day. Regular
+operatio
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
 Message ID: 19fff74080e9fea2
 From: "'Transport IIT Mandi' via all" <all@students.iitmandi.ac.in>
 Date: Fri, 14 Aug 2026 14:16:43 +0530
@@ -172,39 +216,5 @@ A few things:
    - The objectives. Milestones and benchmarking must be completed by
    Sunday at 5 pm. Please share th
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ffa74c96bcd2aa
-From: "'K Sai Shivani' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 14:59:38 +0530
-Subject: [Announcement] Final call for enrollment: IK-520 (Foundations of Indian Knowledge Systems in Music)
-Snippet: Dear Students,&nbsp;This is a&nbsp;final reminder to&nbsp;enroll in IK-520: Foundations of Indian Knowledge Systems in Music, a 4-credit course exploring Indian music as a profound intellectual and cultural tradition. No prior musical training is required.
-&nbsp;
-Course Details&bull; Code &amp; Ti
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ffa6c69dc1119f
-From: "'Vaibhav Gupta' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 14:50:28 +0530
-Subject: [Announcement] Announcement: 7th International Conference on Soft Materials (ICSM-2026), IIT Mandi, Nov 1–4, 2026
-Snippet: Dear Colleagues and Students,
-We are pleased to announce that the 7th International Conference on Soft Materials (ICSM-2026) will be held from November 1&ndash;4, 2026, at the Indian Institute of Technology (IIT) Mandi, Himachal Pradesh, India. The conference is organized by IIT Mandi in
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ffa192371ae1c0
-From: "'Health Centre' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 13:19:18 +0530
-Subject: HEALTH ADVISORY- Recent Increase in Respiratory and Gastrointestinal Illness on Campus
-Snippet: Dear Campus Community,
-
- There has been a recent increase in cases of cough, cold, sore throat,
-fever and acute diarrhoeal illness reported at the Health Centre. As a
-precautionary measure, all students, campus residents and faculty/staff are
-requested to follow the advisory below:-
-
-*IMPORTA
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
