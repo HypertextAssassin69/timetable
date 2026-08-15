@@ -1,4 +1,20 @@
-Found 27 emails in the last 2 days:
+Found 24 emails in the last 2 days:
+
+Message ID: 1a00400676ed6d90
+From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
+Date: Sat, 15 Aug 2026 11:28:31 +0530
+Subject: 🇮🇳 Independence Day Special | Tug of War Competition
+Snippet: * Dear Students,*
+
+This Independence Day, let's celebrate the spirit of *unity, strength, and
+teamwork* with a little friendly competition!
+
+The *Sports Society, IIT Mandi* is organising a* Special Tug of War
+Competition* on *15th August*. 🇮🇳
+
+💪 *Come together. Pull together. Win together.*
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a001d73ca1089df
 From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
@@ -202,14 +218,5 @@ Dear All,You are cordially invited to attend the Synopsis Seminar of SMSS PhD st
 Date: 14 August 2026 (Friday)
 Time:
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ffae8eb3dfc6c5
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 13 Aug 2026 17:06:28 +0530
-Subject: [Announcement] Last chance to register for One Week Course - Contemplative Psychology
-Snippet: Dear Students,
-This is a&nbsp;last reminder&nbsp;to register for&nbsp;IK592_7 - Contemplative Psychology&nbsp;before the&nbsp;Add/Drop deadline on 14 August.Course Title:&nbsp;Contemplative PsychologyCourse Code:&nbsp;IK592_7Credits:&nbsp;2 &nbsp;(L-T-P-C: 2-0-0-2)Slot:&nbsp;(NS) No SlotEligibility
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
