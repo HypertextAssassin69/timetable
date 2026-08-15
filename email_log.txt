@@ -1,4 +1,18 @@
-Found 20 emails in the last 2 days:
+Found 21 emails in the last 2 days:
+
+Message ID: 1a00643dfc7680a6
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 15 Aug 2026 22:01:31 +0530
+Subject: Re: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
+Snippet: Dear Students,
+
+This is a gentle reminder regarding tomorrow’s biometric registration.
+
+Earlier, biometric registration was mandatory for UG and PG students only.
+However, as per the latest instructions received from the authorities,
+biometric registration is now mandatory for all *UG, PG and
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a00591cd9d91603
 From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
@@ -204,26 +218,6 @@ regular bus schedule as per the details given below:
 
 ·         Two Buses (*Bus A & B*) at *7:15 AM* from South Campus to North
 Campus.
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19ffecdf62004b35
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 11:15:22 +0530
-Subject: Re: Institute Colloquium : Dr. Prahlada Ramarao (14 - August - 2026 at 06:00 pm)
-Snippet: Dear Sir/Madam and Students,
-
-*Gentle Reminder for today's Institute Colloquium at 06:00 pm.*
-
-*Venue: - Auditorium (North Campus)*
-
-*              A1-NKN (South Campus) - Live Streaming (Only for Faculty
-members)*
-
-Online link for Colloquia is available on the following link:
-
-
-https://
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
