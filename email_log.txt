@@ -1,5 +1,46 @@
 Found 24 emails in the last 2 days:
 
+Message ID: 1a004b85c566f77b
+From: SHIVAM SHIVAM <b25483@students.iitmandi.ac.in>
+Date: Sat, 15 Aug 2026 14:49:06 +0530
+Subject: Re: EE261P Grouping and Instructions
+Snippet: Dear Sir,
+
+I have not enrolled in this course, and I am from the Mechanical
+Engineering branch. I have attached a screenshot of my course selection on
+the Samarth portal for your reference.
+
+I believe there may have been some misunderstanding. Therefore, I kindly
+request you to remove my name
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0048c8dcfb40f4
+From: Dwijasish Das <dwijasish@iitmandi.ac.in>
+Date: Sat, 15 Aug 2026 14:01:42 +0530
+Subject: EE261P Grouping and Instructions
+Snippet: Dear Students,
+
+Please find below the table containing the group-wise details for the E261P
+lab.
+
+As per your assigned group, please occupy the corresponding experiment
+table. For example, *Group 1 will use Experiment Table 1, Group 2 will use
+Experiment Table 2*, and so on. The name of the T
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0044de15191708
+From: "'himanshu Pathak' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 15 Aug 2026 12:53:20 +0530
+Subject: [Announcement] First Open Seminar | Piyush Bhatt (D22170)  |  18 August 2026 at 12 PM | SMME Meeting Room
+Snippet: Dear All,
+You are cordially invited to the first open seminar by Piyush Bhatt (D22170) a PhD Scholar under SMME. The scheduled is given below:
+Title:&nbsp;Stress corrosion cracking threshold determination in biodegradable magnesium implant alloys
+Date and Time:&nbsp;Tuesday, 18 August 2026 at 12:
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
 Message ID: 1a00400676ed6d90
 From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
 Date: Sat, 15 Aug 2026 11:28:31 +0530
@@ -180,43 +221,5 @@ at both North Campus and South Campus.
 
 *Sou
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19ffe7d0e28df274
-From: "'scs office' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 09:47:09 +0530
-Subject: [Announcement] Synopsis Seminar of SCS PhD Student Mr. Vishal Sharma (D18036), A4-Conference Room, South campus - Wednesday 19th August 26
-Snippet: Dear All,
-&nbsp;
-You are cordially invited to attend the Synopsis Seminar of&nbsp;Mr.&nbsp;Vishal Sharma&nbsp;(D18036), Ph.D. Scholar, SCS, as per the following schedule:
-&nbsp;
-Venue:&nbsp;A4-Conference&nbsp;room, south campus
-&nbsp;Time:&nbsp;1:30&nbsp;pm to 2:30 pm
-&nbsp;Date:&nbsp;19th&nbs
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ffe6a5bb970eb9
-From: "'Dinesh Kumar' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 09:26:43 +0530
-Subject: [Announcement] Ph.D. viva-voce examination of Mr. Ankit Kumar Goyal (D18023) || 14-08-2026 || A11-05-43
-Snippet: Dear all,&nbsp;
-Gentle Reminder&nbsp;&nbsp;You are cordially invited to attend the PhD viva voce examination of Mr.&nbsp;Ankit&nbsp;Kumar Goyal (D18023), Ph.D. Scholar in the School of Civil and Environmental Engineering, as per the following schedule.&nbsp;Date :- 14th August, 2026 (Friday).Time:-
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 19ffe58b33c3b41a
-From: "'Nitu Kumari' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 09:07:26 +0530
-Subject: [Announcement] Reminder: Invitation to Attend Ph.D. Synopsis Seminar by Mr. Kanav Singh Rana (D22069)|| August 14, 2026 (Friday) || A13 Conference Room || 10:00 AM
-Snippet: A Gentle Reminder for synopsis seminar today!
-&nbsp;
-&nbsp;
-&nbsp;
-Dear All,You are cordially invited to attend the Synopsis Seminar of SMSS PhD student Mr. Kanav Singh Rana (D22069).&nbsp;&nbsp;
-
-Date: 14 August 2026 (Friday)
-Time:
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
