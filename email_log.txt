@@ -1,4 +1,43 @@
-Found 18 emails in the last 2 days:
+Found 20 emails in the last 2 days:
+
+Message ID: 1a00591cd9d91603
+From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
+Date: Sat, 15 Aug 2026 18:46:56 +0530
+Subject: Re: 🇮🇳 Independence Day Special | Tug of War Competition
+Snippet: Gentle Reminder guys,
+
+We will start at 7:15 PM
+Venue is Fountain Area
+
+Best Regards
+Dhruv Kumar Singh
+Sports Secretary
+Student Gymkhana, IIT Mandi
+
+Mobile: +91 74528 58044
+
+On Sat, 15 Aug 2026, 11:28 Dhruv Kumar Singh - Sports Secretary,  wrote:
+
+> * Dear Students,*
+>
+> This Indepen
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0056dd7d13f9fe
+From: "'Rajeev Kumar' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 15 Aug 2026 18:07:51 +0530
+Subject: [Announcement] Invitation to attend the synopsis seminar of Mr Vishesh Singh (D23127)
+Snippet: Dear All,
+You are cordially invited to attend the Synopsis Seminar of Mr&nbsp;Vishesh Singh (D23127) as per the following schedule:
+Date: August 17, 2026
+Time: 11.00 AM onwards
+Venue: SMME Conf room (No. 31) 
+Online Link: meet.google.com/tfn-gyne-cxm
+&nbsp;
+Title: Machine Learning Guided Meta
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a004b85c566f77b
 From: SHIVAM SHIVAM <b25483@students.iitmandi.ac.in>
@@ -185,41 +224,6 @@ Online link for Colloquia is available on the following link:
 
 
 https://
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19ffeba74bda795d
-From: Surajtaal  caretaker <caretaker_surajtaal@iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 10:54:00 +0530
-Subject: Information Regarding Missing Student’s Carton from the Common Room
-Snippet: *Dear Students,*
-
-You are hereby informed that during the last semester, many students kept
-their belongings in the common room.
-
-A carton belonging to a student named *Namak Khatak (Contact No.
-7206035376)* from *Gama Block (B-18)* has been found missing. The carton
-contained important docum
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19ffe820c7c3d6d9
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 09:52:28 +0530
-Subject: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
-Snippet: Dear Students,
-
-This is to inform you that the Institute Biometric Registration for all *UG
-and PG students* is scheduled to be conducted on 16th August 2026 (Sunday),
-at both North Campus and South Campus.
-
-*Date: 16th August 2026 (Sunday)*
-
-*Time: 09:00 AM to 05:00 PM*
-
-*Venues:*
-
-*Sou
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
