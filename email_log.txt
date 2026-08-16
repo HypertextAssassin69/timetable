@@ -1,4 +1,21 @@
-Found 16 emails in the last 2 days:
+Found 15 emails in the last 2 days:
+
+Message ID: 1a00b7bc245d9cdc
+From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
+Date: Sun, 16 Aug 2026 22:20:36 +0530
+Subject: Athletics Trials for Provisional Inter IIT Team
+Snippet: Dear Students,
+
+ Athletics trials for the Provisional Inter IIT Team will be held on:
+
+ 📅 *18th & 19th August 2026 (Tuesday & Wednesday) *
+📍 *Venue:* Cricket Ground, South Campus
+ *⏰ Time: *5:00 PM – 8:00 PM
+* Event List*: Open Event List
+
+*Previous Year Inter IIT Records*: [Records Link]
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a00a2214e7e89b2
 From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -224,13 +241,5 @@ Or gone down a Wikipedia rabbit hole at 3 AM?
 Or maybe you’re simply a certified gooner with suspiciously good
 voc
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0013f62dd779fa
-From: "'technical secretary' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 22:38:37 +0530
-Subject: [Announcement] Join the Independence Day Celebrations
-Snippet: Dear IIT Mandi Residents,As we wake up tomorrow to the dawn of our nation's 80th Independence Day, let us come together to celebrate the spirit of freedom, unity, and pride that makes our country truly great! To honor the sacrifices of our freedom fighters and celebrate the glorious journey of our n
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
