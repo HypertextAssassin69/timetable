@@ -1,4 +1,50 @@
-Found 21 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 1a0093c819ad02ed
+From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
+Date: Sun, 16 Aug 2026 11:52:18 +0530
+Subject: Literary Society Introduction 2026
+Snippet: Lit Intro ya Masti?
+*Lit Intro!*
+Masti follows my brother, masti follows.
+
+And you don't wanna miss out on all the masti that's going to happen in the
+Literary Society Introduction today.
+
+Wanna share a mehfil with UhlLekh, pop some quizzes with Qurosity, argue a
+little with TSOD, and journa
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a009096bc087a83
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Sun, 16 Aug 2026 10:56:31 +0530
+Subject: Re: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
+Snippet: Dear Students,
+
+Please note that the venue for biometric registration at South Campus has
+been changed within the same building:
+
+Earlier: D3 Mess (Outside), Second Floor
+Now: Yoga Mess (Outside), First Floor
+
+
+For your information.
+
+-----------
+Regards,
+
+On Sun, 16 Aug, 2026, 7:02 am
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a008bac459f1438
+From: Jia from Unstop <noreply@unstop.news>
+Date: Sun, 16 Aug 2026 09:30:52 +0530
+Subject: Earn stipend upto INR 75,000!
+Snippet: Your profile is a match!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279;
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a0083397d012cf0
 From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -177,49 +223,5 @@ We are gearing up for Janmashtami 2026 at IIT Mandi and are inviting students to
 Final Call for Volunteer Registration
 Today is the last date to register as a Janmashtami volunteer. I
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a00032c50a68264
-From: "'Registrar IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 17:45:02 +0530
-Subject: Greetings on Independence Day and Invite for celebrations.
-Snippet: *Dear All,*
-
-On the proud occasion of *India’s 80th Independence Day*, I extend my
-Choicest Greetings to you and your family and friends.
-
-Let us remember the sacrifices of our freedom fighters and celebrate the
-spirit of *freedom, unity, and patriotism*. May we continue to contribute
-towards
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a00010c30af2e32
-From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 17:07:51 +0530
-Subject: Closure of sports facilities on Independence Day ( 15 August 2026 )
-Snippet: Dear All,
-
-This is with reference to our earlier email regarding the closure of sports
-facilities on account of Independence Day.
-
-We regret to inform you that the days mentioned in our previous
-communication were incorrect. Please note the correct details below:
-
-Sports facilities at IIT Ma
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fffdf69b95e18b
-From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 12 Aug 2026 12:39:00 +0530
-Subject: Closure of sports facilities on Independence Day ( 15 August 2026 )
-Snippet: Dear All,
-We are writing to inform you that the sports facilities at IIT Mandi,
-including the Gymnasium and swimming pool, will remain closed on Friday,
-August 15, 2026, on account of Independence Day celebrations.
-All coaches and sports staff will also be on leave for the day. Regular
-operatio
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
