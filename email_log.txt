@@ -1,4 +1,23 @@
-Found 19 emails in the last 2 days:
+Found 17 emails in the last 2 days:
+
+Message ID: 1a00a2214e7e89b2
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Sun, 16 Aug 2026 16:03:04 +0530
+Subject: Re: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
+Snippet: Dear Students,
+
+This is the last reminder to complete your biometric registration within
+the prescribed timeline.
+
+No further opportunity will be provided after the closure of the
+registration process.
+
+-----------------
+Regards,
+
+On Sun, 16 Aug, 2026, 2:16 pm Institute Colloquium - IIT M
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a009c0b4cdbe843
 From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -212,20 +231,6 @@ From: "'technical secretary' via all" <all@students.iitmandi.ac.in>
 Date: Fri, 14 Aug 2026 22:38:37 +0530
 Subject: [Announcement] Join the Independence Day Celebrations
 Snippet: Dear IIT Mandi Residents,As we wake up tomorrow to the dawn of our nation's 80th Independence Day, let us come together to celebrate the spirit of freedom, unity, and pride that makes our country truly great! To honor the sacrifices of our freedom fighters and celebrate the glorious journey of our n
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a001346e30c756f
-From: "'literary Secretary' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 22:26:39 +0530
-Subject: [Announcement] Literary Events for 80th Independence Day
-Snippet: Dear Students,
-&nbsp;
-On the occasion of India&rsquo;s 80th Independence Day, the Student Gymkhana is organising a series of engaging events.
-&nbsp;
-The events are open to everyone, and we invite all students to participate and celebrate the spirit of Independence Day together.
-&nbsp;
-🇮🇳 1. De
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
