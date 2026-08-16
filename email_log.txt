@@ -1,5 +1,23 @@
 Found 21 emails in the last 2 days:
 
+Message ID: 1a0083397d012cf0
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Sun, 16 Aug 2026 07:02:59 +0530
+Subject: Re: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
+Snippet: Dear Students,
+
+*Gentle Reminder.*
+
+Please carry your Institute ID Card during the biometric registration
+process for verification purposes.
+
+Students who have not yet been issued an Institute ID Card must carry a
+valid Government-issued ID card for verification.
+
+Please ensure that the re
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
 Message ID: 1a00643dfc7680a6
 From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
 Date: Sat, 15 Aug 2026 22:01:31 +0530
@@ -202,22 +220,6 @@ including the Gymnasium and swimming pool, will remain closed on Friday,
 August 15, 2026, on account of Independence Day celebrations.
 All coaches and sports staff will also be on leave for the day. Regular
 operatio
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 19fff74080e9fea2
-From: "'Transport IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 14:16:43 +0530
-Subject: Transport arrangements for the Independence Day celebration on 15th August, 2026
-Snippet: Dear All,
-
-
-In celebration of *Independence Day* on *15th August 2026*, we have
-arranged extra buses from South Campus to North Campus in addition to our
-regular bus schedule as per the details given below:
-
-·         Two Buses (*Bus A & B*) at *7:15 AM* from South Campus to North
-Campus.
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
