@@ -1,5 +1,20 @@
 Found 19 emails in the last 2 days:
 
+Message ID: 1a009c0b4cdbe843
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Sun, 16 Aug 2026 14:16:43 +0530
+Subject: Re: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
+Snippet: Dear Students,
+
+The biometric registration process will close at 5:00 PM today. All
+students who have not yet completed their biometric registration are
+advised to complete the process before 5:00 PM.
+
+No further opportunity will be provided for biometric registration after
+the process closes
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
 Message ID: 1a0093c819ad02ed
 From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
 Date: Sun, 16 Aug 2026 11:52:18 +0530
@@ -211,17 +226,6 @@ On the occasion of India&rsquo;s 80th Independence Day, the Student Gymkhana is 
 The events are open to everyone, and we invite all students to participate and celebrate the spirit of Independence Day together.
 &nbsp;
 🇮🇳 1. De
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0005cd28f224c5
-From: "'Siddharth Rajesh Tiwari' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 14 Aug 2026 18:31:09 +0530
-Subject: [Announcement] Janmashtami 2026: Final Call for Volunteers & Orientation Session
-Snippet: Dear Everyone,
-We are gearing up for Janmashtami 2026 at IIT Mandi and are inviting students to be a part of the organising team through volunteering, performances, and various event activities.
-Final Call for Volunteer Registration
-Today is the last date to register as a Janmashtami volunteer. I
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
