@@ -1,4 +1,4 @@
-Found 15 emails in the last 2 days:
+Found 14 emails in the last 2 days:
 
 Message ID: 1a00b7bc245d9cdc
 From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
@@ -223,23 +223,5 @@ Competition* on *15th August*. 🇮🇳
 
 💪 *Come together. Pull together. Win together.*
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a001d73ca1089df
-From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
-Date: Sat, 15 Aug 2026 01:24:21 +0530
-Subject: Literary Society Introduction 2026
-Snippet: Hey Freshers!
-
-Ever watched The Office and thought, “I could definitely run Dunder Mifflin
-better than Michael Scott”?
-
-Or defended One Piece as peak fiction for 40 minutes?
-
-Or gone down a Wikipedia rabbit hole at 3 AM?
-
-Or maybe you’re simply a certified gooner with suspiciously good
-voc
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
