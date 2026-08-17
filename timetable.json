@@ -225,10 +225,20 @@
       "note": "Instructor will have biweekly meetings with the groups whom he is not supervising on Fridays. Next Friday (2026-08-14) is an even Friday.",
       "id": "gmail_19ff4aa57570cefb_0",
       "source": "gmail_sync"
+    },
+    {
+      "course": "IC-202P",
+      "action": "EXTRA",
+      "date": "2026-08-18",
+      "new_time": "17:00 - 18:00",
+      "new_venue": "Auditorium",
+      "note": "Mandatory Director's Address on Young Innovator Fellowship",
+      "id": "gmail_1a00f3ee1f208b1c_0",
+      "source": "gmail_sync"
     }
   ],
   "metadata": {
-    "last_synced": "2026-08-12T07:21:01Z",
+    "last_synced": "2026-08-17T12:38:28Z",
     "processed_emails": [
       "19fc371f6875c0cc",
       "19fc3040590c53f8",
@@ -390,7 +400,9 @@
       "1a00eeadb6e032ba",
       "1a00edc289c232f6",
       "1a00ea786d5f90eb",
-      "1a00e83b1dc07b1d"
+      "1a00e83b1dc07b1d",
+      "1a00f7da76e29cbe",
+      "1a00f3ee1f208b1c"
     ]
   }
 }

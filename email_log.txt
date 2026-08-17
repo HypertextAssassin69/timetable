@@ -1,4 +1,28 @@
-Found 21 emails in the last 2 days:
+Found 22 emails in the last 2 days:
+
+Message ID: 1a00f7da76e29cbe
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 17:01:20 +0530
+Subject: [Announcement] Invitation to attend the Second Open Seminar by Mr. Supern Swapnil (D22052), School of Mechanical and Materials Engineering (SMME)| 19th August 2026
+Snippet: Dear All,
+You are cordially invited to attend the Seond&nbsp;Open&nbsp;Seminar&nbsp;by Mr. Supern Swapnil (D22052), PhD scholar in the School of Mechanical and Materials Engineering, as per the following schedule:
+Date:&nbsp;19.08.2026 (Wednesday)
+Time:&nbsp;12:00 PM&nbsp;
+Venue:&nbsp;SMME Meeti
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a00f3ee1f208b1c
+From: "'Young Innovators Fellowship (YIF)' via btech2025" <btech2025@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 15:52:38 +0530
+Subject: Director's Address on Young Innovator Fellowship
+Snippet: Dear Students, We are excited to invite you to a pivotal discussion with
+Director Sir tomorrow in the Auditorium at 5 PM, where he will share
+insights on the institute's entrepreneurial philosophy and the Young
+Innovator Fellowship. Your participation is essential. This event is
+mandatory for a
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a00f055187a4b54
 From: "'Viswanath Balakrishnan' via all" <all@students.iitmandi.ac.in>
@@ -223,37 +247,6 @@ registration process.
 Regards,
 
 On Sun, 16 Aug, 2026, 2:16 pm Institute Colloquium - IIT M
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a009c0b4cdbe843
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 16 Aug 2026 14:16:43 +0530
-Subject: Re: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
-Snippet: Dear Students,
-
-The biometric registration process will close at 5:00 PM today. All
-students who have not yet completed their biometric registration are
-advised to complete the process before 5:00 PM.
-
-No further opportunity will be provided for biometric registration after
-the process closes
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0093c819ad02ed
-From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
-Date: Sun, 16 Aug 2026 11:52:18 +0530
-Subject: Literary Society Introduction 2026
-Snippet: Lit Intro ya Masti?
-*Lit Intro!*
-Masti follows my brother, masti follows.
-
-And you don't wanna miss out on all the masti that's going to happen in the
-Literary Society Introduction today.
-
-Wanna share a mehfil with UhlLekh, pop some quizzes with Qurosity, argue a
-little with TSOD, and journa
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
