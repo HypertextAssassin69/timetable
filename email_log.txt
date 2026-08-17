@@ -1,4 +1,83 @@
-Found 19 emails in the last 2 days:
+Found 21 emails in the last 2 days:
+
+Message ID: 1a00f055187a4b54
+From: "'Viswanath Balakrishnan' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 14:49:54 +0530
+Subject: [Announcement] Open Seimnar-2D-Material based Photomemristors for Neuromorphic Applications
+Snippet: Dear all, 
+You are invited to attend the first open seminar of Himanshu Joshi (S24048) as per the following schedule. 
+Date &amp; Time: August 19th, 2026 at 11 am
+Venue: A4 Conference Room
+2D-Material based Photomemristors for Neuromorphic Applications
+Abstract
+Conventional CMOS architectures
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a00eeadb6e032ba
+From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 14:20:53 +0530
+Subject: Notice Regarding Reinstallation of Bathroom Mirrors and Misuse of Hostel Property
+Snippet: Dear Students,
+
+Whoever has removed the bathroom mirror is instructed to reinstall it at
+its original location immediately.
+
+If any hostel property, including the bathroom mirror, is found in any
+student's room during inspection, disciplinary action may be taken against
+the concerned student.
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a00edc289c232f6
+From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 14:04:56 +0530
+Subject: [Announcement] Subject: Invitation to attend Second Open Seminar of Ms. Shilpa Chandra (D22115) | 11 AM | 19th Aug 2026 |
+Snippet: Dear All,
+You are cordially invited to attend the Second Open Seminar of Ph.D. Scholar&nbsp;Shilpa Chandra (D22115), as per the following schedule:
+Date:&nbsp;19/08/2026 (Wednesday)Time:&nbsp;11:00 AM&nbsp;
+Venue:&nbsp;A-9, Director&rsquo;s Board Room, North Campus
+&nbsp;
+Title: A Hierarchical
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a00ea786d5f90eb
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 13:07:12 +0530
+Subject: Re: Invitation: SNTC Introduction & Orientation Session - IIT Mandi
+Snippet: Dear students,
+
+Due to some minor issues, the session will start from *6:00 PM onwards*.
+
+Please be on time, as the session has already been delayed and we will wrap
+up by *7:30 PM*.
+
+Regards,
+
+
+*Piyush Roy*
+*Technical Secretary*
+*Student Gymkhana, IIT Mandi **Phone *- +91 6260553385
+*E
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a00e83b1dc07b1d
+From: "'Venkata Krishnan' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 12:28:18 +0530
+Subject: [Announcement] Second Open Seminar of Mr. Anitya Sharma (D22149)
+Snippet: Dear All,
+The second open seminar of my Ph.D. scholar, Mr. Anitya Sharma (D22149) is scheduled as follows.
+Date: Aug. 19, 2026 (Wednesday)
+Time: 12:00 noon
+Venue: A-4 Conference Room, South Campus
+The title and abstract are given below.
+All are cordially invited.
+Best regards,
+Venkata Krishn
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a00e21a10c664ce
 From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
@@ -176,91 +255,5 @@ Literary Society Introduction today.
 Wanna share a mehfil with UhlLekh, pop some quizzes with Qurosity, argue a
 little with TSOD, and journa
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a009096bc087a83
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 16 Aug 2026 10:56:31 +0530
-Subject: Re: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
-Snippet: Dear Students,
-
-Please note that the venue for biometric registration at South Campus has
-been changed within the same building:
-
-Earlier: D3 Mess (Outside), Second Floor
-Now: Yoga Mess (Outside), First Floor
-
-
-For your information.
-
------------
-Regards,
-
-On Sun, 16 Aug, 2026, 7:02 am
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a008bac459f1438
-From: Jia from Unstop <noreply@unstop.news>
-Date: Sun, 16 Aug 2026 09:30:52 +0530
-Subject: Earn stipend upto INR 75,000!
-Snippet: Your profile is a match!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279;
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0083397d012cf0
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 16 Aug 2026 07:02:59 +0530
-Subject: Re: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
-Snippet: Dear Students,
-
-*Gentle Reminder.*
-
-Please carry your Institute ID Card during the biometric registration
-process for verification purposes.
-
-Students who have not yet been issued an Institute ID Card must carry a
-valid Government-issued ID card for verification.
-
-Please ensure that the re
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a00643dfc7680a6
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Sat, 15 Aug 2026 22:01:31 +0530
-Subject: Re: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
-Snippet: Dear Students,
-
-This is a gentle reminder regarding tomorrow’s biometric registration.
-
-Earlier, biometric registration was mandatory for UG and PG students only.
-However, as per the latest instructions received from the authorities,
-biometric registration is now mandatory for all *UG, PG and
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a00591cd9d91603
-From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
-Date: Sat, 15 Aug 2026 18:46:56 +0530
-Subject: Re: 🇮🇳 Independence Day Special | Tug of War Competition
-Snippet: Gentle Reminder guys,
-
-We will start at 7:15 PM
-Venue is Fountain Area
-
-Best Regards
-Dhruv Kumar Singh
-Sports Secretary
-Student Gymkhana, IIT Mandi
-
-Mobile: +91 74528 58044
-
-On Sat, 15 Aug 2026, 11:28 Dhruv Kumar Singh - Sports Secretary,  wrote:
-
-> * Dear Students,*
->
-> This Indepen
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
