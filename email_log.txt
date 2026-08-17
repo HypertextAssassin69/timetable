@@ -1,4 +1,115 @@
-Found 14 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 1a00e21a10c664ce
+From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 10:41:11 +0530
+Subject: [Announcement] AYURVEDA PANCHAKARMA THERAPY scheduled for next week.
+Snippet: Dear All,
+
+
+The basic AYURVEDA PANCHAKARMA THERAPY AND CONSULTATION schedule for upcoming week&nbsp; 24 August 2026&nbsp; to 28 August 2026 is as follows:-
+
+
+&nbsp;
+
+
+Sr.No
+Therapy Name
+Benefits
+
+
+1
+Akshi Tarpan (Eye Therapy)
+Prevents eye degeneration.
+
+
+Relieves eye strain
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a00df096b95a958
+From: "'Ajay  Kumar' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 09:47:38 +0530
+Subject: [Announcement] Reminder || Invitation : First Open Seminar of Ms. Neethu Das, PhD Scholar (D22110) in the School of Humanities and Social Sciences | 17th August 2026 (Monday) | 03:00 PM onwards
+Snippet: Dear All,
+A gentle reminder!
+Please find below the meeting link for those who are required to join the seminar online. : Google Meet
+___________________
+Dear All,
+You are cordially invited to attend the First Open Seminar of Ms. Neethu Das, Ph.D. Scholar (D22110) in the School of Humanities and
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a00de0f3181accf
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 09:30:18 +0530
+Subject: Invitation: SNTC Introduction & Orientation Session - IIT Mandi
+Snippet: Dear Students,
+
+The Science and Technology Council (SNTC), IIT Mandi, warmly invites you to
+the SNTC Introduction Session.
+
+Whether you are eager to build robots, dive into artificial intelligence
+and software development, explore astronomy, design innovative hardware, or
+represent IIT Mandi
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a00ddd5bd6ffa93
+From: "'Career & Placement Cell IIT Mandi' via btech2025" <btech2025@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 09:26:05 +0530
+Subject: Re: Society 5.0 Workshop session by CnP Cell, IIT Mandi and Cognavi
+Snippet: Dear Students,
+
+The event is canceled, due to some unavoidable circumstances. We will
+inform you about the updated schedule soon.
+
+With regards,
+Veomesh Rawat
+
+On Thu, 6 Aug 2026 at 17:11, Career & Placement Cell IIT Mandi  wrote:
+
+> Dear Students,
+>
+> Please find the flyer for the event
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a00dd68377f433e
+From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 09:18:59 +0530
+Subject: Reopening of Swimming Pool – Effective from 17th August 2026
+Snippet: Dear All,
+
+This is to inform all students, faculty, staff, and campus residents that
+the *Swimming Pool at IIT Mandi will reopen from today, 17th August 2026*
+onwards.
+
+The pool will operate as per the regular schedule.
+
+
+Regards,
+Sports section
+
+Dear All,This is to inform all students,
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a00dd5fa051cc94
+From: "'Rajeev Kumar' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 09:18:34 +0530
+Subject: [Announcement] Reminder Invitation to attend the synopsis seminar of Mr Vishesh Singh (D23127)
+Snippet: Dear All,&nbsp;
+This is a gentle reminder for the Synopsis Seminar of Mr Vishesh Singh (D23127) today at 11AM in SMME Conference room
+Online Link:&nbsp;meet.google.com/tfn-gyne-cxm
+Regards
+Rajeev
+
+&nbsp;
+&nbsp;
+On Sat, Aug 15, 2026 at 6:07 PM Rajeev Kumar &lt;no-reply@iitmandi.ac.in&gt; wrot
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a00b7bc245d9cdc
 From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
@@ -150,78 +261,6 @@ On Sat, 15 Aug 2026, 11:28 Dhruv Kumar Singh - Sports Secretary,  wrote:
 > * Dear Students,*
 >
 > This Indepen
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0056dd7d13f9fe
-From: "'Rajeev Kumar' via all" <all@students.iitmandi.ac.in>
-Date: Sat, 15 Aug 2026 18:07:51 +0530
-Subject: [Announcement] Invitation to attend the synopsis seminar of Mr Vishesh Singh (D23127)
-Snippet: Dear All,
-You are cordially invited to attend the Synopsis Seminar of Mr&nbsp;Vishesh Singh (D23127) as per the following schedule:
-Date: August 17, 2026
-Time: 11.00 AM onwards
-Venue: SMME Conf room (No. 31) 
-Online Link: meet.google.com/tfn-gyne-cxm
-&nbsp;
-Title: Machine Learning Guided Meta
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a004b85c566f77b
-From: SHIVAM SHIVAM <b25483@students.iitmandi.ac.in>
-Date: Sat, 15 Aug 2026 14:49:06 +0530
-Subject: Re: EE261P Grouping and Instructions
-Snippet: Dear Sir,
-
-I have not enrolled in this course, and I am from the Mechanical
-Engineering branch. I have attached a screenshot of my course selection on
-the Samarth portal for your reference.
-
-I believe there may have been some misunderstanding. Therefore, I kindly
-request you to remove my name
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0048c8dcfb40f4
-From: Dwijasish Das <dwijasish@iitmandi.ac.in>
-Date: Sat, 15 Aug 2026 14:01:42 +0530
-Subject: EE261P Grouping and Instructions
-Snippet: Dear Students,
-
-Please find below the table containing the group-wise details for the E261P
-lab.
-
-As per your assigned group, please occupy the corresponding experiment
-table. For example, *Group 1 will use Experiment Table 1, Group 2 will use
-Experiment Table 2*, and so on. The name of the T
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0044de15191708
-From: "'himanshu Pathak' via all" <all@students.iitmandi.ac.in>
-Date: Sat, 15 Aug 2026 12:53:20 +0530
-Subject: [Announcement] First Open Seminar | Piyush Bhatt (D22170)  |  18 August 2026 at 12 PM | SMME Meeting Room
-Snippet: Dear All,
-You are cordially invited to the first open seminar by Piyush Bhatt (D22170) a PhD Scholar under SMME. The scheduled is given below:
-Title:&nbsp;Stress corrosion cracking threshold determination in biodegradable magnesium implant alloys
-Date and Time:&nbsp;Tuesday, 18 August 2026 at 12:
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a00400676ed6d90
-From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
-Date: Sat, 15 Aug 2026 11:28:31 +0530
-Subject: 🇮🇳 Independence Day Special | Tug of War Competition
-Snippet: * Dear Students,*
-
-This Independence Day, let's celebrate the spirit of *unity, strength, and
-teamwork* with a little friendly competition!
-
-The *Sports Society, IIT Mandi* is organising a* Special Tug of War
-Competition* on *15th August*. 🇮🇳
-
-💪 *Come together. Pull together. Win together.*
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
