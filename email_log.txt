@@ -1,5 +1,15 @@
 Found 21 emails in the last 2 days:
 
+Message ID: 1a0107117e4d0886
+From: "'Venkatesh  Hanumant Rao Chembrolu' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 17 Aug 2026 21:27:13 +0530
+Subject: [Announcement] PhD viva-voce examination of Mr Sai Kiran Gannamraju (PTD2313) || 19-08-2026 || A13 NKN Conference Room  || 10 AM
+Snippet: Dear All,
+You are cordially invited to attend the Ph.D. Viva-Voce Seminar of Mr. Sai Kiran Gannamraju (PTD2313), Ph.D. Scholar at the IKSMHA Centre, IIT Mandi. The seminar is scheduled as per the details below:
+Name: Mr. Sai Kiran Gannamraju (PTD2313)Date: 19th August 2026 (Wednesday)Time: 10:00 A
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
 Message ID: 1a00f7da76e29cbe
 From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
 Date: Mon, 17 Aug 2026 17:01:20 +0530
@@ -229,24 +239,5 @@ Snippet: Dear Students,
 
 *Previous Year Inter IIT Records*: [Records Link]
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a00a2214e7e89b2
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 16 Aug 2026 16:03:04 +0530
-Subject: Re: Mandatory Institute Biometric Registration For UG & PG Students – 16 August 2026 (Sunday)
-Snippet: Dear Students,
-
-This is the last reminder to complete your biometric registration within
-the prescribed timeline.
-
-No further opportunity will be provided after the closure of the
-registration process.
-
------------------
-Regards,
-
-On Sun, 16 Aug, 2026, 2:16 pm Institute Colloquium - IIT M
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
