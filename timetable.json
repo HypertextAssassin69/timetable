@@ -235,10 +235,30 @@
       "note": "Mandatory Director's Address on Young Innovator Fellowship",
       "id": "gmail_1a00f3ee1f208b1c_0",
       "source": "gmail_sync"
+    },
+    {
+      "course": "IC-272",
+      "action": "RESCHEDULE",
+      "date": "2026-08-18",
+      "new_time": "18:15 - 20:00",
+      "new_venue": "A18",
+      "note": "For CSE branch students, lab start time delayed due to Innovators event ending at 6pm. The lab was originally scheduled for 18:00 - 20:00 on this date.",
+      "id": "gmail_1a013faa8ff9bc02_0",
+      "source": "gmail_sync"
+    },
+    {
+      "course": "IC-272",
+      "action": "RESCHEDULE",
+      "date": "2026-08-20",
+      "new_time": "18:00 - 20:00",
+      "new_venue": "A18",
+      "note": "CSE branch lab rescheduled from Tuesday to Thursday due to the young innovators event.",
+      "id": "gmail_1a013df4ce5c813d_1",
+      "source": "gmail_sync"
     }
   ],
   "metadata": {
-    "last_synced": "2026-08-17T12:38:28Z",
+    "last_synced": "2026-08-18T09:30:42Z",
     "processed_emails": [
       "19fc371f6875c0cc",
       "19fc3040590c53f8",
@@ -405,7 +425,13 @@
       "1a00f3ee1f208b1c",
       "1a0107117e4d0886",
       "1a01315d82595405",
-      "1a01311e1648a5af"
+      "1a01311e1648a5af",
+      "1a0142e4fa2c602c",
+      "1a013faa8ff9bc02",
+      "1a013f75c693d43b",
+      "1a013df4ce5c813d",
+      "1a013b3f955515b8",
+      "1a013998bd4fc111"
     ]
   }
 }

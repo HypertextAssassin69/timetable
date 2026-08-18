@@ -1,4 +1,104 @@
-Found 19 emails in the last 2 days:
+Found 24 emails in the last 2 days:
+
+Message ID: 1a0142e4fa2c602c
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 14:52:35 +0530
+Subject: Special Lecture on Developing Breakthrough Innovations Aligned with Human Values & Goals by Shri. Mihir Shah
+Snippet: Dear All,
+
+
+We are delighted to announce a special lecture by Mr. Mihir Shah, a
+globally recognized med-tech innovator, entrepreneur, and Founder & CEO of UE
+Lifesciences.
+
+With over 25 years of experience in commercializing medical innovations,
+Mr. Shah has worked to transform scientific di
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a013faa8ff9bc02
+From: Kaustav Goswami <dd25007@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 13:56:15 +0530
+Subject: Re: IC-272 Lab Slot Allotment & Lab-1 Details
+Snippet: Innovators event will end by 6pm so CSE branch will have their labs today
+as mentioned earlier. You are expected to be present in labs by 6:15.
+
+Thanks and Regards,
+Kaustav Goswami
+Research Scholar
+School of Computing and Electrical Engineering (SCEE)
+Indian Institute of Technology Mandi, HP,
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a013f75c693d43b
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 13:52:29 +0530
+Subject: Intro to Programming - Session @ 6pm
+Snippet: Dear all,
+
+As per the schedule, we will be having a session on Intro to Programming at
+6pm onwards, please join the session in big numbers and bring your laptop
+for the same.
+
+Event Time Date Venue
+Introduction to programming 6pm to 7:30pm 18 Aug Auditorium
+Intro to CAD, and AutoCAD 5pm to 7
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a013df4ce5c813d
+From: Kaustav Goswami <dd25007@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 13:26:21 +0530
+Subject: Re: IC-272 Lab Slot Allotment & Lab-1 Details
+Snippet: Just for this week CSE branch students will have their lab on Thursday due
+to the young innovators event.
+
+Thanks and Regards,
+Kaustav Goswami
+Research Scholar
+School of Computing and Electrical Engineering (SCEE)
+Indian Institute of Technology Mandi, HP, India
+
+On Tue, 18 Aug, 2026, 12:09
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a013b3f955515b8
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 12:32:57 +0530
+Subject: [Announcement] Invitation to attend the First Open Seminar by Mr Ankur Kaundal (D21037) in the School of Mechanical and Materials Engineering (SMME) | 20th August 2026
+Snippet: Dear All,
+You are cordially invited to attend the first open seminar by Mr Ankur Kaundal (D21037), a PhD scholar in the School of Mechanical and Materials Engineering, as per the following details:
+Title:&nbsp;Phenomenon of Biomass Combustion and Numerical Investigation of Biomass-Based Room Heati
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a013998bd4fc111
+From: Kaustav Goswami <dd25007@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 12:09:47 +0530
+Subject: IC-272 Lab Slot Allotment & Lab-1 Details
+Snippet: Hello Students,
+Please find below the lab allotment for each branch. Labs will be held in
+every week from 6-8 PM
+
+Tuesday
+Branch #Students Room
+CSE 79 A18
+DS&AI 49
+A11
+MnC 30
+VLSI 27
+Bioengineering 27 A10
+
+Wednesday
+Branch #Students Room
+IMBA 60 A18
+Civil Engineering 43
+A11
+MSE 28
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a01315d82595405
 From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -124,117 +224,6 @@ Regards,
 *Technical Secretary*
 *Student Gymkhana, IIT Mandi **Phone *- +91 6260553385
 *E
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a00e83b1dc07b1d
-From: "'Venkata Krishnan' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 12:28:18 +0530
-Subject: [Announcement] Second Open Seminar of Mr. Anitya Sharma (D22149)
-Snippet: Dear All,
-The second open seminar of my Ph.D. scholar, Mr. Anitya Sharma (D22149) is scheduled as follows.
-Date: Aug. 19, 2026 (Wednesday)
-Time: 12:00 noon
-Venue: A-4 Conference Room, South Campus
-The title and abstract are given below.
-All are cordially invited.
-Best regards,
-Venkata Krishn
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a00e21a10c664ce
-From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 10:41:11 +0530
-Subject: [Announcement] AYURVEDA PANCHAKARMA THERAPY scheduled for next week.
-Snippet: Dear All,
-
-
-The basic AYURVEDA PANCHAKARMA THERAPY AND CONSULTATION schedule for upcoming week&nbsp; 24 August 2026&nbsp; to 28 August 2026 is as follows:-
-
-
-&nbsp;
-
-
-Sr.No
-Therapy Name
-Benefits
-
-
-1
-Akshi Tarpan (Eye Therapy)
-Prevents eye degeneration.
-
-
-Relieves eye strain
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a00df096b95a958
-From: "'Ajay  Kumar' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 09:47:38 +0530
-Subject: [Announcement] Reminder || Invitation : First Open Seminar of Ms. Neethu Das, PhD Scholar (D22110) in the School of Humanities and Social Sciences | 17th August 2026 (Monday) | 03:00 PM onwards
-Snippet: Dear All,
-A gentle reminder!
-Please find below the meeting link for those who are required to join the seminar online. : Google Meet
-___________________
-Dear All,
-You are cordially invited to attend the First Open Seminar of Ms. Neethu Das, Ph.D. Scholar (D22110) in the School of Humanities and
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a00de0f3181accf
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 09:30:18 +0530
-Subject: Invitation: SNTC Introduction & Orientation Session - IIT Mandi
-Snippet: Dear Students,
-
-The Science and Technology Council (SNTC), IIT Mandi, warmly invites you to
-the SNTC Introduction Session.
-
-Whether you are eager to build robots, dive into artificial intelligence
-and software development, explore astronomy, design innovative hardware, or
-represent IIT Mandi
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a00ddd5bd6ffa93
-From: "'Career & Placement Cell IIT Mandi' via btech2025" <btech2025@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 09:26:05 +0530
-Subject: Re: Society 5.0 Workshop session by CnP Cell, IIT Mandi and Cognavi
-Snippet: Dear Students,
-
-The event is canceled, due to some unavoidable circumstances. We will
-inform you about the updated schedule soon.
-
-With regards,
-Veomesh Rawat
-
-On Thu, 6 Aug 2026 at 17:11, Career & Placement Cell IIT Mandi  wrote:
-
-> Dear Students,
->
-> Please find the flyer for the event
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a00dd68377f433e
-From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 09:18:59 +0530
-Subject: Reopening of Swimming Pool – Effective from 17th August 2026
-Snippet: Dear All,
-
-This is to inform all students, faculty, staff, and campus residents that
-the *Swimming Pool at IIT Mandi will reopen from today, 17th August 2026*
-onwards.
-
-The pool will operate as per the regular schedule.
-
-
-Regards,
-Sports section
-
-Dear All,This is to inform all students,
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
