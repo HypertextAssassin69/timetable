@@ -1,4 +1,105 @@
-Found 24 emails in the last 2 days:
+Found 30 emails in the last 2 days:
+
+Message ID: 1a014b6c4ce5889d
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 17:21:29 +0530
+Subject: Re: Intro to Programming - Session @ 6pm
+Snippet: Reminder…
+
+Regards,
+
+
+*Piyush Roy*
+*Technical Secretary*
+*Student Gymkhana, IIT Mandi **Phone *- +91 6260553385
+*Email *- B23355@students.iitmandi.ac.in
+
+
+On Tue, 18 Aug 2026 at 1:52 PM, Piyush Roy  wrote:
+
+> Dear all,
+>
+> As per the schedule, we will be having a session on Intro to P
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a0149d2337af930
+From: "'Ajay  Kumar' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 16:53:49 +0530
+Subject: [Announcement] Invitation : Second Open Seminar of Ms. Chalantika Chakraborty (D21003) in the School of Humanities and Social Sciences, IIT Mandi | 03:30 PM onwards
+Snippet: Dear All,
+You are cordially invited to attend Second Open Seminar of Ms. Chalantika Chakraborty (D21003), PhD Scholar in the School of Humanities and Social Sciences as per following Schedule :
+Date: 24.08.2026 (Monday)Time: 3:30 PMVenue: SHSS Conference Room No.-16 (Big Conference Room), NKN, A
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a01492c3795ebcb
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 16:42:29 +0530
+Subject: [Announcement] Invitation to attend the First Open Seminar by Mr. Jaideep Shukla (D22096), School of Mechanical and Materials Engineering (SMME)| 21st August 2026
+Snippet: Dear All,
+You are cordially invited to attend the first open seminar by Mr. Jaideep Shukla (D22096), a PhD scholar in the School of Mechanical and Materials Engineering, as per the following details:
+Title:&nbsp;Phase stability and spray behaviour of oleic acid-assisted ethanol-diesel blends
+Da
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a01482e383e2fa3
+From: "'Shyam Masakapalli' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 16:25:09 +0530
+Subject: [Announcement] Invitation to the Open Seminar of Ramnath Nayak (UD25008), SBB on 25th Aug 2026, 12 noon at A4 conference room
+Snippet: Dear All,You are cordially invited to attend the first open seminar of&nbsp;Ramnath Nayak (UD25008)&nbsp;as per the following schedule:
+Date: 25th August 2026
+Time: 12 noon
+Venue: A4 conference room
+The Title and abstract are as follows:
+&nbsp;
+Metabolic Drivers of Symbiotic Legume Root Nodule
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a01474c3cec4578
+From: "'sceeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 16:09:43 +0530
+Subject: [Announcement] Invitation to attend Synopsis seminar of Mr. Shreyash Soni (S23081)
+Snippet: Dear All,
+You are cordially invited to attend the&nbsp;synopsis seminar&nbsp;of&nbsp;Mr. Shreyash&nbsp;Soni(S23081), as per the following schedule:
+Date: 20.08.2026Time: 2:30 PM&nbsp;Venue: SCEE Conference Room
+Title:&nbsp; Development of fNIRS Hardware Software Pipeline for Cerebral Oxygenation
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a0146216054c038
+From: "'Ayush' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 15:49:20 +0530
+Subject: [Announcement] Janmashtami'26 IIT Mandi – Exclusive T-Shirt Pre-Order
+Snippet: Dear All,
+As part of&nbsp;Janmashtami 2026 celebrations at IIT Mandi, we are pleased to announce the&nbsp;Janmashtami'26 Exclusive T-Shirt.
+The T-shirt is available in&nbsp;two colour variants &mdash; Blue and Yellow, with sizes&nbsp;S, M, L and XL.
+T-Shirt Pricing
+
+Regular Price:&nbsp;₹430
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a01452fb1968ea1
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 15:32:38 +0530
+Subject: Fwd: SDEF India Scholarship 2026–27 | Opportunity for Eligible IIT Students
+Snippet: Dear Students
+
+WRT the subject of this communication, the email is forwarded herewith for
+your information and perusal.
+----------------------------------------
+Thanks and Regards
+Dean Students Secretariat
+Indian Institute of Technology Mandi
+Himachal Pradesh-175075
+
+
+---------- Forwarded
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a0142e4fa2c602c
 From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
@@ -128,102 +229,5 @@ Regards
 Moumita
 Dear All,The serial number for attendance is uploaded in moodle. Please remember the serial number for marking your attenda
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0107117e4d0886
-From: "'Venkatesh  Hanumant Rao Chembrolu' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 21:27:13 +0530
-Subject: [Announcement] PhD viva-voce examination of Mr Sai Kiran Gannamraju (PTD2313) || 19-08-2026 || A13 NKN Conference Room  || 10 AM
-Snippet: Dear All,
-You are cordially invited to attend the Ph.D. Viva-Voce Seminar of Mr. Sai Kiran Gannamraju (PTD2313), Ph.D. Scholar at the IKSMHA Centre, IIT Mandi. The seminar is scheduled as per the details below:
-Name: Mr. Sai Kiran Gannamraju (PTD2313)Date: 19th August 2026 (Wednesday)Time: 10:00 A
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a00f7da76e29cbe
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 17:01:20 +0530
-Subject: [Announcement] Invitation to attend the Second Open Seminar by Mr. Supern Swapnil (D22052), School of Mechanical and Materials Engineering (SMME)| 19th August 2026
-Snippet: Dear All,
-You are cordially invited to attend the Seond&nbsp;Open&nbsp;Seminar&nbsp;by Mr. Supern Swapnil (D22052), PhD scholar in the School of Mechanical and Materials Engineering, as per the following schedule:
-Date:&nbsp;19.08.2026 (Wednesday)
-Time:&nbsp;12:00 PM&nbsp;
-Venue:&nbsp;SMME Meeti
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a00f3ee1f208b1c
-From: "'Young Innovators Fellowship (YIF)' via btech2025" <btech2025@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 15:52:38 +0530
-Subject: Director's Address on Young Innovator Fellowship
-Snippet: Dear Students, We are excited to invite you to a pivotal discussion with
-Director Sir tomorrow in the Auditorium at 5 PM, where he will share
-insights on the institute's entrepreneurial philosophy and the Young
-Innovator Fellowship. Your participation is essential. This event is
-mandatory for a
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a00f055187a4b54
-From: "'Viswanath Balakrishnan' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 14:49:54 +0530
-Subject: [Announcement] Open Seimnar-2D-Material based Photomemristors for Neuromorphic Applications
-Snippet: Dear all, 
-You are invited to attend the first open seminar of Himanshu Joshi (S24048) as per the following schedule. 
-Date &amp; Time: August 19th, 2026 at 11 am
-Venue: A4 Conference Room
-2D-Material based Photomemristors for Neuromorphic Applications
-Abstract
-Conventional CMOS architectures
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a00eeadb6e032ba
-From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 14:20:53 +0530
-Subject: Notice Regarding Reinstallation of Bathroom Mirrors and Misuse of Hostel Property
-Snippet: Dear Students,
-
-Whoever has removed the bathroom mirror is instructed to reinstall it at
-its original location immediately.
-
-If any hostel property, including the bathroom mirror, is found in any
-student's room during inspection, disciplinary action may be taken against
-the concerned student.
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a00edc289c232f6
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 14:04:56 +0530
-Subject: [Announcement] Subject: Invitation to attend Second Open Seminar of Ms. Shilpa Chandra (D22115) | 11 AM | 19th Aug 2026 |
-Snippet: Dear All,
-You are cordially invited to attend the Second Open Seminar of Ph.D. Scholar&nbsp;Shilpa Chandra (D22115), as per the following schedule:
-Date:&nbsp;19/08/2026 (Wednesday)Time:&nbsp;11:00 AM&nbsp;
-Venue:&nbsp;A-9, Director&rsquo;s Board Room, North Campus
-&nbsp;
-Title: A Hierarchical
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a00ea786d5f90eb
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 13:07:12 +0530
-Subject: Re: Invitation: SNTC Introduction & Orientation Session - IIT Mandi
-Snippet: Dear students,
-
-Due to some minor issues, the session will start from *6:00 PM onwards*.
-
-Please be on time, as the session has already been delayed and we will wrap
-up by *7:30 PM*.
-
-Regards,
-
-
-*Piyush Roy*
-*Technical Secretary*
-*Student Gymkhana, IIT Mandi **Phone *- +91 6260553385
-*E
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
