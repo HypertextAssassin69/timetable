@@ -1,4 +1,14 @@
-Found 30 emails in the last 2 days:
+Found 31 emails in the last 2 days:
+
+Message ID: 1a014fe6c0aff29e
+From: "'Venkatesh  Hanumant Rao Chembrolu' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 18:40:06 +0530
+Subject: [Announcement] Reminder :: PhD viva-voce examination of Mr Sai Kiran Gannamraju (PTD2313) || 19-08-2026 || A13 NKN Conference Room || 10 AM
+Snippet: Dear All,
+You are cordially invited to attend the Ph.D. Viva-Voce Seminar of Mr. Sai Kiran Gannamraju (PTD2313), Ph.D. Scholar at the IKSMHA Centre, IIT Mandi. The seminar is scheduled as per the details below:
+Name: Mr. Sai Kiran Gannamraju (PTD2313)Date: 19th August 2026 (Wednesday)Time: 10:00 A
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a014b6c4ce5889d
 From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
@@ -214,20 +224,5 @@ Madhabananda Kar (Director - AIIMS Bhopal), will deliver a talk
 (Institute Colloquium) on “From Clinical Need to Healthcare Innovation: A
 Surgeon’s Perspective”*. *The details of the talk are a
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a01311e1648a5af
-From: "'Moumita Das' via btech_ee2025" <btech_ee2025@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 09:41:56 +0530
-Subject: Serial Number EE-261
-Snippet: Dear All,
-
-The serial number for attendance is uploaded in moodle. Please remember the
-serial number for marking your attendance in the lecture. Thanks.
-
-Regards
-Moumita
-Dear All,The serial number for attendance is uploaded in moodle. Please remember the serial number for marking your attenda
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
