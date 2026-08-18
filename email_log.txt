@@ -1,4 +1,34 @@
-Found 20 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 1a01315d82595405
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 09:46:15 +0530
+Subject: Institute Colloquium : Prof. Madhabananda Kar (Director - AIIMS Bhopal) on 21st August, 2026 at 05:00 PM
+Snippet: Dear Sir/ Madam and Students,
+
+
+
+The Institute Colloquium Cell, is pleased to inform you that Prof.
+Madhabananda Kar (Director - AIIMS Bhopal), will deliver a talk
+(Institute Colloquium) on “From Clinical Need to Healthcare Innovation: A
+Surgeon’s Perspective”*. *The details of the talk are a
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a01311e1648a5af
+From: "'Moumita Das' via btech_ee2025" <btech_ee2025@students.iitmandi.ac.in>
+Date: Tue, 18 Aug 2026 09:41:56 +0530
+Subject: Serial Number EE-261
+Snippet: Dear All,
+
+The serial number for attendance is uploaded in moodle. Please remember the
+serial number for marking your attendance in the lecture. Thanks.
+
+Regards
+Moumita
+Dear All,The serial number for attendance is uploaded in moodle. Please remember the serial number for marking your attenda
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a0107117e4d0886
 From: "'Venkatesh  Hanumant Rao Chembrolu' via all" <all@students.iitmandi.ac.in>
@@ -206,38 +236,5 @@ Sports section
 
 Dear All,This is to inform all students,
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a00dd5fa051cc94
-From: "'Rajeev Kumar' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 17 Aug 2026 09:18:34 +0530
-Subject: [Announcement] Reminder Invitation to attend the synopsis seminar of Mr Vishesh Singh (D23127)
-Snippet: Dear All,&nbsp;
-This is a gentle reminder for the Synopsis Seminar of Mr Vishesh Singh (D23127) today at 11AM in SMME Conference room
-Online Link:&nbsp;meet.google.com/tfn-gyne-cxm
-Regards
-Rajeev
-
-&nbsp;
-&nbsp;
-On Sat, Aug 15, 2026 at 6:07 PM Rajeev Kumar &lt;no-reply@iitmandi.ac.in&gt; wrot
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a00b7bc245d9cdc
-From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
-Date: Sun, 16 Aug 2026 22:20:36 +0530
-Subject: Athletics Trials for Provisional Inter IIT Team
-Snippet: Dear Students,
-
- Athletics trials for the Provisional Inter IIT Team will be held on:
-
- 📅 *18th & 19th August 2026 (Tuesday & Wednesday) *
-📍 *Venue:* Cricket Ground, South Campus
- *⏰ Time: *5:00 PM – 8:00 PM
-* Event List*: Open Event List
-
-*Previous Year Inter IIT Records*: [Records Link]
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
