@@ -1,4 +1,117 @@
-Found 31 emails in the last 2 days:
+Found 33 emails in the last 2 days:
+
+Message ID: 1a018a6f8fadbf5f
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 11:43:02 +0530
+Subject: [Announcement] Gentle Reminder: Invitation to attend the Second Open Seminar by Mr. Supern Swapnil (D22052), School of Mechanical and Materials Engineering (SMME)| 19th August 2026
+Snippet: Dear All,
+A gentle reminder.
+You are cordially invited to attend the Seond&nbsp;Open&nbsp;Seminar&nbsp;by Mr.&nbsp;Supern&nbsp;Swapnil (D22052), PhD scholar in the School of Mechanical and Materials Engineering, as per the following schedule:
+Date:&nbsp;19.08.2026 (Wednesday)
+Time:&nbsp;12:00 PM
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a018a12ed8c2b69
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 11:36:27 +0530
+Subject: Technical Induction Program: 2D CAD Modelling with AutoCAD
+Snippet: Dear students,
+
+Welcome to the Technical Induction Program! Nirmaan Club is excited to kick
+off the very first session of our CAD Modelling & Simulation series with a
+hands-on workshop on AutoCAD – 2D CAD Modelling. *Please note that the
+session timing has been revised to 6:00 PM – 7:30 PM (upd
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0189318dd9e4b2
+From: "'RAMDAYAL' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 11:21:18 +0530
+Subject: [Announcement] Hockey Practice - All Interested Students Welcome
+Snippet: Dear Students,
+&nbsp;
+&nbsp;Here&rsquo;s your chance to learn, play, and represent IIT Mandi!
+&nbsp;
+A special call to all Freshers &mdash; no prior experience is required. Our Coach Sir is available every morning and evening to train and guide you from the basics.
+&nbsp;
+🔥 As Rann-Neeti Sport
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a01882a30742ddc
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 11:03:10 +0530
+Subject: Fwd: Special Lecture on Developing Breakthrough Innovations Aligned with Human Values & Goals by Shri. Mihir Shah
+Snippet: Dear Students,
+
+A gentle reminder for attending the special lecture by* Mr.** Mihir Shah*,
+Founder & CEO, UE Lifesciences, scheduled on *19/08/2026 (Wednesday), from
+5:00 PM to 6:00 PM at the Institute Auditorium.*
+
+*Kindly note that the lecture is mandatory for B. Tech. 2026 batch and
+Design
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0184e55697e7f4
+From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 10:06:12 +0530
+Subject: [Announcement] Subject: Invitation to attend Second Open Seminar of Ms. Shilpa Chandra (D22115) | 11 AM | 19th Aug 2026 |
+Snippet: Dear All,
+You are cordially invited to attend the Second Open Seminar of Ph.D. Scholar&nbsp;Shilpa Chandra (D22115), as per the following schedule:
+Date:&nbsp;19/08/2026 (Wednesday)Time:&nbsp;11:00 AM&nbsp;
+Venue:&nbsp;A-9, Director&rsquo;s Board Room, North Campus
+&nbsp;
+Title: A Hierarchical
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0183db75e131f0
+From: "'Young Innovators Fellowship (YIF)' via btech2025" <btech2025@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 09:47:55 +0530
+Subject: Re: Director's Address on Young Innovator Fellowship
+Snippet: Dear Students,
+Thank you for joining yesterday's session on very short notice. The YIF
+slides
+
+are attached for your reference.
+Feel free to discuss anything related to DP, YIF, startups, or
+entrepreneurship: drop an email or visit my office (A11, 4th Floor,
+Opposite to Lift).
+
+*___________
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a01831d0a2c48ea
+From: "'scs office' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 09:35:04 +0530
+Subject: [Announcement] Viva Voce Seminar of Mr. Goraksha T. Sapkal, (D20083) Ph.D. Scholar, SCS || 21st August 2026, 11:00 AM (Friday) || A1-NKN Conference Room, South Campus
+Snippet: Dear All,
+&nbsp;
+You are cordially invited to attend the viva voce seminar of Ph.D. scholar&nbsp;Mr. Goraksha T. Sapkal (D20083) as per the following schedule:
+Date:&nbsp;Friday, 21st August 2026.
+Venue:&nbsp;A1NKN Conference Room
+Time:&nbsp;11:00 AM
+Title: NIR Emissive Cyanine Probes for Dead
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0181f4a4ae007d
+From: "'scs office' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 09:14:50 +0530
+Subject: [Announcement] Reminder: Synopsis Seminar of SCS PhD Student Mr. Vishal Sharma (D18036), A4-Conference Room, South campus - Wednesday 19th August 26
+Snippet: A gentle reminder!
+&nbsp;
+Dear All,
+&nbsp;
+You are cordially invited to attend the Synopsis Seminar of&nbsp;Mr.&nbsp;Vishal Sharma&nbsp;(D18036), Ph.D. Scholar, SCS, as per the following schedule:
+&nbsp;
+Venue:&nbsp;A4-Conference&nbsp;room, south campus
+&nbsp;Time:&nbsp;1:30&nbsp;pm to 2:30 p
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a017e635454af07
 From: "'Viswanath Balakrishnan' via all" <all@students.iitmandi.ac.in>
@@ -91,137 +204,5 @@ You are cordially invited to attend the&nbsp;synopsis seminar&nbsp;of&nbsp;Mr. S
 Date: 20.08.2026Time: 2:30 PM&nbsp;Venue: SCEE Conference Room
 Title:&nbsp; Development of fNIRS Hardware Software Pipeline for Cerebral Oxygenation
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0146216054c038
-From: "'Ayush' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 15:49:20 +0530
-Subject: [Announcement] Janmashtami'26 IIT Mandi – Exclusive T-Shirt Pre-Order
-Snippet: Dear All,
-As part of&nbsp;Janmashtami 2026 celebrations at IIT Mandi, we are pleased to announce the&nbsp;Janmashtami'26 Exclusive T-Shirt.
-The T-shirt is available in&nbsp;two colour variants &mdash; Blue and Yellow, with sizes&nbsp;S, M, L and XL.
-T-Shirt Pricing
-
-Regular Price:&nbsp;₹430
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a01452fb1968ea1
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 15:32:38 +0530
-Subject: Fwd: SDEF India Scholarship 2026–27 | Opportunity for Eligible IIT Students
-Snippet: Dear Students
-
-WRT the subject of this communication, the email is forwarded herewith for
-your information and perusal.
-----------------------------------------
-Thanks and Regards
-Dean Students Secretariat
-Indian Institute of Technology Mandi
-Himachal Pradesh-175075
-
-
----------- Forwarded
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0142e4fa2c602c
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 14:52:35 +0530
-Subject: Special Lecture on Developing Breakthrough Innovations Aligned with Human Values & Goals by Shri. Mihir Shah
-Snippet: Dear All,
-
-
-We are delighted to announce a special lecture by Mr. Mihir Shah, a
-globally recognized med-tech innovator, entrepreneur, and Founder & CEO of UE
-Lifesciences.
-
-With over 25 years of experience in commercializing medical innovations,
-Mr. Shah has worked to transform scientific di
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a013faa8ff9bc02
-From: Kaustav Goswami <dd25007@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 13:56:15 +0530
-Subject: Re: IC-272 Lab Slot Allotment & Lab-1 Details
-Snippet: Innovators event will end by 6pm so CSE branch will have their labs today
-as mentioned earlier. You are expected to be present in labs by 6:15.
-
-Thanks and Regards,
-Kaustav Goswami
-Research Scholar
-School of Computing and Electrical Engineering (SCEE)
-Indian Institute of Technology Mandi, HP,
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a013f75c693d43b
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 13:52:29 +0530
-Subject: Intro to Programming - Session @ 6pm
-Snippet: Dear all,
-
-As per the schedule, we will be having a session on Intro to Programming at
-6pm onwards, please join the session in big numbers and bring your laptop
-for the same.
-
-Event Time Date Venue
-Introduction to programming 6pm to 7:30pm 18 Aug Auditorium
-Intro to CAD, and AutoCAD 5pm to 7
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a013df4ce5c813d
-From: Kaustav Goswami <dd25007@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 13:26:21 +0530
-Subject: Re: IC-272 Lab Slot Allotment & Lab-1 Details
-Snippet: Just for this week CSE branch students will have their lab on Thursday due
-to the young innovators event.
-
-Thanks and Regards,
-Kaustav Goswami
-Research Scholar
-School of Computing and Electrical Engineering (SCEE)
-Indian Institute of Technology Mandi, HP, India
-
-On Tue, 18 Aug, 2026, 12:09
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a013b3f955515b8
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 12:32:57 +0530
-Subject: [Announcement] Invitation to attend the First Open Seminar by Mr Ankur Kaundal (D21037) in the School of Mechanical and Materials Engineering (SMME) | 20th August 2026
-Snippet: Dear All,
-You are cordially invited to attend the first open seminar by Mr Ankur Kaundal (D21037), a PhD scholar in the School of Mechanical and Materials Engineering, as per the following details:
-Title:&nbsp;Phenomenon of Biomass Combustion and Numerical Investigation of Biomass-Based Room Heati
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a013998bd4fc111
-From: Kaustav Goswami <dd25007@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 12:09:47 +0530
-Subject: IC-272 Lab Slot Allotment & Lab-1 Details
-Snippet: Hello Students,
-Please find below the lab allotment for each branch. Labs will be held in
-every week from 6-8 PM
-
-Tuesday
-Branch #Students Room
-CSE 79 A18
-DS&AI 49
-A11
-MnC 30
-VLSI 27
-Bioengineering 27 A10
-
-Wednesday
-Branch #Students Room
-IMBA 60 A18
-Civil Engineering 43
-A11
-MSE 28
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
