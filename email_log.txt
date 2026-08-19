@@ -1,5 +1,22 @@
 Found 30 emails in the last 2 days:
 
+Message ID: 1a01afb915a77f5c
+From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 22:34:32 +0530
+Subject: IIT Mandi Cricket Trials 2026
+Snippet: *Dear Cricketers,*
+
+The wait is finally over! 🔥
+
+The *most awaited Cricket Trials of IIT Mandi* are here. This is your
+opportunity to step onto the field, showcase your skills, and *earn your
+place in the IIT Mandi Cricket Team.*
+📅 Trial Details
+
+*Dates:* 24th August (Monday) & 25th August
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
 Message ID: 1a01a615f443d8e7
 From: Aarvik Oberoi - General Secretary <general_secretary@students.iitmandi.ac.in>
 Date: Wed, 19 Aug 2026 19:46:01 +0530
@@ -199,28 +216,5 @@ Snippet: Dear All,
 You are cordially invited to attend the Ph.D. Viva-Voce Seminar of Mr. Sai Kiran Gannamraju (PTD2313), Ph.D. Scholar at the IKSMHA Centre, IIT Mandi. The seminar is scheduled as per the details below:
 Name: Mr. Sai Kiran Gannamraju (PTD2313)Date: 19th August 2026 (Wednesday)Time: 10:00 A
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a014b6c4ce5889d
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 17:21:29 +0530
-Subject: Re: Intro to Programming - Session @ 6pm
-Snippet: Reminder…
-
-Regards,
-
-
-*Piyush Roy*
-*Technical Secretary*
-*Student Gymkhana, IIT Mandi **Phone *- +91 6260553385
-*Email *- B23355@students.iitmandi.ac.in
-
-
-On Tue, 18 Aug 2026 at 1:52 PM, Piyush Roy  wrote:
-
-> Dear all,
->
-> As per the schedule, we will be having a session on Intro to P
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
