@@ -1,4 +1,18 @@
-Found 30 emails in the last 2 days:
+Found 31 emails in the last 2 days:
+
+Message ID: 1a017e635454af07
+From: "'Viswanath Balakrishnan' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 08:12:29 +0530
+Subject: [Announcement] Open Seminar-2D-Material based Photomemristors for Neuromorphic Applications
+Snippet: Dear all,
+You are invited to attend the first open seminar of Himanshu Joshi (S24048) as per the following schedule.
+Date &amp; Time: August 19th, 2026 at 11 am
+Venue: A4 Conference Room
+2D-Material based Photomemristors for Neuromorphic Applications
+Abstract
+Conventional CMOS architectures ke
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a014fe6c0aff29e
 From: "'Venkatesh  Hanumant Rao Chembrolu' via all" <all@students.iitmandi.ac.in>
@@ -209,20 +223,5 @@ Civil Engineering 43
 A11
 MSE 28
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a01315d82595405
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 09:46:15 +0530
-Subject: Institute Colloquium : Prof. Madhabananda Kar (Director - AIIMS Bhopal) on 21st August, 2026 at 05:00 PM
-Snippet: Dear Sir/ Madam and Students,
-
-
-
-The Institute Colloquium Cell, is pleased to inform you that Prof.
-Madhabananda Kar (Director - AIIMS Bhopal), will deliver a talk
-(Institute Colloquium) on “From Clinical Need to Healthcare Innovation: A
-Surgeon’s Perspective”*. *The details of the talk are a
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
