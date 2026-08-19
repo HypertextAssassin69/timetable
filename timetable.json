@@ -255,10 +255,20 @@
       "note": "CSE branch lab rescheduled from Tuesday to Thursday due to the young innovators event.",
       "id": "gmail_1a013df4ce5c813d_1",
       "source": "gmail_sync"
+    },
+    {
+      "course": "IC-202P",
+      "action": "EXTRA",
+      "date": "2026-08-19",
+      "new_time": "17:00 - 18:00",
+      "new_venue": "Institute Auditorium",
+      "note": "Mandatory special lecture by Mr. Mihir Shah on Developing Breakthrough Innovations Aligned with Human Values & Goals.",
+      "id": "gmail_1a019d93d41aa403_0",
+      "source": "gmail_sync"
     }
   ],
   "metadata": {
-    "last_synced": "2026-08-18T09:30:42Z",
+    "last_synced": "2026-08-19T12:40:40Z",
     "processed_emails": [
       "19fc371f6875c0cc",
       "19fc3040590c53f8",
@@ -448,7 +458,10 @@
       "1a0184e55697e7f4",
       "1a0183db75e131f0",
       "1a01831d0a2c48ea",
-      "1a0181f4a4ae007d"
+      "1a0181f4a4ae007d",
+      "1a019df237366261",
+      "1a019d93d41aa403",
+      "1a0195efd60c023d"
     ]
   }
 }

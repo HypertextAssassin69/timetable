@@ -1,4 +1,52 @@
-Found 28 emails in the last 2 days:
+Found 29 emails in the last 2 days:
+
+Message ID: 1a019df237366261
+From: "'CQST Office' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 17:23:38 +0530
+Subject: [Announcement] Seminar Talk in the Center for Quantum Science & Technologies on 20th August 2026, 12:00 PM onwards (A14.05.16, Big Conference Room (SHSS), North Campus)
+Snippet: Dear All,
+
+You are cordially invited to attend a seminar talk to be delivered by  Dr.
+Priyabrata, Dr. Priyabrata Mudi received his Ph.D. in Physics from the Homi
+Bhabha National Institute, India, in 2022. His research focuses on
+semiconductor quantum photonics, spin-photon interfaces, and quant
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a019d93d41aa403
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 17:17:26 +0530
+Subject: Fwd: Special Lecture on Developing Breakthrough Innovations Aligned with Human Values & Goals by Shri. Mihir Shah
+Snippet: Dear Students,
+
+This is gentle reminder
+----------------------------------------
+Thanks and Regards
+Dean Students Secretariat
+Indian Institute of Technology Mandi
+Himachal Pradesh-175075
+
+
+
+Dear Students,
+
+A gentle reminder for attending the special lecture by* Mr.** Mihir Shah*,
+Found
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0195efd60c023d
+From: GAURAV KUMAR <d21073@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 15:03:55 +0530
+Subject: Today's Talk by Mr Mihir Shah at 05:00 pm: Mandatory for DP students
+Snippet: Dear DP Students,
+
+          This is to inform you that a talk by Mr* Mihir Shah* is scheduled
+today at *5:00 PM* in the *Auditorium*. Attendance at this talk is *mandatory
+for all DP students*. All DP students are requested to be present at the
+venue at *4:45 PM* and actively participate in th
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a018a6f8fadbf5f
 From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
@@ -168,41 +216,5 @@ Snippet: Dear All,
 You are cordially invited to attend Second Open Seminar of Ms. Chalantika Chakraborty (D21003), PhD Scholar in the School of Humanities and Social Sciences as per following Schedule :
 Date: 24.08.2026 (Monday)Time: 3:30 PMVenue: SHSS Conference Room No.-16 (Big Conference Room), NKN, A
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a01492c3795ebcb
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 16:42:29 +0530
-Subject: [Announcement] Invitation to attend the First Open Seminar by Mr. Jaideep Shukla (D22096), School of Mechanical and Materials Engineering (SMME)| 21st August 2026
-Snippet: Dear All,
-You are cordially invited to attend the first open seminar by Mr. Jaideep Shukla (D22096), a PhD scholar in the School of Mechanical and Materials Engineering, as per the following details:
-Title:&nbsp;Phase stability and spray behaviour of oleic acid-assisted ethanol-diesel blends
-Da
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a01482e383e2fa3
-From: "'Shyam Masakapalli' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 16:25:09 +0530
-Subject: [Announcement] Invitation to the Open Seminar of Ramnath Nayak (UD25008), SBB on 25th Aug 2026, 12 noon at A4 conference room
-Snippet: Dear All,You are cordially invited to attend the first open seminar of&nbsp;Ramnath Nayak (UD25008)&nbsp;as per the following schedule:
-Date: 25th August 2026
-Time: 12 noon
-Venue: A4 conference room
-The Title and abstract are as follows:
-&nbsp;
-Metabolic Drivers of Symbiotic Legume Root Nodule
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a01474c3cec4578
-From: "'sceeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 16:09:43 +0530
-Subject: [Announcement] Invitation to attend Synopsis seminar of Mr. Shreyash Soni (S23081)
-Snippet: Dear All,
-You are cordially invited to attend the&nbsp;synopsis seminar&nbsp;of&nbsp;Mr. Shreyash&nbsp;Soni(S23081), as per the following schedule:
-Date: 20.08.2026Time: 2:30 PM&nbsp;Venue: SCEE Conference Room
-Title:&nbsp; Development of fNIRS Hardware Software Pipeline for Cerebral Oxygenation
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
