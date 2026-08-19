@@ -1,4 +1,20 @@
-Found 29 emails in the last 2 days:
+Found 30 emails in the last 2 days:
+
+Message ID: 1a01a615f443d8e7
+From: Aarvik Oberoi - General Secretary <general_secretary@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 19:46:01 +0530
+Subject: Extra Bus Schedule
+Snippet: Hello all,
+
+Extra buses will run tomorrow (20/08/26) onwards on the following timings
+in addition to regular buses:
+
+Bus E - Time: 9:15 AM from South Campus to North Campus
+Bus F - Time: 9:45 AM from South Campus to North Campus
+Bus C - Time: 10:00 AM from South Campus to North Campus
+Bus F
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a019df237366261
 From: "'CQST Office' via all" <all@students.iitmandi.ac.in>
@@ -206,15 +222,5 @@ On Tue, 18 Aug 2026 at 1:52 PM, Piyush Roy  wrote:
 >
 > As per the schedule, we will be having a session on Intro to P
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0149d2337af930
-From: "'Ajay  Kumar' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 16:53:49 +0530
-Subject: [Announcement] Invitation : Second Open Seminar of Ms. Chalantika Chakraborty (D21003) in the School of Humanities and Social Sciences, IIT Mandi | 03:30 PM onwards
-Snippet: Dear All,
-You are cordially invited to attend Second Open Seminar of Ms. Chalantika Chakraborty (D21003), PhD Scholar in the School of Humanities and Social Sciences as per following Schedule :
-Date: 24.08.2026 (Monday)Time: 3:30 PMVenue: SHSS Conference Room No.-16 (Big Conference Room), NKN, A
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
