@@ -1,4 +1,20 @@
-Found 23 emails in the last 2 days:
+Found 24 emails in the last 2 days:
+
+Message ID: 1a020264934c0c2b
+From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
+Date: Thu, 20 Aug 2026 22:39:18 +0530
+Subject: 🚨 FRESHERS — BIG ANNOUNCEMENT 🚨
+Snippet: Tomorrow, FRESHMAN FOLLIES is happening.
+
+It’s going to be GREAT. Some people are saying it’s the greatest quiz
+Qurosity has ever organized. I can’t say who — but they’re very smart
+people. VERY smart.
+
+We have SPORTS. MOVIES. MUSIC. ANIME. HISTORY. POP CULTURE.
+
+Basically, if you know a lot
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a01f126c2007bb4
 From: "'PIYUSH KANWAT' via all" <all@students.iitmandi.ac.in>
@@ -204,18 +220,6 @@ Snippet: Dear DP Students,
 today at *5:00 PM* in the *Auditorium*. Attendance at this talk is *mandatory
 for all DP students*. All DP students are requested to be present at the
 venue at *4:45 PM* and actively participate in th
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a018a6f8fadbf5f
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 11:43:02 +0530
-Subject: [Announcement] Gentle Reminder: Invitation to attend the Second Open Seminar by Mr. Supern Swapnil (D22052), School of Mechanical and Materials Engineering (SMME)| 19th August 2026
-Snippet: Dear All,
-A gentle reminder.
-You are cordially invited to attend the Seond&nbsp;Open&nbsp;Seminar&nbsp;by Mr.&nbsp;Supern&nbsp;Swapnil (D22052), PhD scholar in the School of Mechanical and Materials Engineering, as per the following schedule:
-Date:&nbsp;19.08.2026 (Wednesday)
-Time:&nbsp;12:00 PM
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
