@@ -1,4 +1,38 @@
-Found 28 emails in the last 2 days:
+Found 24 emails in the last 2 days:
+
+Message ID: 1a01f126c2007bb4
+From: "'PIYUSH KANWAT' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 20 Aug 2026 17:38:06 +0530
+Subject: [Announcement] New Timing: Chalchitra Intro + Screening Today at 7:00 PM! 🍿
+Snippet: &nbsp;
+Hey Freshers!
+We know many of you have mandatory Yoga classes scheduled from 5:00 PM to 7:00 PM, and we definitely don't want anyone missing out on the fun, the intro, or the movie.
+To ensure everyone can wrap up, freshen up, and join us stress-free, we are pushing the start time by one ho
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a01ef155f7ff3f9
+From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
+Date: Thu, 20 Aug 2026 17:01:54 +0530
+Subject: Room Allotment Verification
+Snippet: Dear students ,
+
+The room numbers allotted to you are being shared. Please check them
+carefully. If anyone has changed rooms with another student, kindly visit
+the hostel office tomorrow and get it corrected. As per the hostel records,
+only the room allotted by the hostel office is officially a
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a01eb5e6acd9e56
+From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 20 Aug 2026 15:57:04 +0530
+Subject: [Announcement] Invitation for the PhD Viva Voce Seminar of Mr. Arishi Orra (D21022), SMSS||21st August, 2026||11:00 AM
+Snippet: Dear all,
+You are cordially invited to the PhD Thesis Viva Voce of Mr. Arishi Orra (D21022), PhD scholar in the School of Mathematical and Statistical Sciences, as per the following schedule:
+Date:&nbsp; 21-08-2026 (Friday)Time:&nbsp;11:00 AMVenue:&nbsp;A13 Conference Room (3rd&nbsp;Floor), A13 Bu
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a01dff6534f9e56
 From: "'Nalini' via all" <all@students.iitmandi.ac.in>
@@ -183,47 +217,5 @@ You are cordially invited to attend the Seond&nbsp;Open&nbsp;Seminar&nbsp;by Mr.
 Date:&nbsp;19.08.2026 (Wednesday)
 Time:&nbsp;12:00 PM
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a018a12ed8c2b69
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 11:36:27 +0530
-Subject: Technical Induction Program: 2D CAD Modelling with AutoCAD
-Snippet: Dear students,
-
-Welcome to the Technical Induction Program! Nirmaan Club is excited to kick
-off the very first session of our CAD Modelling & Simulation series with a
-hands-on workshop on AutoCAD – 2D CAD Modelling. *Please note that the
-session timing has been revised to 6:00 PM – 7:30 PM (upd
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0189318dd9e4b2
-From: "'RAMDAYAL' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 11:21:18 +0530
-Subject: [Announcement] Hockey Practice - All Interested Students Welcome
-Snippet: Dear Students,
-&nbsp;
-&nbsp;Here&rsquo;s your chance to learn, play, and represent IIT Mandi!
-&nbsp;
-A special call to all Freshers &mdash; no prior experience is required. Our Coach Sir is available every morning and evening to train and guide you from the basics.
-&nbsp;
-🔥 As Rann-Neeti Sport
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a01882a30742ddc
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 11:03:10 +0530
-Subject: Fwd: Special Lecture on Developing Breakthrough Innovations Aligned with Human Values & Goals by Shri. Mihir Shah
-Snippet: Dear Students,
-
-A gentle reminder for attending the special lecture by* Mr.** Mihir Shah*,
-Founder & CEO, UE Lifesciences, scheduled on *19/08/2026 (Wednesday), from
-5:00 PM to 6:00 PM at the Institute Auditorium.*
-
-*Kindly note that the lecture is mandatory for B. Tech. 2026 batch and
-Design
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
