@@ -1,4 +1,25 @@
-Found 32 emails in the last 2 days:
+Found 28 emails in the last 2 days:
+
+Message ID: 1a01dff6534f9e56
+From: "'Nalini' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 20 Aug 2026 12:37:29 +0530
+Subject: [Announcement] Invitation to attend Synopsis seminar of Mr. Shreyash Soni (S23081)
+Snippet: Dear All,
+
+A gentle reminder.
+
+On Tue, Aug 18, 2026 at 4:09 PM sceeoffice  wrote:
+
+> Dear All,
+>
+> You are cordially invited to attend the *synopsis seminar* of *Mr.
+> Shreyash Soni(S23081*), as per the following schedule:
+>
+> *Date*: 20.08.2026
+> *Time*: 2:30 PM
+> *Venue*: SCEE Confere
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a01ddd936317e04
 From: "'Srinivasu Bodapati' via EE212" <ee212@courses.iitmandi.ac.in>
@@ -203,19 +224,6 @@ Founder & CEO, UE Lifesciences, scheduled on *19/08/2026 (Wednesday), from
 
 *Kindly note that the lecture is mandatory for B. Tech. 2026 batch and
 Design
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0184e55697e7f4
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 10:06:12 +0530
-Subject: [Announcement] Subject: Invitation to attend Second Open Seminar of Ms. Shilpa Chandra (D22115) | 11 AM | 19th Aug 2026 |
-Snippet: Dear All,
-You are cordially invited to attend the Second Open Seminar of Ph.D. Scholar&nbsp;Shilpa Chandra (D22115), as per the following schedule:
-Date:&nbsp;19/08/2026 (Wednesday)Time:&nbsp;11:00 AM&nbsp;
-Venue:&nbsp;A-9, Director&rsquo;s Board Room, North Campus
-&nbsp;
-Title: A Hierarchical
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
