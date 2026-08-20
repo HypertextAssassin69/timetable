@@ -1,4 +1,75 @@
-Found 30 emails in the last 2 days:
+Found 32 emails in the last 2 days:
+
+Message ID: 1a01ddd936317e04
+From: "'Srinivasu Bodapati' via EE212" <ee212@courses.iitmandi.ac.in>
+Date: Thu, 20 Aug 2026 12:00:39 +0530
+Subject: Friday extended class
+Snippet: Hi all,
+    Please let me know if you have any class on Friday, 11 AM - 12 PM.
+I may extend the class by 15 minutes.  Please let me know by evening
+by responding to this email.
+
+
+*No reply will be considered a no-class. *
+
+regards
+srini
+
+-- 
+
+Regards
+B.SRINIVASU
+Associate Professor,
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a01db0fe73fcafc
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Thu, 20 Aug 2026 11:11:51 +0530
+Subject: Updated Schedule for Technical Induction Program
+Snippet: Dear all,
+
+Please find the updated schedule for TIP:
+*Event * *Time* *Date * *Venue *
+*3D part modelling using Solidworks* *5pm to 6:30pm * *24 Aug* *Auditorium *
+*Engineering Simulations* *5pm to 6:30pm* *25 Aug* *Auditorium *
+*Session on CLI, git and github * *5pm to 7pm * *26 Aug* *Auditori
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a01d99437dcb88e
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 20 Aug 2026 10:46:10 +0530
+Subject: [Announcement] Viva Voce Examination of Mr.Prasun Kumar (D22133)
+Snippet: Dear All,
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You are cordially invited to attend the Ph.D. Viva-Voce Seminar of&nbsp;Mr. Prasun Kumar (D22133), Ph.D. Scholar at the SMME, IIT Mandi. The seminar is scheduled as per the details below:
+&nbsp;
+Date:&nbsp;25th August 2026 (Tuesday)
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a01d6e1085bafa7
+From: "'PIYUSH KANWAT' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 20 Aug 2026 09:58:59 +0530
+Subject: [Announcement] 🎬 Lights, Camera, Hostel Life! Chalchitra Intro + Screening Today
+Snippet: Hey Freshers! 🍿
+&nbsp;
+Tired of endless orientation slides and lab manuals? Ready to swap textbooks for giant screens, surround sound, and peak cinema vibes?
+&nbsp;
+Welcome to Chalchitra &mdash; IIT Mandi&rsquo;s official film screening cell! We turn ordinary campus nights into full-blown cinema
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a01d68405e9e323
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 20 Aug 2026 09:52:38 +0530
+Subject: [Announcement] Gentle Reminder: Invitation to attend the First Open Seminar by Mr Ankur Kaundal (D21037) in the School of Mechanical and Materials Engineering (SMME) | 20th August 2026 | 02:00 PM
+Snippet: Dear All,
+A gentle reminder.
+You are cordially invited to attend the first open seminar by Mr Ankur Kaundal (D21037), a PhD scholar in the School of Mechanical and Materials Engineering, as per the following details:
+Title:&nbsp;Phenomenon of Biomass Combustion and Numerical Investigation of Biom
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a01afb915a77f5c
 From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
@@ -145,76 +216,6 @@ Date:&nbsp;19/08/2026 (Wednesday)Time:&nbsp;11:00 AM&nbsp;
 Venue:&nbsp;A-9, Director&rsquo;s Board Room, North Campus
 &nbsp;
 Title: A Hierarchical
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0183db75e131f0
-From: "'Young Innovators Fellowship (YIF)' via btech2025" <btech2025@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 09:47:55 +0530
-Subject: Re: Director's Address on Young Innovator Fellowship
-Snippet: Dear Students,
-Thank you for joining yesterday's session on very short notice. The YIF
-slides
-
-are attached for your reference.
-Feel free to discuss anything related to DP, YIF, startups, or
-entrepreneurship: drop an email or visit my office (A11, 4th Floor,
-Opposite to Lift).
-
-*___________
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a01831d0a2c48ea
-From: "'scs office' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 09:35:04 +0530
-Subject: [Announcement] Viva Voce Seminar of Mr. Goraksha T. Sapkal, (D20083) Ph.D. Scholar, SCS || 21st August 2026, 11:00 AM (Friday) || A1-NKN Conference Room, South Campus
-Snippet: Dear All,
-&nbsp;
-You are cordially invited to attend the viva voce seminar of Ph.D. scholar&nbsp;Mr. Goraksha T. Sapkal (D20083) as per the following schedule:
-Date:&nbsp;Friday, 21st August 2026.
-Venue:&nbsp;A1NKN Conference Room
-Time:&nbsp;11:00 AM
-Title: NIR Emissive Cyanine Probes for Dead
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0181f4a4ae007d
-From: "'scs office' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 09:14:50 +0530
-Subject: [Announcement] Reminder: Synopsis Seminar of SCS PhD Student Mr. Vishal Sharma (D18036), A4-Conference Room, South campus - Wednesday 19th August 26
-Snippet: A gentle reminder!
-&nbsp;
-Dear All,
-&nbsp;
-You are cordially invited to attend the Synopsis Seminar of&nbsp;Mr.&nbsp;Vishal Sharma&nbsp;(D18036), Ph.D. Scholar, SCS, as per the following schedule:
-&nbsp;
-Venue:&nbsp;A4-Conference&nbsp;room, south campus
-&nbsp;Time:&nbsp;1:30&nbsp;pm to 2:30 p
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a017e635454af07
-From: "'Viswanath Balakrishnan' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 08:12:29 +0530
-Subject: [Announcement] Open Seminar-2D-Material based Photomemristors for Neuromorphic Applications
-Snippet: Dear all,
-You are invited to attend the first open seminar of Himanshu Joshi (S24048) as per the following schedule.
-Date &amp; Time: August 19th, 2026 at 11 am
-Venue: A4 Conference Room
-2D-Material based Photomemristors for Neuromorphic Applications
-Abstract
-Conventional CMOS architectures ke
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a014fe6c0aff29e
-From: "'Venkatesh  Hanumant Rao Chembrolu' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 18 Aug 2026 18:40:06 +0530
-Subject: [Announcement] Reminder :: PhD viva-voce examination of Mr Sai Kiran Gannamraju (PTD2313) || 19-08-2026 || A13 NKN Conference Room || 10 AM
-Snippet: Dear All,
-You are cordially invited to attend the Ph.D. Viva-Voce Seminar of Mr. Sai Kiran Gannamraju (PTD2313), Ph.D. Scholar at the IKSMHA Centre, IIT Mandi. The seminar is scheduled as per the details below:
-Name: Mr. Sai Kiran Gannamraju (PTD2313)Date: 19th August 2026 (Wednesday)Time: 10:00 A
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
