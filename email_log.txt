@@ -1,4 +1,38 @@
-Found 23 emails in the last 2 days:
+Found 24 emails in the last 2 days:
+
+Message ID: 1a024b7016ddd20f
+From: "'PIYUSH KANWAT' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 19:56:00 +0530
+Subject: [Announcement] 🎬ChalChitra Film Fest — The Wait Is Over
+Snippet: Dear all,
+&nbsp;
+Greetings from ChalChitra, IIT Mandi!
+&nbsp;
+The wait is almost over! 🎬✨
+&nbsp;
+With the ChalChitra Film Fest starting tomorrow, ticket booking is LIVE and the cinematic week is just around the corner!
+&nbsp;
+🎥 Film Fest Highlights
+✨ 5 Days &bull; 5 Movies &bull; One Cinema
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a0246793f157430
+From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 18:29:03 +0530
+Subject: AAKARSHAN - 2026 Cultural clubs Intro for Freshers !!!
+Snippet: 🎭✨ *AAKARSHAN IS HERE!* ✨🎨💃
+*Freshers, this is your introduction to the cultural heartbeat of IIT
+Mandi!*
+
+Ever wondered what happens when the campus's most creative, energetic,
+dramatic, artistic, and imaginative minds come together on one stage?
+
+🔥 *AAKARSHAN* happens.
+
+*Time- 6:00 pm onw
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a0242a8ac090f3f
 From: "'ADITYA KUMAR CHANDEL' via all" <all@students.iitmandi.ac.in>
@@ -187,29 +221,6 @@ Snippet: &nbsp;
 Hey Freshers!
 We know many of you have mandatory Yoga classes scheduled from 5:00 PM to 7:00 PM, and we definitely don't want anyone missing out on the fun, the intro, or the movie.
 To ensure everyone can wrap up, freshen up, and join us stress-free, we are pushing the start time by one ho
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a01ef155f7ff3f9
-From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
-Date: Thu, 20 Aug 2026 17:01:54 +0530
-Subject: Room Allotment Verification
-Snippet: Dear students ,
-
-The room numbers allotted to you are being shared. Please check them
-carefully. If anyone has changed rooms with another student, kindly visit
-the hostel office tomorrow and get it corrected. As per the hostel records,
-only the room allotted by the hostel office is officially a
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a01eb5e6acd9e56
-From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 20 Aug 2026 15:57:04 +0530
-Subject: [Announcement] Invitation for the PhD Viva Voce Seminar of Mr. Arishi Orra (D21022), SMSS||21st August, 2026||11:00 AM
-Snippet: Dear all,
-You are cordially invited to the PhD Thesis Viva Voce of Mr. Arishi Orra (D21022), PhD scholar in the School of Mathematical and Statistical Sciences, as per the following schedule:
-Date:&nbsp; 21-08-2026 (Friday)Time:&nbsp;11:00 AMVenue:&nbsp;A13 Conference Room (3rd&nbsp;Floor), A13 Bu
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
