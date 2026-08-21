@@ -1,4 +1,17 @@
-Found 19 emails in the last 2 days:
+Found 20 emails in the last 2 days:
+
+Message ID: 1a0233eba1a45af7
+From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 13:05:01 +0530
+Subject: [Announcement] Invitation to attend the open seminar of M.Tech (R) student Miss Kritika Manglesh (S24092), in the School of Computing and Electrical Engineering on 07.09.2026 (Monday)
+Snippet: Dear All,&nbsp;
+You are hereby cordially invited to attend the open seminar of M.Tech (R), student Miss Kritika Manglesh (S24092), as per the details below:-
+Date: 7th September 2026 (Monday)&nbsp;
+Time: 12:30 PM to 1:30 PM&nbsp;
+Link: open seminar of M.Tech (R) student Miss Kritika Manglesh
+Mo
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a022c00fbecfb0d
 From: "'RIDDESH SHIRISH BAHALKAR' via all" <all@students.iitmandi.ac.in>
@@ -194,22 +207,5 @@ A gentle reminder.
 You are cordially invited to attend the first open seminar by Mr Ankur Kaundal (D21037), a PhD scholar in the School of Mechanical and Materials Engineering, as per the following details:
 Title:&nbsp;Phenomenon of Biomass Combustion and Numerical Investigation of Biom
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a01afb915a77f5c
-From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 22:34:32 +0530
-Subject: IIT Mandi Cricket Trials 2026
-Snippet: *Dear Cricketers,*
-
-The wait is finally over! 🔥
-
-The *most awaited Cricket Trials of IIT Mandi* are here. This is your
-opportunity to step onto the field, showcase your skills, and *earn your
-place in the IIT Mandi Cricket Team.*
-📅 Trial Details
-
-*Dates:* 24th August (Monday) & 25th August
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
