@@ -1,5 +1,31 @@
 Found 24 emails in the last 2 days:
 
+Message ID: 1a0257a2da2e6133
+From: "'Srinivasu Bodapati' via EE212" <ee212@courses.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 23:29:06 +0530
+Subject: Assignment -1 submission
+Snippet: Hi all,
+    Those who want to submit the assignment on Saturday, please go to the
+CANE lab (A18-05-03) between 11 AM to 2 PM and on Monday between 12 PM to 2
+PM.
+
+
+No submission is allowed after Monday, 2 PM.
+
+
+regards
+srini
+
+
+-- 
+
+Regards
+B.SRINIVASU
+Associate Professor,
+School of
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
 Message ID: 1a024b7016ddd20f
 From: "'PIYUSH KANWAT' via all" <all@students.iitmandi.ac.in>
 Date: Fri, 21 Aug 2026 19:56:00 +0530
@@ -210,17 +236,6 @@ people. VERY smart.
 We have SPORTS. MOVIES. MUSIC. ANIME. HISTORY. POP CULTURE.
 
 Basically, if you know a lot
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a01f126c2007bb4
-From: "'PIYUSH KANWAT' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 20 Aug 2026 17:38:06 +0530
-Subject: [Announcement] New Timing: Chalchitra Intro + Screening Today at 7:00 PM! 🍿
-Snippet: &nbsp;
-Hey Freshers!
-We know many of you have mandatory Yoga classes scheduled from 5:00 PM to 7:00 PM, and we definitely don't want anyone missing out on the fun, the intro, or the movie.
-To ensure everyone can wrap up, freshen up, and join us stress-free, we are pushing the start time by one ho
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
