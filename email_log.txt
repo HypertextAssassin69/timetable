@@ -1,4 +1,100 @@
-Found 20 emails in the last 2 days:
+Found 23 emails in the last 2 days:
+
+Message ID: 1a0242a8ac090f3f
+From: "'ADITYA KUMAR CHANDEL' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 17:22:35 +0530
+Subject: [Announcement] Remider: Janmashtami 2026 Competition🪷
+Snippet: Dear All,
+A Gentle Reminder!!
+Celebrate the joyous occasion of Janmashtami, join us in embracing the divine spirit through an unforgettable series of events that bring together heartfelt devotion, sharp intellect, and boundless creativity!
+Kindly refer to the updated schedule of events below:
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a02422db97759fe
+From: "'Nikhil Kumar' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 17:14:11 +0530
+Subject: [Announcement] Regarding National Scholarship Portal for Academic Year 2026-27
+Snippet: Dear Students,
+A genle reminder.
+Those who have not yet submitted the physical copies of the relevant documents are kindly requested to download the NSP application form and submit it along with all the required documents (listed below in this announcement) to the Academic Office at the earliest f
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a0240c35d6c3cbd
+From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 16:49:17 +0530
+Subject: 🚨 Freshman Follies ALERT!!
+Snippet: Dear Freshers,
+
+Please note that Freshman Follies has been postponed to 7:00 PM today,
+considering the Institute Colloquium from 5:00–7:00 PM.
+
+The quiz will now begin at:
+
+*Date: 21st August 2026*
+*Time: 7:00 PM onwards*
+*Venue: A11 1A*
+*Team Size: 2–3 members*
+
+We apologise for the cha
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a023f2dd82438da
+From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 16:21:46 +0530
+Subject: [Announcement] AYURVEDA PANCHAKARMA THERAPY scheduled for next week
+Snippet: Dear All,
+
+
+The basic AYURVEDA PANCHAKARMA THERAPY AND CONSULTATION schedule for upcoming week&nbsp; 24 August 2026&nbsp; to 28 August 2026 is as follows:-
+
+
+&nbsp;
+
+
+Sr.No
+Therapy Name
+Benefits
+
+
+1
+Akshi Tarpan (Eye Therapy)
+Prevents eye degeneration.
+
+
+Relieves eye strain
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a023d151dd3c188
+From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 15:45:01 +0530
+Subject: Important Notice Regarding Security, Maintenance Complaints, and Iron Facility
+Snippet: Dear Students,
+
+We have been receiving an increasing number of theft complaints from
+students. Therefore, all students are advised to lock their room doors and
+almirahs properly before leaving their rooms. Please ensure the safety of
+your personal belongings at all times.
+
+Additionally, maint
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a023ade98304723
+From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 15:06:16 +0530
+Subject: Sports Society & RANN-NEETI '26 Introductory Session
+Snippet: Freshers, welcome to campus! The *Sports Society, IIT Mandi* invites you to
+the ultimate kickoff event: the *Introductory Session of the Sports Society
+& RANN-NEETI '26*.
+
+Whether you're an athlete, an outdoor enthusiast, or someone who wants to
+lead and create behind the scenes, this is your e
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a0233eba1a45af7
 From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
@@ -114,98 +210,6 @@ Subject: [Announcement] Invitation for the PhD Viva Voce Seminar of Mr. Arishi O
 Snippet: Dear all,
 You are cordially invited to the PhD Thesis Viva Voce of Mr. Arishi Orra (D21022), PhD scholar in the School of Mathematical and Statistical Sciences, as per the following schedule:
 Date:&nbsp; 21-08-2026 (Friday)Time:&nbsp;11:00 AMVenue:&nbsp;A13 Conference Room (3rd&nbsp;Floor), A13 Bu
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a01dff6534f9e56
-From: "'Nalini' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 20 Aug 2026 12:37:29 +0530
-Subject: [Announcement] Invitation to attend Synopsis seminar of Mr. Shreyash Soni (S23081)
-Snippet: Dear All,
-
-A gentle reminder.
-
-On Tue, Aug 18, 2026 at 4:09 PM sceeoffice  wrote:
-
-> Dear All,
->
-> You are cordially invited to attend the *synopsis seminar* of *Mr.
-> Shreyash Soni(S23081*), as per the following schedule:
->
-> *Date*: 20.08.2026
-> *Time*: 2:30 PM
-> *Venue*: SCEE Confere
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a01ddd936317e04
-From: "'Srinivasu Bodapati' via EE212" <ee212@courses.iitmandi.ac.in>
-Date: Thu, 20 Aug 2026 12:00:39 +0530
-Subject: Friday extended class
-Snippet: Hi all,
-    Please let me know if you have any class on Friday, 11 AM - 12 PM.
-I may extend the class by 15 minutes.  Please let me know by evening
-by responding to this email.
-
-
-*No reply will be considered a no-class. *
-
-regards
-srini
-
--- 
-
-Regards
-B.SRINIVASU
-Associate Professor,
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a01db0fe73fcafc
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Thu, 20 Aug 2026 11:11:51 +0530
-Subject: Updated Schedule for Technical Induction Program
-Snippet: Dear all,
-
-Please find the updated schedule for TIP:
-*Event * *Time* *Date * *Venue *
-*3D part modelling using Solidworks* *5pm to 6:30pm * *24 Aug* *Auditorium *
-*Engineering Simulations* *5pm to 6:30pm* *25 Aug* *Auditorium *
-*Session on CLI, git and github * *5pm to 7pm * *26 Aug* *Auditori
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a01d99437dcb88e
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 20 Aug 2026 10:46:10 +0530
-Subject: [Announcement] Viva Voce Examination of Mr.Prasun Kumar (D22133)
-Snippet: Dear All,
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You are cordially invited to attend the Ph.D. Viva-Voce Seminar of&nbsp;Mr. Prasun Kumar (D22133), Ph.D. Scholar at the SMME, IIT Mandi. The seminar is scheduled as per the details below:
-&nbsp;
-Date:&nbsp;25th August 2026 (Tuesday)
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a01d6e1085bafa7
-From: "'PIYUSH KANWAT' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 20 Aug 2026 09:58:59 +0530
-Subject: [Announcement] 🎬 Lights, Camera, Hostel Life! Chalchitra Intro + Screening Today
-Snippet: Hey Freshers! 🍿
-&nbsp;
-Tired of endless orientation slides and lab manuals? Ready to swap textbooks for giant screens, surround sound, and peak cinema vibes?
-&nbsp;
-Welcome to Chalchitra &mdash; IIT Mandi&rsquo;s official film screening cell! We turn ordinary campus nights into full-blown cinema
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a01d68405e9e323
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 20 Aug 2026 09:52:38 +0530
-Subject: [Announcement] Gentle Reminder: Invitation to attend the First Open Seminar by Mr Ankur Kaundal (D21037) in the School of Mechanical and Materials Engineering (SMME) | 20th August 2026 | 02:00 PM
-Snippet: Dear All,
-A gentle reminder.
-You are cordially invited to attend the first open seminar by Mr Ankur Kaundal (D21037), a PhD scholar in the School of Mechanical and Materials Engineering, as per the following details:
-Title:&nbsp;Phenomenon of Biomass Combustion and Numerical Investigation of Biom
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
