@@ -1,4 +1,15 @@
-Found 24 emails in the last 2 days:
+Found 23 emails in the last 2 days:
+
+Message ID: 1a02269acb247027
+From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 09:12:18 +0530
+Subject: [Announcement] A Reminder! Invitation for the PhD Viva Voce Seminar of Mr. Arishi Orra (D21022), SMSS||21st August, 2026||11:00 AM
+Snippet: A Gentle Reminder!
+Dear all,
+You are cordially invited to the PhD Thesis Viva Voce of Mr. Arishi Orra (D21022), PhD scholar in the School of Mathematical and Statistical Sciences, as per the following schedule:
+Date:&nbsp; 21-08-2026 (Friday)Time:&nbsp;11:00 AMVenue:&nbsp;A13 Conference Room (3rd
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a020264934c0c2b
 From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
@@ -208,18 +219,5 @@ Dear Students,
 A gentle reminder for attending the special lecture by* Mr.** Mihir Shah*,
 Found
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0195efd60c023d
-From: GAURAV KUMAR <d21073@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 15:03:55 +0530
-Subject: Today's Talk by Mr Mihir Shah at 05:00 pm: Mandatory for DP students
-Snippet: Dear DP Students,
-
-          This is to inform you that a talk by Mr* Mihir Shah* is scheduled
-today at *5:00 PM* in the *Auditorium*. Attendance at this talk is *mandatory
-for all DP students*. All DP students are requested to be present at the
-venue at *4:45 PM* and actively participate in th
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
