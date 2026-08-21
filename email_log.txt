@@ -1,4 +1,47 @@
-Found 23 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 1a022c00fbecfb0d
+From: "'RIDDESH SHIRISH BAHALKAR' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 10:46:39 +0530
+Subject: [Announcement] Unleash Your Game! Freshers Table Tennis Tournament 2026
+Snippet: Dear Freshers,Welcome to IIT Mandi! As you embark on this exciting new chapter of your campus life, the Table Tennis Committee invites you to step up, showcase your skills, and unleash your competitive spirit at the Freshers Table Tennis Tournament 2026!Whether you are a seasoned player looking to d
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a022a4ba3a39577
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 10:16:41 +0530
+Subject: Re: Institute Colloquium : Prof. Madhabananda Kar (Director - AIIMS Bhopal) on 21st August, 2026 at 05:00 PM
+Snippet: Dear Sir/Madam and Students,
+
+*Gentle Reminder for today's Institute Colloquium at 05:00 pm.*
+
+*Venue: - Auditorium (North Campus)*
+
+*              A1-NKN (South Campus) - Live Streaming (Only for Faculty
+members)*
+
+Online link for Colloquia is available on the following link:
+
+
+https://
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a0227e42c86b08d
+From: "'scs office' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 21 Aug 2026 09:34:47 +0530
+Subject: [Announcement] Reminder: Viva Voce Seminar of Mr. Goraksha T. Sapkal, (D20083) Ph.D. Scholar, SCS || 21st August 2026, 11:00 AM (Friday) || A1-NKN Conference Room, South Campus
+Snippet: A gentle reminder for today's seminar!
+&nbsp;
+Dear All,
+&nbsp;
+You are cordially invited to attend the viva voce seminar of Ph.D. scholar&nbsp;Mr. Goraksha T. Sapkal (D20083)&nbsp;as per the following schedule:
+Date:&nbsp;Friday, 21st August 2026.
+Venue:&nbsp;A1NKN Conference Room
+Time:&nbsp;
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a02269acb247027
 From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
@@ -167,57 +210,6 @@ place in the IIT Mandi Cricket Team.*
 📅 Trial Details
 
 *Dates:* 24th August (Monday) & 25th August
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a01a615f443d8e7
-From: Aarvik Oberoi - General Secretary <general_secretary@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 19:46:01 +0530
-Subject: Extra Bus Schedule
-Snippet: Hello all,
-
-Extra buses will run tomorrow (20/08/26) onwards on the following timings
-in addition to regular buses:
-
-Bus E - Time: 9:15 AM from South Campus to North Campus
-Bus F - Time: 9:45 AM from South Campus to North Campus
-Bus C - Time: 10:00 AM from South Campus to North Campus
-Bus F
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a019df237366261
-From: "'CQST Office' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 17:23:38 +0530
-Subject: [Announcement] Seminar Talk in the Center for Quantum Science & Technologies on 20th August 2026, 12:00 PM onwards (A14.05.16, Big Conference Room (SHSS), North Campus)
-Snippet: Dear All,
-
-You are cordially invited to attend a seminar talk to be delivered by  Dr.
-Priyabrata, Dr. Priyabrata Mudi received his Ph.D. in Physics from the Homi
-Bhabha National Institute, India, in 2022. His research focuses on
-semiconductor quantum photonics, spin-photon interfaces, and quant
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a019d93d41aa403
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 19 Aug 2026 17:17:26 +0530
-Subject: Fwd: Special Lecture on Developing Breakthrough Innovations Aligned with Human Values & Goals by Shri. Mihir Shah
-Snippet: Dear Students,
-
-This is gentle reminder
-----------------------------------------
-Thanks and Regards
-Dean Students Secretariat
-Indian Institute of Technology Mandi
-Himachal Pradesh-175075
-
-
-
-Dear Students,
-
-A gentle reminder for attending the special lecture by* Mr.** Mihir Shah*,
-Found
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
