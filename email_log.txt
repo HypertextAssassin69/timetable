@@ -1,4 +1,70 @@
-Found 20 emails in the last 2 days:
+Found 23 emails in the last 2 days:
+
+Message ID: 1a02877a3a7aa395
+From: "'NEIL BAKSHI' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 22 Aug 2026 13:25:17 +0530
+Subject: [Announcement] Inter-IIT Volleyball Trials
+Snippet: Dear Students,
+&nbsp;
+Here is your chance to learn, play and represent IIT Mandi! 🏐
+&nbsp;
+🔥 Calling all Freshers! 🔥
+&nbsp;
+If you are interested in Volleyball, this is your opportunity to start from the basics, improve your skills and become a part of the IIT Mandi Volleyball team.
+&nbsp;
+N
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a02854bf17b1171
+From: "'Dean Academics' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 22 Aug 2026 12:46:55 +0530
+Subject: Fwd: SDEF India Scholarship 2026–27 | Opportunity for Eligible IIT Students
+Snippet: ---------- Forwarded message ---------
+From: Swami Dayanand Educational Foundation 
+Date: Tue, Aug 18, 2026 at 3:01 PM
+Subject: SDEF India Scholarship 2026–27 | Opportunity for Eligible IIT
+Students
+To: 
+
+
+Please share this opportunity with eligible first-year IIT students from
+financially
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a028512bd749191
+From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
+Date: Sat, 22 Aug 2026 12:43:05 +0530
+Subject: ✨ SPIC MACAY, IIT Mandi | Qawwali Evening with Nizami Bandhu | 23 August | 5 pm onwards
+Snippet: *Greetings to the IIT Mandi Community!*
+
+We are delighted to invite you to an evening of *soulful Sufi music and the
+timeless tradition of Qawwali*, organised by *SPIC MACAY, IIT Mandi
+Chapter. *🎶
+
+This time, we bring to you the renowned *Nizami Bandhu*, celebrated for
+their powerful and soul
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a02838029fe1524
+From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
+Date: Sat, 22 Aug 2026 12:15:36 +0530
+Subject: ✨ BAND BAAJA HOOKSTEP ✨
+Snippet: 🔥FRESHERS, READY TO GROOVE?🔥
+
+✨ BAND BAAJA HOOKSTEP ✨
+A fun, beginner-friendly Bollywood dance workshop where we’ll break down
+iconic hooksteps one move at a time!
+
+📅 23August | Sunday
+⏰ 8 PM
+📍 Dance Room (Above Gym)
+
+No experience needed. No pressure. Just bring your energy and your best
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a025a93d0dfaa96
 From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
@@ -183,59 +249,5 @@ Time: 12:30 PM to 1:30 PM&nbsp;
 Link: open seminar of M.Tech (R) student Miss Kritika Manglesh
 Mo
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a022c00fbecfb0d
-From: "'RIDDESH SHIRISH BAHALKAR' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 21 Aug 2026 10:46:39 +0530
-Subject: [Announcement] Unleash Your Game! Freshers Table Tennis Tournament 2026
-Snippet: Dear Freshers,Welcome to IIT Mandi! As you embark on this exciting new chapter of your campus life, the Table Tennis Committee invites you to step up, showcase your skills, and unleash your competitive spirit at the Freshers Table Tennis Tournament 2026!Whether you are a seasoned player looking to d
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a022a4ba3a39577
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 21 Aug 2026 10:16:41 +0530
-Subject: Re: Institute Colloquium : Prof. Madhabananda Kar (Director - AIIMS Bhopal) on 21st August, 2026 at 05:00 PM
-Snippet: Dear Sir/Madam and Students,
-
-*Gentle Reminder for today's Institute Colloquium at 05:00 pm.*
-
-*Venue: - Auditorium (North Campus)*
-
-*              A1-NKN (South Campus) - Live Streaming (Only for Faculty
-members)*
-
-Online link for Colloquia is available on the following link:
-
-
-https://
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0227e42c86b08d
-From: "'scs office' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 21 Aug 2026 09:34:47 +0530
-Subject: [Announcement] Reminder: Viva Voce Seminar of Mr. Goraksha T. Sapkal, (D20083) Ph.D. Scholar, SCS || 21st August 2026, 11:00 AM (Friday) || A1-NKN Conference Room, South Campus
-Snippet: A gentle reminder for today's seminar!
-&nbsp;
-Dear All,
-&nbsp;
-You are cordially invited to attend the viva voce seminar of Ph.D. scholar&nbsp;Mr. Goraksha T. Sapkal (D20083)&nbsp;as per the following schedule:
-Date:&nbsp;Friday, 21st August 2026.
-Venue:&nbsp;A1NKN Conference Room
-Time:&nbsp;
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a02269acb247027
-From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 21 Aug 2026 09:12:18 +0530
-Subject: [Announcement] A Reminder! Invitation for the PhD Viva Voce Seminar of Mr. Arishi Orra (D21022), SMSS||21st August, 2026||11:00 AM
-Snippet: A Gentle Reminder!
-Dear all,
-You are cordially invited to the PhD Thesis Viva Voce of Mr. Arishi Orra (D21022), PhD scholar in the School of Mathematical and Statistical Sciences, as per the following schedule:
-Date:&nbsp; 21-08-2026 (Friday)Time:&nbsp;11:00 AMVenue:&nbsp;A13 Conference Room (3rd
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
