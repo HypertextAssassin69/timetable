@@ -1,4 +1,72 @@
-Found 20 emails in the last 2 days:
+Found 23 emails in the last 2 days:
+
+Message ID: 1a02a999551e2fac
+From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
+Date: Sat, 22 Aug 2026 23:21:23 +0530
+Subject: Re: Sports Society & RANN-NEETI '26 Introductory Session
+Snippet: Gentle Reminder!
+
+Come along with your friends!
+
+Best Regards
+Dhruv Kumar Singh
+Sports Secretary
+Student Gymkhana, IIT Mandi
+
+Mobile: +91 74528 58044
+
+On Fri, 21 Aug 2026, 15:06 Dhruv Kumar Singh - Sports Secretary,  wrote:
+
+> Freshers, welcome to campus! The *Sports Society, IIT Mandi*
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a02a3bc679960d0
+From: "Kamand Bioengineering Group, IIT Mandi" <kbg@students.iitmandi.ac.in>
+Date: Sat, 22 Aug 2026 21:38:59 +0530
+Subject: KBG AI x Bio Introductory Session – 23rd August | Join Us for an Epic Ride into AI
+Snippet: Hello Everyone! 👋
+
+Your favourite club is back again with something special! 🎉🎉
+
+We’re kicking off the semester with our very first introductory/explanatory
+session, and trust us—you won’t want to miss this one.
+
+Get ready for a roller coaster ride from the human brain to Neural
+Networks… an
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a02a334062eb386
+From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
+Date: Sat, 22 Aug 2026 21:29:40 +0530
+Subject: Extra bus from north to south .
+Snippet: Dear all
+An extra bus has been arranged at 10:15 pm from north to south campus.
+
+
+Enjoy fantastic performances at Aakarshan !!
+
+Warm Regards,
+Daksh
+Cultural Secretary
+IIT Mandi
+Dear all An extra bus has been arranged at 10:15 pm from north to south campus. Enjoy fantastic performances at A
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a02a31f3ebd8a12
+From: "'AMRITPAL' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 22 Aug 2026 21:28:24 +0530
+Subject: [Announcement] 🏀 Inter-IIT Basketball Trials — Monday, 24th & Tuesday 25th | 5:30 PM Onwards | Indoor Court, South Campus
+Snippet: &nbsp;
+Hey Everyone,
+&nbsp;
+Get your shoes laced up &mdash; the Inter-IIT Basketball Trials are here!
+&nbsp;
+Whether you've been balling since childhood or just love the game and want to test yourself at the next level, this is your shot to represent the institute on the Inter-IIT stage. We're
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a02877a3a7aa395
 From: "'NEIL BAKSHI' via all" <all@students.iitmandi.ac.in>
@@ -181,73 +249,5 @@ The quiz will now begin at:
 
 We apologise for the cha
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a023f2dd82438da
-From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 21 Aug 2026 16:21:46 +0530
-Subject: [Announcement] AYURVEDA PANCHAKARMA THERAPY scheduled for next week
-Snippet: Dear All,
-
-
-The basic AYURVEDA PANCHAKARMA THERAPY AND CONSULTATION schedule for upcoming week&nbsp; 24 August 2026&nbsp; to 28 August 2026 is as follows:-
-
-
-&nbsp;
-
-
-Sr.No
-Therapy Name
-Benefits
-
-
-1
-Akshi Tarpan (Eye Therapy)
-Prevents eye degeneration.
-
-
-Relieves eye strain
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a023d151dd3c188
-From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
-Date: Fri, 21 Aug 2026 15:45:01 +0530
-Subject: Important Notice Regarding Security, Maintenance Complaints, and Iron Facility
-Snippet: Dear Students,
-
-We have been receiving an increasing number of theft complaints from
-students. Therefore, all students are advised to lock their room doors and
-almirahs properly before leaving their rooms. Please ensure the safety of
-your personal belongings at all times.
-
-Additionally, maint
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a023ade98304723
-From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
-Date: Fri, 21 Aug 2026 15:06:16 +0530
-Subject: Sports Society & RANN-NEETI '26 Introductory Session
-Snippet: Freshers, welcome to campus! The *Sports Society, IIT Mandi* invites you to
-the ultimate kickoff event: the *Introductory Session of the Sports Society
-& RANN-NEETI '26*.
-
-Whether you're an athlete, an outdoor enthusiast, or someone who wants to
-lead and create behind the scenes, this is your e
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0233eba1a45af7
-From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 21 Aug 2026 13:05:01 +0530
-Subject: [Announcement] Invitation to attend the open seminar of M.Tech (R) student Miss Kritika Manglesh (S24092), in the School of Computing and Electrical Engineering on 07.09.2026 (Monday)
-Snippet: Dear All,&nbsp;
-You are hereby cordially invited to attend the open seminar of M.Tech (R), student Miss Kritika Manglesh (S24092), as per the details below:-
-Date: 7th September 2026 (Monday)&nbsp;
-Time: 12:30 PM to 1:30 PM&nbsp;
-Link: open seminar of M.Tech (R) student Miss Kritika Manglesh
-Mo
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
