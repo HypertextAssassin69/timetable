@@ -265,10 +265,30 @@
       "note": "Mandatory special lecture by Mr. Mihir Shah on Developing Breakthrough Innovations Aligned with Human Values & Goals.",
       "id": "gmail_1a019d93d41aa403_0",
       "source": "gmail_sync"
+    },
+    {
+      "course": "EE-203",
+      "action": "CANCEL",
+      "date": "2026-08-24",
+      "new_time": null,
+      "new_venue": null,
+      "note": "No class for Network Theory",
+      "id": "gmail_1a02f8a35b5b4430_0",
+      "source": "gmail_sync"
+    },
+    {
+      "course": "EE-203",
+      "action": "CANCEL",
+      "date": "2026-08-25",
+      "new_time": null,
+      "new_venue": null,
+      "note": "No class for Network Theory",
+      "id": "gmail_1a02f8a35b5b4430_1",
+      "source": "gmail_sync"
     }
   ],
   "metadata": {
-    "last_synced": "2026-08-19T12:40:40Z",
+    "last_synced": "2026-08-23T18:25:11Z",
     "processed_emails": [
       "19fc371f6875c0cc",
       "19fc3040590c53f8",
@@ -504,7 +524,9 @@
       "1a02d699a7b54ea3",
       "1a02dfdd1539b8b0",
       "1a02f22116e66349",
-      "1a02f2024564643b"
+      "1a02f2024564643b",
+      "1a02f8a35b5b4430",
+      "1a02f731f850626d"
     ]
   }
 }

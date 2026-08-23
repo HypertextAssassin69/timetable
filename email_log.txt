@@ -1,4 +1,34 @@
-Found 18 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 1a02f8a35b5b4430
+From: "'Pratim Kundu' via EE203" <ee203@courses.iitmandi.ac.in>
+Date: Sun, 23 Aug 2026 22:22:41 +0530
+Subject: No Class on 24-08 and 25-08
+Snippet: Hello Everyone,
+
+There will be no class for Network Theory (EE203) on Monday (24-8) and
+Tuesday (25-08).
+
+Regards
+Pratim
+Hello Everyone,There will be no class for Network Theory (EE203) on Monday (24-8) and Tuesday (25-08).RegardsPratim
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a02f731f850626d
+From: "'technical secretary' via all" <all@students.iitmandi.ac.in>
+Date: Sun, 23 Aug 2026 21:57:42 +0530
+Subject: [Announcement] Star Gazing Session at Fountain Area
+Snippet: Dear Students,
+&nbsp;
+On the occasion of National Space Day, the Space Technology &amp; Astronomy Cell (STAC), IIT Mandi is pleased to invite you to a Stargazing Session under the night sky.
+&nbsp;
+Event Details -&nbsp;
+Date: 23rd August 2026
+Time: 10:00 PM onwards
+Venue: Fountain Area, North
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a02f22116e66349
 From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
@@ -223,37 +253,5 @@ If you are interested in Volleyball, this is your opportunity to start from the 
 &nbsp;
 N
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a02854bf17b1171
-From: "'Dean Academics' via all" <all@students.iitmandi.ac.in>
-Date: Sat, 22 Aug 2026 12:46:55 +0530
-Subject: Fwd: SDEF India Scholarship 2026–27 | Opportunity for Eligible IIT Students
-Snippet: ---------- Forwarded message ---------
-From: Swami Dayanand Educational Foundation 
-Date: Tue, Aug 18, 2026 at 3:01 PM
-Subject: SDEF India Scholarship 2026–27 | Opportunity for Eligible IIT
-Students
-To: 
-
-
-Please share this opportunity with eligible first-year IIT students from
-financially
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a028512bd749191
-From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
-Date: Sat, 22 Aug 2026 12:43:05 +0530
-Subject: ✨ SPIC MACAY, IIT Mandi | Qawwali Evening with Nizami Bandhu | 23 August | 5 pm onwards
-Snippet: *Greetings to the IIT Mandi Community!*
-
-We are delighted to invite you to an evening of *soulful Sufi music and the
-timeless tradition of Qawwali*, organised by *SPIC MACAY, IIT Mandi
-Chapter. *🎶
-
-This time, we bring to you the renowned *Nizami Bandhu*, celebrated for
-their powerful and soul
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
