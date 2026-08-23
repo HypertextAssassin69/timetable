@@ -1,4 +1,44 @@
-Found 22 emails in the last 2 days:
+Found 23 emails in the last 2 days:
+
+Message ID: 1a02d8bec4a78b5a
+From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
+Date: Sun, 23 Aug 2026 13:05:24 +0530
+Subject: So... You Think You Can Debate?
+Snippet: Hey Freshers! 👋
+
+Ever found yourself arguing with someone and thought, *“Damn, I’m actually
+pretty good at this”*? 😭
+
+Well… TSOD is here to put that to the test.
+
+🗓️ *Event Details*
+
+Day: *Monday, 24th August 2026*
+Time: *7:30 PM*
+Venue: *A18-1A*
+
+🗣️ What’s happening?
+
+🎤 Basics of Deb
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a02d699a7b54ea3
+From: "Kamand Bioengineering Group, IIT Mandi" <kbg@students.iitmandi.ac.in>
+Date: Sun, 23 Aug 2026 12:27:52 +0530
+Subject: Re: KBG AI x Bio Introductory Session – 23rd August | Join Us for an Epic Ride into AI
+Snippet: *Reminder !!*
+
+Hello Everyone! 👋
+
+Your favourite club is back again with something special! 🎉🎉
+
+We’re kicking off the semester with our very first introductory/explanatory
+session, and trust us—you won’t want to miss this one.
+
+Get ready for a roller coaster ride from the human brain to Neu
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a02d37ce796afb1
 From: "'Registrar IIT Mandi' via all" <all@students.iitmandi.ac.in>
@@ -220,39 +260,5 @@ B.SRINIVASU
 Associate Professor,
 School of
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a024b7016ddd20f
-From: "'PIYUSH KANWAT' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 21 Aug 2026 19:56:00 +0530
-Subject: [Announcement] 🎬ChalChitra Film Fest — The Wait Is Over
-Snippet: Dear all,
-&nbsp;
-Greetings from ChalChitra, IIT Mandi!
-&nbsp;
-The wait is almost over! 🎬✨
-&nbsp;
-With the ChalChitra Film Fest starting tomorrow, ticket booking is LIVE and the cinematic week is just around the corner!
-&nbsp;
-🎥 Film Fest Highlights
-✨ 5 Days &bull; 5 Movies &bull; One Cinema
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0246793f157430
-From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
-Date: Fri, 21 Aug 2026 18:29:03 +0530
-Subject: AAKARSHAN - 2026 Cultural clubs Intro for Freshers !!!
-Snippet: 🎭✨ *AAKARSHAN IS HERE!* ✨🎨💃
-*Freshers, this is your introduction to the cultural heartbeat of IIT
-Mandi!*
-
-Ever wondered what happens when the campus's most creative, energetic,
-dramatic, artistic, and imaginative minds come together on one stage?
-
-🔥 *AAKARSHAN* happens.
-
-*Time- 6:00 pm onw
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
