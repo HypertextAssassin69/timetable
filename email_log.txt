@@ -1,5 +1,42 @@
 Found 18 emails in the last 2 days:
 
+Message ID: 1a02f22116e66349
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Sun, 23 Aug 2026 20:28:56 +0530
+Subject: Star Gazing session @ 10pm
+Snippet: Dear Students,
+
+On the occasion of National Space Day, the Space Technology & Astronomy
+Cell (STAC), IIT Mandi is pleased to invite you to a Stargazing Session
+under the night sky.
+
+Event Details
+Date: 23rd August 2026
+Time: 10:00 PM onwards
+Venue: Fountain Area, North Campus
+
+We are exci
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a02f2024564643b
+From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
+Date: Sun, 23 Aug 2026 20:26:53 +0530
+Subject: ✨BAND BAAJA HOOKSTEP-ON HOLD ✨
+Snippet: HOLD UP, DANCERS! 🛑💃🕺
+
+✨BAND BAAJA HOOKSTEP-ON HOLD ✨
+
+We’re postponing our Bollywood hookstep workshop, so hold onto those iconic
+moves for just a bit longer. 🪩✨
+
+📅 New Date & Time: 26th August, Wednesday. 8PM
+📍 Dance Room (Above Gym)
+
+Don't let the hype die down—use this extra time to st
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
 Message ID: 1a02dfdd1539b8b0
 From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
 Date: Sun, 23 Aug 2026 15:09:45 +0530
@@ -218,39 +255,5 @@ Chapter. *🎶
 This time, we bring to you the renowned *Nizami Bandhu*, celebrated for
 their powerful and soul
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a02838029fe1524
-From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
-Date: Sat, 22 Aug 2026 12:15:36 +0530
-Subject: ✨ BAND BAAJA HOOKSTEP ✨
-Snippet: 🔥FRESHERS, READY TO GROOVE?🔥
-
-✨ BAND BAAJA HOOKSTEP ✨
-A fun, beginner-friendly Bollywood dance workshop where we’ll break down
-iconic hooksteps one move at a time!
-
-📅 23August | Sunday
-⏰ 8 PM
-📍 Dance Room (Above Gym)
-
-No experience needed. No pressure. Just bring your energy and your best
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a025a93d0dfaa96
-From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
-Date: Sat, 22 Aug 2026 00:20:22 +0530
-Subject: 🏋️ Weightlifting Workshop — Registrations Open!
-Snippet: *Dear Students,*
-
-*Interested in Weightlifting? Let’s get lifting!*
-
-We’re organising a *Weightlifting Workshop* for students who want to learn
-the sport, improve their technique, and understand the fundamentals of
-training.
-
-*Beginners or experienced lifters — everyone is welcome!* No prior
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
