@@ -1,4 +1,22 @@
-Found 23 emails in the last 2 days:
+Found 18 emails in the last 2 days:
+
+Message ID: 1a02dfdd1539b8b0
+From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
+Date: Sun, 23 Aug 2026 15:09:45 +0530
+Subject: Gentle Reminder: Qawaali Evening ✨ 5 PM | SPICMACAY IIT MANDI
+Snippet: Dear Students and Faculty Members,
+
+*Gentle Reminder – Qawaali Evening 🎶✨*
+
+The evening is almost here!
+
+*SPIC MACAY IIT Mandi* warmly invites you to step into an evening of *soulful
+melodies, powerful voices, and the timeless magic of Qawaali,* featuring
+the renowned *Nizami Band*.
+
+Prepa
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a02d8bec4a78b5a
 From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
@@ -233,32 +251,6 @@ the sport, improve their technique, and understand the fundamentals of
 training.
 
 *Beginners or experienced lifters — everyone is welcome!* No prior
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0257a2da2e6133
-From: "'Srinivasu Bodapati' via EE212" <ee212@courses.iitmandi.ac.in>
-Date: Fri, 21 Aug 2026 23:29:06 +0530
-Subject: Assignment -1 submission
-Snippet: Hi all,
-    Those who want to submit the assignment on Saturday, please go to the
-CANE lab (A18-05-03) between 11 AM to 2 PM and on Monday between 12 PM to 2
-PM.
-
-
-No submission is allowed after Monday, 2 PM.
-
-
-regards
-srini
-
-
--- 
-
-Regards
-B.SRINIVASU
-Associate Professor,
-School of
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
