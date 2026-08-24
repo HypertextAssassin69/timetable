@@ -1,4 +1,88 @@
-Found 21 emails in the last 2 days:
+Found 26 emails in the last 2 days:
+
+Message ID: 1a033c5460874338
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 18:05:35 +0530
+Subject: Inter IIT - Astronomy Problem Statements
+Snippet: Dear all,
+
+We're running a selection test to pick this year's Inter IIT team for the
+ISRO problem statement track. If you're interested in representing the
+institute, this is your chance to apply.
+
+The test has two tasks - one on lunar X-ray spectral analysis
+(Chandrayaan-2/CLASS) and one on
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a03393c1e7a24c6
+From: "'Shyam Masakapalli' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 17:11:49 +0530
+Subject: [Announcement] Reminder - Invitation to the Open Seminar of Ramnath Nayak (UD25008), SBB on 25th Aug 2026, 12 noon at A4 conference room
+Snippet: Dear All,You are cordially invited to attend the first open seminar of&nbsp;Ramnath Nayak (UD25008)&nbsp;as per the following schedule:
+Date: 25th&nbsp;August 2026
+Time: 12 noon
+Venue: A4 conference room
+The Title and abstract are as follows:
+&nbsp;
+Metabolic Drivers of Symbiotic Legume Root N
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a03390aa1bc9392
+From: "'Nalini' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 17:08:13 +0530
+Subject: [Announcement] Invitation to attend Synopsis seminar of Mr. Shubham Sharma (S23044)
+Snippet: Dear All,
+
+Kindly consider it as Synopsis Seminar.
+
+On Mon, Aug 24, 2026 at 5:00 PM sceeoffice  wrote:
+
+> Dear All,
+>
+> You are cordially invited to attend the *Synopsis Seminar* of *Mr.
+> Shubham Sharma (S23044)*  as per the following details:-
+>
+> *Date: *27 August, 2026 (Thursday)
+>
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a03389b86cc9433
+From: "'sceeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 17:00:51 +0530
+Subject: [Announcement] Invitation to attend Open seminar of Mr. Shubham Sharma (S23044)
+Snippet: Dear All,You are cordially invited to attend the Open Seminar of Mr. Shubham Sharma (S23044) &nbsp;as per the following details:-Date: 27 August, 2026 (Thursday)Time: 02:00 PM - 3.00 PMVenue: SCEE Conference RoomTitle: Robust Spoken Language Identification Systems under Domain Shift ConditionsAbstra
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a03337ca24e459e
+From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 15:30:50 +0530
+Subject: [Announcement] AYURVEDA PANCHAKARMA THERAPY scheduled for next week
+Snippet: Dear All,
+
+
+The basic AYURVEDA PANCHAKARMA THERAPY AND CONSULTATION schedule for upcoming week&nbsp; 31 August 2026&nbsp; to 04 September 2026 is as follows:-
+
+
+&nbsp;
+
+
+Sr.No
+Therapy Name
+Benefits
+
+
+1
+Akshi Tarpan (Eye Therapy)
+Prevents eye degeneration.
+
+
+Removes dryness f
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a03323269093b11
 From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
@@ -124,100 +208,6 @@ Time: 10:00 PM onwards
 Venue: Fountain Area, North Campus
 
 We are exci
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a02f2024564643b
-From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
-Date: Sun, 23 Aug 2026 20:26:53 +0530
-Subject: ✨BAND BAAJA HOOKSTEP-ON HOLD ✨
-Snippet: HOLD UP, DANCERS! 🛑💃🕺
-
-✨BAND BAAJA HOOKSTEP-ON HOLD ✨
-
-We’re postponing our Bollywood hookstep workshop, so hold onto those iconic
-moves for just a bit longer. 🪩✨
-
-📅 New Date & Time: 26th August, Wednesday. 8PM
-📍 Dance Room (Above Gym)
-
-Don't let the hype die down—use this extra time to st
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a02dfdd1539b8b0
-From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
-Date: Sun, 23 Aug 2026 15:09:45 +0530
-Subject: Gentle Reminder: Qawaali Evening ✨ 5 PM | SPICMACAY IIT MANDI
-Snippet: Dear Students and Faculty Members,
-
-*Gentle Reminder – Qawaali Evening 🎶✨*
-
-The evening is almost here!
-
-*SPIC MACAY IIT Mandi* warmly invites you to step into an evening of *soulful
-melodies, powerful voices, and the timeless magic of Qawaali,* featuring
-the renowned *Nizami Band*.
-
-Prepa
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a02d8bec4a78b5a
-From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
-Date: Sun, 23 Aug 2026 13:05:24 +0530
-Subject: So... You Think You Can Debate?
-Snippet: Hey Freshers! 👋
-
-Ever found yourself arguing with someone and thought, *“Damn, I’m actually
-pretty good at this”*? 😭
-
-Well… TSOD is here to put that to the test.
-
-🗓️ *Event Details*
-
-Day: *Monday, 24th August 2026*
-Time: *7:30 PM*
-Venue: *A18-1A*
-
-🗣️ What’s happening?
-
-🎤 Basics of Deb
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a02d699a7b54ea3
-From: "Kamand Bioengineering Group, IIT Mandi" <kbg@students.iitmandi.ac.in>
-Date: Sun, 23 Aug 2026 12:27:52 +0530
-Subject: Re: KBG AI x Bio Introductory Session – 23rd August | Join Us for an Epic Ride into AI
-Snippet: *Reminder !!*
-
-Hello Everyone! 👋
-
-Your favourite club is back again with something special! 🎉🎉
-
-We’re kicking off the semester with our very first introductory/explanatory
-session, and trust us—you won’t want to miss this one.
-
-Get ready for a roller coaster ride from the human brain to Neu
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a02d37ce796afb1
-From: "'Registrar IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 23 Aug 2026 11:33:25 +0530
-Subject: Fwd: Request to announce NORTH SOUTH FOUNDATION SCHOLARSHIPS On Merit cum Need Basis
-Snippet: *Sincerely,Dr. Kumar Sambhav Pandey*
-
-
-
-
-
-*Registrar Indian Institute of Technology (IIT )-MandiVPO Kamand-175075,
-Distt. Mandi (Himachal Pradesh), IndiaE-mail:registrar@iitmandi.ac.in
-; URL:http://iitmandi.ac.in/
- Tele: +91-1905-267015 Fax :
-+91-1905-267075================================
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
