@@ -1,4 +1,29 @@
-Found 18 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 1a0326818072743f
+From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 19 Aug 2026 11:27:30 +0530
+Subject: GUIDELINES FOR USE OF THE PLAYGROUND AT SOUTH CAMPUS AND SPORTS FACILITIES
+Snippet: Dear Students and Members of the Campus Community,
+
+The playground is a common facility meant for everyone and is used for
+various
+activities,
+*including running, walking, yoga, children's play, athletics, andother
+recreational and sports activities.* Given the limited space available, we
+req
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a032071dadd8db4
+From: "'SHSS Office' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 09:58:35 +0530
+Subject: [Announcement] Reminder!! Invitation : Second Open Seminar of Ms. Chalantika Chakraborty (D21003) in the School of Humanities and Social Sciences, IIT Mandi | 03:30 PM onwards
+Snippet: Dear All,
+You are cordially invited to attend Second Open Seminar of Ms. Chalantika Chakraborty (D21003), PhD Scholar in the School of Humanities and Social Sciences as per following Schedule:
+Date: 24.08.2026 (Monday)Time: 3: 30 PMVenue: SHSS Conference Room No.-16 (Big Conf
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a02f8a35b5b4430
 From: "'Pratim Kundu' via EE203" <ee203@courses.iitmandi.ac.in>
@@ -224,34 +249,5 @@ Cultural Secretary
 IIT Mandi
 Dear all An extra bus has been arranged at 10:15 pm from north to south campus. Enjoy fantastic performances at A
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a02a31f3ebd8a12
-From: "'AMRITPAL' via all" <all@students.iitmandi.ac.in>
-Date: Sat, 22 Aug 2026 21:28:24 +0530
-Subject: [Announcement] 🏀 Inter-IIT Basketball Trials — Monday, 24th & Tuesday 25th | 5:30 PM Onwards | Indoor Court, South Campus
-Snippet: &nbsp;
-Hey Everyone,
-&nbsp;
-Get your shoes laced up &mdash; the Inter-IIT Basketball Trials are here!
-&nbsp;
-Whether you've been balling since childhood or just love the game and want to test yourself at the next level, this is your shot to represent the institute on the Inter-IIT stage. We're
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a02877a3a7aa395
-From: "'NEIL BAKSHI' via all" <all@students.iitmandi.ac.in>
-Date: Sat, 22 Aug 2026 13:25:17 +0530
-Subject: [Announcement] Inter-IIT Volleyball Trials
-Snippet: Dear Students,
-&nbsp;
-Here is your chance to learn, play and represent IIT Mandi! 🏐
-&nbsp;
-🔥 Calling all Freshers! 🔥
-&nbsp;
-If you are interested in Volleyball, this is your opportunity to start from the basics, improve your skills and become a part of the IIT Mandi Volleyball team.
-&nbsp;
-N
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
