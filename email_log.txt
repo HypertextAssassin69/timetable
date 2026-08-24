@@ -1,4 +1,57 @@
-Found 19 emails in the last 2 days:
+Found 21 emails in the last 2 days:
+
+Message ID: 1a03323269093b11
+From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 15:08:49 +0530
+Subject: [Announcement] Invitation for Ph.D. Viva Voce of Mr. Himanshu Choudhary (D21024), SMSS on 25 August, 2026 || 2:45 PM
+Snippet: Dear all,
+You are cordially invited to attend the Ph.D. Thesis Viva Voce of Mr. Himanshu Choudhary (D21024), Ph.D. scholar in the School of Mathematical &amp; Statistical Sciences, as per the following schedule:
+Date:&nbsp;25-08-2026 (Tuesday) Time:&nbsp;2:45 PMVenue: A13 Conference Room (3rd Floo
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a03320f04e36716
+From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 15:06:23 +0530
+Subject: [Announcement] Viva Voce Examination of Mr.Prasun Kumar (D22133)
+Snippet: Dear All,
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You are cordially invited to attend the Ph.D. Viva-Voce Seminar of&nbsp;Mr.&nbsp;Prasun Kumar&nbsp;(D22133), Ph.D. Scholar at the SMME, IIT Mandi. The seminar is scheduled as per the details below:
+&nbsp;
+Date:&nbsp;25th August 2026
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0331b8f28287c0
+From: "'sceeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 15:00:31 +0530
+Subject: [Announcement] Invitation to attend Synopsis seminar of Mr. Abhishek Rathore (S24013)
+Snippet: Dear all,
+You are cordially invited to attend the synopsis seminar of Mr. Abhishek Rathore (S24013) as per the following schedule:&nbsp;&nbsp;
+Date: 25th August 2026Time: 2:00 PMVenue: SCEE Conference Room
+Title: Brain Visual Decoding: EEG-to-Image Synthesis with Efficient, Geometry-inspired, and
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a032a2b23895a22
+From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 12:48:31 +0530
+Subject: [Announcement] Announcement] Enroll Now: IK592_11 – Advanced Mnemonic Techniques (Super Memory)
+Snippet: Dear Students,
+The Indian Knowledge System and Mental Health Applications Centre (IKSMHA) is pleased to announce the IK592_11 &ndash; Advanced Mnemonic Techniques (Super Memory) course for this semester.
+This unique 2-credit course helps you develop practical, science-backed memory techniques (mne
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a03298307a461ef
+From: "'sceeoffice' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 12:37:02 +0530
+Subject: [Announcement] Invitation to attend Open seminar of Mr. Pankaj Verma (PTD2004)
+Snippet: Dear All,
+You are cordially invited to attend the&nbsp;open seminar&nbsp;of&nbsp;Mr. Pankaj Verma(PTD2004), as per the following schedule:
+Date: 27.08.2026Time: 3:00 PM&nbsp;Venue: SCEE Conference Room
+Title: Comprehensive Analysis of Design Methodology of IPMSM for Low-Power Automotive Applicati
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a0326818072743f
 From: "'Sports Office' via all" <all@students.iitmandi.ac.in>
@@ -165,89 +218,6 @@ Distt. Mandi (Himachal Pradesh), IndiaE-mail:registrar@iitmandi.ac.in
 ; URL:http://iitmandi.ac.in/
  Tele: +91-1905-267015 Fax :
 +91-1905-267075================================
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a02cfdcfa011db8
-From: The Ken <info@the-ken.com>
-Date: Sun, 23 Aug 2026 05:00:24 +0000 (UTC)
-Subject: First Principles: Opportunity-resentment versus commitment-resentment
-Snippet: With the allure of the series comes great responsibility
-
-https://the-ken.com/
-
-First Principles
-
-Sun, 23 Aug 26
-
-A community-powered Sunday newsletter on mental models, self-reflection, learning, growth, photos, books, and more.
-
-https://the-ken.com/
-
-A community-powered Sunday newslett
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a02ccc35ed56727
-From: Jia from Unstop <noreply@unstop.news>
-Date: Sun, 23 Aug 2026 09:36:15 +0530
-Subject: Earn stipend upto INR 75,000!
-Snippet: Your profile is a match!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279;
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a02a999551e2fac
-From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
-Date: Sat, 22 Aug 2026 23:21:23 +0530
-Subject: Re: Sports Society & RANN-NEETI '26 Introductory Session
-Snippet: Gentle Reminder!
-
-Come along with your friends!
-
-Best Regards
-Dhruv Kumar Singh
-Sports Secretary
-Student Gymkhana, IIT Mandi
-
-Mobile: +91 74528 58044
-
-On Fri, 21 Aug 2026, 15:06 Dhruv Kumar Singh - Sports Secretary,  wrote:
-
-> Freshers, welcome to campus! The *Sports Society, IIT Mandi*
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a02a3bc679960d0
-From: "Kamand Bioengineering Group, IIT Mandi" <kbg@students.iitmandi.ac.in>
-Date: Sat, 22 Aug 2026 21:38:59 +0530
-Subject: KBG AI x Bio Introductory Session – 23rd August | Join Us for an Epic Ride into AI
-Snippet: Hello Everyone! 👋
-
-Your favourite club is back again with something special! 🎉🎉
-
-We’re kicking off the semester with our very first introductory/explanatory
-session, and trust us—you won’t want to miss this one.
-
-Get ready for a roller coaster ride from the human brain to Neural
-Networks… an
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a02a334062eb386
-From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
-Date: Sat, 22 Aug 2026 21:29:40 +0530
-Subject: Extra bus from north to south .
-Snippet: Dear all
-An extra bus has been arranged at 10:15 pm from north to south campus.
-
-
-Enjoy fantastic performances at Aakarshan !!
-
-Warm Regards,
-Daksh
-Cultural Secretary
-IIT Mandi
-Dear all An extra bus has been arranged at 10:15 pm from north to south campus. Enjoy fantastic performances at A
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
