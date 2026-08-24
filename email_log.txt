@@ -1,4 +1,24 @@
-Found 26 emails in the last 2 days:
+Found 27 emails in the last 2 days:
+
+Message ID: 1a033f2003d338b1
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Mon, 24 Aug 2026 18:54:29 +0530
+Subject: Re: Inter IIT - Astronomy Problem Statements
+Snippet: Please find the PS document -
+https://drive.google.com/file/d/11jgm2lfrG42ttv46UbnoddrLHZRSKZYp/view?usp=drivesdk
+
+Regards,
+
+
+*Piyush Roy*
+*Technical Secretary*
+*Student Gymkhana, IIT Mandi **Phone *- +91 6260553385
+*Email *- B23355@students.iitmandi.ac.in
+
+
+On Mon, 24 Aug 2026 at 6:05 P
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a033c5460874338
 From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
@@ -189,25 +209,6 @@ Event Details -&nbsp;
 Date: 23rd August 2026
 Time: 10:00 PM onwards
 Venue: Fountain Area, North
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a02f22116e66349
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Sun, 23 Aug 2026 20:28:56 +0530
-Subject: Star Gazing session @ 10pm
-Snippet: Dear Students,
-
-On the occasion of National Space Day, the Space Technology & Astronomy
-Cell (STAC), IIT Mandi is pleased to invite you to a Stargazing Session
-under the night sky.
-
-Event Details
-Date: 23rd August 2026
-Time: 10:00 PM onwards
-Venue: Fountain Area, North Campus
-
-We are exci
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
