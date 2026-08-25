@@ -1,4 +1,16 @@
-Found 27 emails in the last 2 days:
+Found 25 emails in the last 2 days:
+
+Message ID: 1a03766cb9aef55b
+From: "'Kharerin  Hungyo' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 25 Aug 2026 11:01:11 +0530
+Subject: [Announcement] Invitation to the First Open Seminar by Ms. Shipra Singh (D22023), School of Biosciences and Bioengineering (SBB) | 27th August 2026
+Snippet: Dear All,
+You are cordially invited to attend the First Open seminar by Ms. Shipra Singh (D22023), a PhD scholar in the School of Biosciences and Bioengineering, as per the following details:
+Title: CpG Island Architecture and Gene Regulation in Humans
+Date: Aug 27, 2026 (Thursday)
+Time: 2:30
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a036fda0eb9aa03
 From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
@@ -204,17 +216,6 @@ Subject: [Announcement] Announcement] Enroll Now: IK592_11 – Advanced Mnemonic
 Snippet: Dear Students,
 The Indian Knowledge System and Mental Health Applications Centre (IKSMHA) is pleased to announce the IK592_11 &ndash; Advanced Mnemonic Techniques (Super Memory) course for this semester.
 This unique 2-credit course helps you develop practical, science-backed memory techniques (mne
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a03298307a461ef
-From: "'sceeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 12:37:02 +0530
-Subject: [Announcement] Invitation to attend Open seminar of Mr. Pankaj Verma (PTD2004)
-Snippet: Dear All,
-You are cordially invited to attend the&nbsp;open seminar&nbsp;of&nbsp;Mr. Pankaj Verma(PTD2004), as per the following schedule:
-Date: 27.08.2026Time: 3:00 PM&nbsp;Venue: SCEE Conference Room
-Title: Comprehensive Analysis of Design Methodology of IPMSM for Low-Power Automotive Applicati
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
