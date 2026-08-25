@@ -1,4 +1,25 @@
-Found 25 emails in the last 2 days:
+Found 26 emails in the last 2 days:
+
+Message ID: 1a035b27b167f7cb
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Tue, 25 Aug 2026 03:04:21 +0530
+Subject: Re: Inter IIT - Astronomy Problem Statements
+Snippet: Hi everyone,
+
+There was an error in the Footprint A timing we shared earlier.
+
+Please use the following as the new Footprint A:
+
+*2020-05-29T10:40:00 – 10:43:00 UTC*
+
+Please use this timing for your work going forward. Sorry for the confusion!
+
+
+*Piyush Roy*
+*Technical Secretary*
+*Stude
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a034c937683d7dd
 From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
@@ -199,15 +220,5 @@ activities,
 recreational and sports activities.* Given the limited space available, we
 req
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a032071dadd8db4
-From: "'SHSS Office' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 09:58:35 +0530
-Subject: [Announcement] Reminder!! Invitation : Second Open Seminar of Ms. Chalantika Chakraborty (D21003) in the School of Humanities and Social Sciences, IIT Mandi | 03:30 PM onwards
-Snippet: Dear All,
-You are cordially invited to attend Second Open Seminar of Ms. Chalantika Chakraborty (D21003), PhD Scholar in the School of Humanities and Social Sciences as per following Schedule:
-Date: 24.08.2026 (Monday)Time: 3: 30 PMVenue: SHSS Conference Room No.-16 (Big Conf
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
