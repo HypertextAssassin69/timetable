@@ -1,4 +1,16 @@
-Found 25 emails in the last 2 days:
+Found 24 emails in the last 2 days:
+
+Message ID: 1a039694d10b56e0
+From: "'Navish Sharma' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 25 Aug 2026 20:23:04 +0530
+Subject: [Announcement] Safety Advisory Regarding Rockfall on Panchvaktra Marg Connecting Both Campuses
+Snippet: Dear All,
+This is to inform all that rockfall has been reported at certain locations along Panchvaktra Marg, connecting the two campuses.
+In view of the potential safety risk, everyone is requested to exercise caution and follow the safety precautions outlined below while using this route:
+
+Pede
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a038e2fd355a967
 From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
@@ -209,15 +221,5 @@ Prevents eye degeneration.
 
 Removes dryness f
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a03323269093b11
-From: "'SMSS Office' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 15:08:49 +0530
-Subject: [Announcement] Invitation for Ph.D. Viva Voce of Mr. Himanshu Choudhary (D21024), SMSS on 25 August, 2026 || 2:45 PM
-Snippet: Dear all,
-You are cordially invited to attend the Ph.D. Thesis Viva Voce of Mr. Himanshu Choudhary (D21024), Ph.D. scholar in the School of Mathematical &amp; Statistical Sciences, as per the following schedule:
-Date:&nbsp;25-08-2026 (Tuesday) Time:&nbsp;2:45 PMVenue: A13 Conference Room (3rd Floo
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
