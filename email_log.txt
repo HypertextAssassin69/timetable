@@ -1,4 +1,12 @@
-Found 25 emails in the last 2 days:
+Found 24 emails in the last 2 days:
+
+Message ID: 1a0383fd39b5643e
+From: Priya Gupta <noreply@unstop.news>
+Date: Tue, 25 Aug 2026 14:58:21 +0530
+Subject: Ready to test your leadership skills next?
+Snippet: Campus Ambassador ProgramApply Now!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#6
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a03766cb9aef55b
 From: "'Kharerin  Hungyo' via all" <all@students.iitmandi.ac.in>
@@ -206,16 +214,6 @@ Snippet: Dear all,
 You are cordially invited to attend the synopsis seminar of Mr. Abhishek Rathore (S24013) as per the following schedule:&nbsp;&nbsp;
 Date: 25th August 2026Time: 2:00 PMVenue: SCEE Conference Room
 Title: Brain Visual Decoding: EEG-to-Image Synthesis with Efficient, Geometry-inspired, and
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a032a2b23895a22
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 12:48:31 +0530
-Subject: [Announcement] Announcement] Enroll Now: IK592_11 – Advanced Mnemonic Techniques (Super Memory)
-Snippet: Dear Students,
-The Indian Knowledge System and Mental Health Applications Centre (IKSMHA) is pleased to announce the IK592_11 &ndash; Advanced Mnemonic Techniques (Super Memory) course for this semester.
-This unique 2-credit course helps you develop practical, science-backed memory techniques (mne
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
