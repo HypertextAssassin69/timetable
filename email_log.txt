@@ -1,4 +1,30 @@
-Found 24 emails in the last 2 days:
+Found 25 emails in the last 2 days:
+
+Message ID: 1a038e2fd355a967
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 25 Aug 2026 17:56:15 +0530
+Subject: Invitation for Live Interaction Programme with the Hon’ble Prime Minister on 27.08.2026
+Snippet: Dear All,
+
+The Indian Institute of Technology Mandi is pleased to invite the students
+to participate in the *Live Interaction Programme with the Hon’ble Prime
+Minister* scheduled to be held on *27.08.2026*.
+
+The programme will be held as per the following schedule:
+
+*Programme:* Live Interac
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a038cbc89b97867
+From: "'cair  office' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 25 Aug 2026 17:30:38 +0530
+Subject: [Announcement] New Course Announcement: AR-591 – Introduction to Soft Robotics.
+Snippet: Dear Students,
+Greetings from the&nbsp;Centre for Artificial Intelligence and Robotics (CAIR), IIT Mandi!
+We are pleased to announce the introduction of a new course,&nbsp;AR-591 &ndash; Introduction to Soft Robotics, to be offered this semester as part of the forthcoming visit of&nbsp;Dr. Ing.
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a0383fd39b5643e
 From: Priya Gupta <noreply@unstop.news>
@@ -192,28 +218,6 @@ Subject: [Announcement] Invitation for Ph.D. Viva Voce of Mr. Himanshu Choudhary
 Snippet: Dear all,
 You are cordially invited to attend the Ph.D. Thesis Viva Voce of Mr. Himanshu Choudhary (D21024), Ph.D. scholar in the School of Mathematical &amp; Statistical Sciences, as per the following schedule:
 Date:&nbsp;25-08-2026 (Tuesday) Time:&nbsp;2:45 PMVenue: A13 Conference Room (3rd Floo
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a03320f04e36716
-From: "'smmeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 15:06:23 +0530
-Subject: [Announcement] Viva Voce Examination of Mr.Prasun Kumar (D22133)
-Snippet: Dear All,
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You are cordially invited to attend the Ph.D. Viva-Voce Seminar of&nbsp;Mr.&nbsp;Prasun Kumar&nbsp;(D22133), Ph.D. Scholar at the SMME, IIT Mandi. The seminar is scheduled as per the details below:
-&nbsp;
-Date:&nbsp;25th August 2026
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0331b8f28287c0
-From: "'sceeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 15:00:31 +0530
-Subject: [Announcement] Invitation to attend Synopsis seminar of Mr. Abhishek Rathore (S24013)
-Snippet: Dear all,
-You are cordially invited to attend the synopsis seminar of Mr. Abhishek Rathore (S24013) as per the following schedule:&nbsp;&nbsp;
-Date: 25th August 2026Time: 2:00 PMVenue: SCEE Conference Room
-Title: Brain Visual Decoding: EEG-to-Image Synthesis with Efficient, Geometry-inspired, and
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
