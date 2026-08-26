@@ -1,4 +1,47 @@
-Found 13 emails in the last 2 days:
+Found 14 emails in the last 2 days:
+
+Message ID: 1a03e474a78152a3
+From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
+Date: Wed, 26 Aug 2026 19:03:55 +0530
+Subject: UDC workshop is today !!
+Snippet: A gentle reminder to all the students -
+
+the workshop is today !!!
+
+Date & Time: 26th August, Wednesday. 8PM Dance Room (Above Gym)
+
+
+Warm Regards,
+Daksh
+Cultural Secretary
+IIT Mandi
+A gentle reminder to all the students -the workshop is today !!!Date &amp; Time: 26th August, Wednesday. 8
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a03e415bef436aa
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 26 Aug 2026 18:57:27 +0530
+Subject: Re: Invitation for Live Interaction Programme with the Hon’ble Prime Minister on 27.08.2026
+Snippet: Dear Students,
+
+This is a reminder regarding the *Live Interaction Programme with the
+Hon’ble Prime Minister* being hosted by IIT Mandi.
+
+*Event Details:*
+
+   -
+
+   *Date & Time:* August 27, 2026 at * 9:45 AM*
+   -
+
+   *Venue:* Auditorium, IIT Mandi
+
+*Mandatory Attendance:*
+
+   -
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a03dce47b52bc20
 From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
@@ -169,25 +212,5 @@ Snippet: Dear Students,
 The Inter IIT Weightlifting Trials for selecting the IIT Mandi Weightlifting Team will be conducted on 26th August 2026 (Wednesday) from 4:30 PM to 8:00 PM.
 All students who are interested in representing IIT Mandi at the Inter IIT Sports Meet 2026 are invited to participate in the
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a033f2003d338b1
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 18:54:29 +0530
-Subject: Re: Inter IIT - Astronomy Problem Statements
-Snippet: Please find the PS document -
-https://drive.google.com/file/d/11jgm2lfrG42ttv46UbnoddrLHZRSKZYp/view?usp=drivesdk
-
-Regards,
-
-
-*Piyush Roy*
-*Technical Secretary*
-*Student Gymkhana, IIT Mandi **Phone *- +91 6260553385
-*Email *- B23355@students.iitmandi.ac.in
-
-
-On Mon, 24 Aug 2026 at 6:05 P
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
