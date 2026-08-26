@@ -1,4 +1,28 @@
-Found 18 emails in the last 2 days:
+Found 13 emails in the last 2 days:
+
+Message ID: 1a03dce47b52bc20
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Wed, 26 Aug 2026 16:51:44 +0530
+Subject: Re: CLI & GitHub session reminder
+Snippet: A gentle reminder for the session!
+
+Regards,
+
+
+*Piyush Roy*
+*Technical Secretary*
+*Student Gymkhana, IIT Mandi **Phone *- +91 6260553385
+*Email *- B23355@students.iitmandi.ac.in
+
+
+
+On Wed, Aug 26, 2026 at 8:00 AM Piyush Roy  wrote:
+
+> Dear all,
+>
+> This is a reminder that the CLI, Gi
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a03d4f231938124
 From: "'Ajay Soni' via all" <all@students.iitmandi.ac.in>
@@ -165,54 +189,5 @@ Regards,
 
 On Mon, 24 Aug 2026 at 6:05 P
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a033c5460874338
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 18:05:35 +0530
-Subject: Inter IIT - Astronomy Problem Statements
-Snippet: Dear all,
-
-We're running a selection test to pick this year's Inter IIT team for the
-ISRO problem statement track. If you're interested in representing the
-institute, this is your chance to apply.
-
-The test has two tasks - one on lunar X-ray spectral analysis
-(Chandrayaan-2/CLASS) and one on
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a03393c1e7a24c6
-From: "'Shyam Masakapalli' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 17:11:49 +0530
-Subject: [Announcement] Reminder - Invitation to the Open Seminar of Ramnath Nayak (UD25008), SBB on 25th Aug 2026, 12 noon at A4 conference room
-Snippet: Dear All,You are cordially invited to attend the first open seminar of&nbsp;Ramnath Nayak (UD25008)&nbsp;as per the following schedule:
-Date: 25th&nbsp;August 2026
-Time: 12 noon
-Venue: A4 conference room
-The Title and abstract are as follows:
-&nbsp;
-Metabolic Drivers of Symbiotic Legume Root N
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a03390aa1bc9392
-From: "'Nalini' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 17:08:13 +0530
-Subject: [Announcement] Invitation to attend Synopsis seminar of Mr. Shubham Sharma (S23044)
-Snippet: Dear All,
-
-Kindly consider it as Synopsis Seminar.
-
-On Mon, Aug 24, 2026 at 5:00 PM sceeoffice  wrote:
-
-> Dear All,
->
-> You are cordially invited to attend the *Synopsis Seminar* of *Mr.
-> Shubham Sharma (S23044)*  as per the following details:-
->
-> *Date: *27 August, 2026 (Thursday)
->
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
