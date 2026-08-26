@@ -1,4 +1,4 @@
-Found 14 emails in the last 2 days:
+Found 12 emails in the last 2 days:
 
 Message ID: 1a03e474a78152a3
 From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
@@ -183,34 +183,5 @@ Please use this timing for your work going forward. Sorry for the confusion!
 *Technical Secretary*
 *Stude
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a034c937683d7dd
-From: Dhruv Kumar Singh - Sports Secretary <sports_secretary@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 22:49:38 +0530
-Subject: Fwd: HnT Trek to Griffon - Girls Only 💗✨
-Snippet: Regarding a girl only trek organised by HnT.
-
-Best Regards,
-Dhruv Kumar Singh
-Sports Secretary, Student Gymkhana
-IIT Mandi
-
----------- Forwarded message ---------
-From: Hiking & Trekking Club IIT Mandi 
-Date: Mon, Aug 24, 2026 at 9:56 PM
-Subject: HnT Trek to Griffon - Girls Only 💗✨
-To: D
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a034b3cad27a463
-From: "'SHUBHAM' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 22:26:24 +0530
-Subject: [Announcement] Inter IIT Weightlifting Trials
-Snippet: Dear Students,
-The Inter IIT Weightlifting Trials for selecting the IIT Mandi Weightlifting Team will be conducted on 26th August 2026 (Wednesday) from 4:30 PM to 8:00 PM.
-All students who are interested in representing IIT Mandi at the Inter IIT Sports Meet 2026 are invited to participate in the
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
