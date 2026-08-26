@@ -1,4 +1,19 @@
-Found 22 emails in the last 2 days:
+Found 23 emails in the last 2 days:
+
+Message ID: 1a03be75ad976072
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Wed, 26 Aug 2026 08:00:00 +0530
+Subject: CLI & GitHub session reminder
+Snippet: Dear all,
+
+This is a reminder that the CLI, Git & GitHub session is scheduled for
+today, 26 August, from *5:00 PM to 7:00 PM* in the Auditorium.
+
+With Inter-IIT approaching and this year’s PSs expected to be among the
+most challenging, these sessions are designed to help you build the
+technic
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a039694d10b56e0
 From: "'Navish Sharma' via all" <all@students.iitmandi.ac.in>
@@ -193,33 +208,6 @@ From: "'sceeoffice' via all" <all@students.iitmandi.ac.in>
 Date: Mon, 24 Aug 2026 17:00:51 +0530
 Subject: [Announcement] Invitation to attend Open seminar of Mr. Shubham Sharma (S23044)
 Snippet: Dear All,You are cordially invited to attend the Open Seminar of Mr. Shubham Sharma (S23044) &nbsp;as per the following details:-Date: 27 August, 2026 (Thursday)Time: 02:00 PM - 3.00 PMVenue: SCEE Conference RoomTitle: Robust Spoken Language Identification Systems under Domain Shift ConditionsAbstra
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a03337ca24e459e
-From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 24 Aug 2026 15:30:50 +0530
-Subject: [Announcement] AYURVEDA PANCHAKARMA THERAPY scheduled for next week
-Snippet: Dear All,
-
-
-The basic AYURVEDA PANCHAKARMA THERAPY AND CONSULTATION schedule for upcoming week&nbsp; 31 August 2026&nbsp; to 04 September 2026 is as follows:-
-
-
-&nbsp;
-
-
-Sr.No
-Therapy Name
-Benefits
-
-
-1
-Akshi Tarpan (Eye Therapy)
-Prevents eye degeneration.
-
-
-Removes dryness f
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
