@@ -1,4 +1,4 @@
-Found 12 emails in the last 2 days:
+Found 11 emails in the last 2 days:
 
 Message ID: 1a03e474a78152a3
 From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
@@ -162,26 +162,5 @@ Dear all,
 You are cordially invited to attend the Ph.D. Thesis Viva Voce of Mr. Himanshu Choudhary (D21024), Ph.D. scholar in the School of Mathematical &amp; Statistical Sciences, as per the following schedule:
 Date:&nbsp;25-08-2026 (Tuesday) Time:&nbsp;2:45 PMVenue: A13 Confe
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a035b27b167f7cb
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Tue, 25 Aug 2026 03:04:21 +0530
-Subject: Re: Inter IIT - Astronomy Problem Statements
-Snippet: Hi everyone,
-
-There was an error in the Footprint A timing we shared earlier.
-
-Please use the following as the new Footprint A:
-
-*2020-05-29T10:40:00 – 10:43:00 UTC*
-
-Please use this timing for your work going forward. Sorry for the confusion!
-
-
-*Piyush Roy*
-*Technical Secretary*
-*Stude
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
