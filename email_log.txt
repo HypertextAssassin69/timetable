@@ -1,5 +1,23 @@
 Found 17 emails in the last 2 days:
 
+Message ID: 1a0458875c0f181f
+From: "Kamand Bioengineering Group, IIT Mandi" <kbg@students.iitmandi.ac.in>
+Date: Fri, 28 Aug 2026 04:52:32 +0530
+Subject: NEEV 1.0 Pre-Hackathon: Build Before You Battle 🚀
+Snippet: Hello Everyone!
+
+*Hackathons se dar lagta hai? 🤔*
+*"Kya karen? Kuch samajh hi nahi aa raha?"*
+*"Coding aati hai, par start kahan se karun?"*
+*"Idea hai... implementation ka kya?"*
+
+If you've ever had these thoughts, *NEEV 1.0* is exactly where you need to
+be.
+
+Before you dive into hackatho
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
 Message ID: 1a043044ba870a14
 From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
 Date: Thu, 27 Aug 2026 17:08:50 +0530
@@ -238,19 +256,6 @@ On Wed, Aug 26, 2026 at 8:00 AM Piyush Roy  wrote:
 > Dear all,
 >
 > This is a reminder that the CLI, Gi
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a03d4f231938124
-From: "'Ajay Soni' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 26 Aug 2026 14:33:05 +0530
-Subject: [Announcement] First open seminar by Scholar Ms Memansa Thapa, School of Physical Sciences, on 1st September 2026, at 10:00 AM, in A4 Conference room.
-Snippet: Dear All,
-You are invited to the&nbsp;first&nbsp;open&nbsp;seminar&nbsp;by scholar Ms. Memansa Thapa, School of Physical Sciences, as per the following schedule:
-Date: 01, September 2026&nbsp;
-Time:&nbsp;10:00 AM
-Venue: A4 Conference Room, South Campus
-Title: Excitonic Landscape in Twisted WSe2
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
