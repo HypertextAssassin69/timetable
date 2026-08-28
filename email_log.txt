@@ -1,4 +1,137 @@
-Found 17 emails in the last 2 days:
+Found 20 emails in the last 2 days:
+
+Message ID: 1a0486b4dbd224d5
+From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
+Date: Fri, 28 Aug 2026 18:19:26 +0530
+Subject: UDC- Workshop !!!
+Snippet: 💃🏻 BEGINNERS WORKSHOP! 💃
+
+Hey Freshers! 👀✨
+Loved Part 1? Then get ready to groove even harder because Beginners
+Workshop is here! 🔥
+
+📅 29th August (Saturday)
+⏰ 8:00 PM
+📍 Dance Room
+
+We're back with another workshop! A little more technical but hey, that's
+the fun part isn't it 😉
+
+This i
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a047c4d47ee1ff0
+From: Ananya Bhatt <noreply@unstop.news>
+Date: Fri, 28 Aug 2026 15:17:56 +0530
+Subject: Up to €80K in funding for your deep-tech startup
+Snippet: E.ON Future Makers Challenge
+@media only screen and (max-width: 640px) {
+    .container {
+        width: 100% !important
+        }
+    .padding {
+        padding: 20px !important
+        }
+    .hero {
+        padding: 26px 18px !important
+        }
+    h1 {
+        font-size: 26px !important
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a04788a20ab69d1
+From: "Kamand Bioengineering Group, IIT Mandi" <kbg@students.iitmandi.ac.in>
+Date: Fri, 28 Aug 2026 10:41:58 +0200
+Subject: NEEV 1.0 Pre-Hackathon: Build Before You Battle 🚀
+Snippet: Hello Everyone!
+
+*Hackathons se dar lagta hai? 🤔*
+*"Kya karen? Kuch samajh hi nahi aa raha?"*
+*"Coding aati hai, par start kahan se karun?"*
+*"Idea hai... implementation ka kya?"*
+
+If you've ever had these thoughts, *NEEV 1.0* is exactly where you need to
+be.
+
+Before you dive into hackatho
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a046ea78c0153a6
+From: "'Satyajitsinh A. Thakor' via EE260" <ee260@courses.iitmandi.ac.in>
+Date: Fri, 28 Aug 2026 11:19:13 +0530
+Subject: EE260 Course Information
+Snippet: Dear Students,
+
+The slides for Lecture 10 and Assignment 3 (due date: 5 September) are now
+available on the LMS.
+
+Best wishes,
+Satyajit
+Dear Students,The slides for Lecture 10 and Assignment 3 (due date: 5 September) are now available on the LMS.Best wishes,Satyajit
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a046c568c7dfb12
+From: "'Prasad  Kasturi' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 28 Aug 2026 10:38:49 +0530
+Subject: [Announcement] Second open seminar by Ms. Rushali Kamat (D21110) on Tuesday 1st, September 2026, at 3 PM in A4 Conference Room
+Snippet: Dear all,
+&nbsp;
+You are cordially invited to attend the second open seminar by Ms. Rushali Kamat (D21110), School of Biosciences and Bioengineering, as per the following schedule.
+&nbsp;
+Date and Time: 1st, September 2026, at 3 PM 
+&nbsp;
+Venue: &nbsp;A4 Conference room
+&nbsp;
+Title: &nbsp;
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0468da81505f62
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Fri, 28 Aug 2026 09:37:41 +0530
+Subject: KQuant session on Basics of Finance and Trading
+Snippet: Hello all,
+
+Ever wondered what Finance is really about—beyond stocks, charts, and
+numbers?
+
+Here’s your chance to find out.
+
+KQuant, IIT Mandi invites you to a beginner-friendly session on “Basics of
+Finance & Trading”—where no prior knowledge is required, just curiosity and
+enthusiasm.
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a046856253e178d
+From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
+Date: Fri, 28 Aug 2026 09:28:46 +0530
+Subject: Gandhigiri 2026 — New Date, Same Fire! ⚖️
+Snippet: Dear Freshers,
+
+🔥 GANDHIGIRI 2026 — THE FLAGSHIP DEBATE OF TSOD 🔥
+
+With several events clashing this weekend, we’ve decided to postpone
+Gandhigiri to the weekend.
+
+But don’t wait for the new date to start preparing! Gather your friends,
+form your teams, and register now:
+
+📝 Registration:
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a04645cf8ddd551
+From: The Ken <info@the-ken.com>
+Date: Fri, 28 Aug 2026 02:49:34 +0000 (UTC)
+Subject: 72-year-old Voltas turns to 14-year-old Atomberg for help
+Snippet: #email-template {margin: auto;min-width:300px;max-width: 600px;-webkit-text-size-adjust:100%;-webkit-text-size-adjust:100%;}a{color:#f33;}p{color: #321F1F;font-family: Georgia;font-size: 16px;font-style: normal;font-weight: 400;line-height: 24px;letter-spacing: -0.16px
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a0458875c0f181f
 From: "Kamand Bioengineering Group, IIT Mandi" <kbg@students.iitmandi.ac.in>
@@ -103,159 +236,6 @@ On Thu, 27 Aug 2026, 09:26 Piyush Roy,  wrote:
 > As AI continues to transform how we learn, build, and solve problems, we
 > are organizing an interactive session on AI Tools to help students make the
 > most of the evolving AI ecosyst
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0416f9c6afcb23
-From: "'SBB-Office \" जैव विज्ञान और जैव अभियांत्रिकी विभाग\"' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 27 Aug 2026 09:48:35 +0530
-Subject: Re: [Announcement] Invitation to the First Open Seminar by Ms. Shipra Singh (D22023), School of Biosciences and Bioengineering (SBB) | 27th August 2026
-Snippet: A Gentle Reminder
-
-Dear All,
->
-> You are cordially invited to attend the First Open seminar by Ms. Shipra
-> Singh (D22023), a PhD scholar in the School of Biosciences and
-> Bioengineering, as per the following details:
->
-
-
-> *Title:* CpG Island Architecture and Gene Regulation in Humans
->
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0415c46ade21c3
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Thu, 27 Aug 2026 09:25:44 +0530
-Subject: Session on AI Tools by Google Developer Group
-Snippet: Dear Students,
-
-As AI continues to transform how we learn, build, and solve problems, we
-are organizing an interactive session on AI Tools to help students make the
-most of the evolving AI ecosystem.
-
-The session will be led by three experienced mentors, all of whom have
-successfully complete
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0414a7811c37f7
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 27 Aug 2026 09:06:17 +0530
-Subject: Re: Invitation for Live Interaction Programme with the Hon’ble Prime Minister on 27.08.2026
-Snippet: Dear Students,
-
-This is a *gentle reminder* to all concerned students to *report to the
-Auditorium and be seated on or before 9:45 AM today (27.08.2026)* for the
-Live Interaction Programme with the Hon’ble Prime Minister, and kindly
-maintain discipline and cooperate with the organizing teams.
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a04130b820c279f
-From: "'Nalini' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 27 Aug 2026 08:38:06 +0530
-Subject: [Announcement] Invitation to attend Open seminar of Mr. Pankaj Verma (PTD2004)
-Snippet: Dear All,
-
-A gentle reminder.
-
-
-*धन्यवाद एवं सादर / **Thanks & Regards*
-*नलिनी सिंह / *
-*Nalini Singh*
-*वरिष्ठ सहायक, एससीईई कार्यालय / **Senior Assistant, SCEE Office*
-*भारतीय प्रौद्योगिकी संस्थान मंडी / **Indian Institute of Technology Mandi*
-*कार्यालय संख्या: / **Office no: 01905-267071
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0412f2b08085a2
-From: "'Nalini' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 27 Aug 2026 08:36:23 +0530
-Subject: [Announcement] Invitation to attend Synopsis seminar of Mr. Shubham Sharma (S23044)
-Snippet: A gentle reminder.
-
-
-Dear All,
-
-You are cordially invited to attend the Synopsis Seminar of Mr. Shubham
-Sharma (S23044) as per the following details:-
-Date: 27 August, 2026 (Thursday)
-
-Time: 02:00 PM - 3.00 PM
-
-Venue: SCEE Conference Room
-
-Title: Robust Spoken Language Identification Sy
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a03e474a78152a3
-From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
-Date: Wed, 26 Aug 2026 19:03:55 +0530
-Subject: UDC workshop is today !!
-Snippet: A gentle reminder to all the students -
-
-the workshop is today !!!
-
-Date & Time: 26th August, Wednesday. 8PM Dance Room (Above Gym)
-
-
-Warm Regards,
-Daksh
-Cultural Secretary
-IIT Mandi
-A gentle reminder to all the students -the workshop is today !!!Date &amp; Time: 26th August, Wednesday. 8
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a03e415bef436aa
-From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 26 Aug 2026 18:57:27 +0530
-Subject: Re: Invitation for Live Interaction Programme with the Hon’ble Prime Minister on 27.08.2026
-Snippet: Dear Students,
-
-This is a reminder regarding the *Live Interaction Programme with the
-Hon’ble Prime Minister* being hosted by IIT Mandi.
-
-*Event Details:*
-
-   -
-
-   *Date & Time:* August 27, 2026 at * 9:45 AM*
-   -
-
-   *Venue:* Auditorium, IIT Mandi
-
-*Mandatory Attendance:*
-
-   -
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a03dce47b52bc20
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Wed, 26 Aug 2026 16:51:44 +0530
-Subject: Re: CLI & GitHub session reminder
-Snippet: A gentle reminder for the session!
-
-Regards,
-
-
-*Piyush Roy*
-*Technical Secretary*
-*Student Gymkhana, IIT Mandi **Phone *- +91 6260553385
-*Email *- B23355@students.iitmandi.ac.in
-
-
-
-On Wed, Aug 26, 2026 at 8:00 AM Piyush Roy  wrote:
-
-> Dear all,
->
-> This is a reminder that the CLI, Gi
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
