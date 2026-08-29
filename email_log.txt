@@ -1,5 +1,80 @@
 Found 16 emails in the last 2 days:
 
+Message ID: 1a04d62c807647e2
+From: "'Pratim Kundu' via EE203" <ee203@courses.iitmandi.ac.in>
+Date: Sat, 29 Aug 2026 17:28:11 +0530
+Subject: Re: Requirement of Laptop for Class on Monday (31-08)
+Snippet: For your information, a guide for installation of the MATLAB software has
+been uploaded in Moodle.
+
+Note that you should install version R2024b or lower.
+
+Regards
+Pratim
+
+On Sat, Aug 29, 2026 at 2:56 PM Pratim Kundu  wrote:
+
+> Dear Students,
+>
+> You are required to bring your laptops to
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a04d06f83b7202c
+From: Ananya Bhatt <noreply@unstop.news>
+Date: Sat, 29 Aug 2026 15:48:17 +0530
+Subject: €80K grant funding + IIT Madras labs
+Snippet: E.ON Future Makers Challenge
+@media only screen and (max-width: 640px) {
+    .container {
+        width: 100% !important
+        }
+    .padding {
+        padding: 20px !important
+        }
+    .hero {
+        padding: 26px 18px !important
+        }
+    h1 {
+        font-size: 26px !important
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a04cd79cb37adcc
+From: "'Pratim Kundu' via EE203" <ee203@courses.iitmandi.ac.in>
+Date: Sat, 29 Aug 2026 14:56:17 +0530
+Subject: Requirement of Laptop for Class on Monday (31-08)
+Snippet: Dear Students,
+
+You are required to bring your laptops to the class on Monday (31-08).
+Prior to that you should install MATLAB on your laptop. This software can
+be obtained from the institute intranet. Also, it is preferable if you
+install MATLAB 2024 or older as the system configuration requir
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a04c7cd6f6d03fd
+From: "'Krishna  Mohan Parattu' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 29 Aug 2026 13:17:17 +0530
+Subject: [Announcement] SPS Seminar || Solar Coronal Mass Ejections || Thursday 4 pm || A4 Conference Room
+Snippet: Dear All,
+
+The School of Physical Sciences is pleased to invite you all for the following seminar. The details of the&nbsp;seminar&nbsp;are as follows:
+Title:&nbsp;&nbsp;Unveiling Turbulence in Near-Earth Solar Coronal Mass Ejections
+Speaker:&nbsp; Dr.&nbsp;Debesh Bhattacharj
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a04c6478798ca69
+From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 29 Aug 2026 12:50:25 +0530
+Subject: [Announcement] Last Chance to Register: IK592_11 – Advanced Mnemonic Techniques (Super Memory)
+Snippet: Dear Students,
+The Indian Knowledge System and Mental Health Applications Centre (IKSMHA) is pleased to announce the&nbsp;IK592_11 &ndash; Advanced Mnemonic Techniques (Super Memory)&nbsp;course for this semester.
+This unique 2-credit course helps you develop practical, science-backed memory techn
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
 Message ID: 1a04bfa138537aac
 From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
 Date: Sat, 29 Aug 2026 10:54:17 +0530
@@ -154,78 +229,5 @@ Date: Fri, 28 Aug 2026 02:49:34 +0000 (UTC)
 Subject: 72-year-old Voltas turns to 14-year-old Atomberg for help
 Snippet: #email-template {margin: auto;min-width:300px;max-width: 600px;-webkit-text-size-adjust:100%;-webkit-text-size-adjust:100%;}a{color:#f33;}p{color: #321F1F;font-family: Georgia;font-size: 16px;font-style: normal;font-weight: 400;line-height: 24px;letter-spacing: -0.16px
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0458875c0f181f
-From: "Kamand Bioengineering Group, IIT Mandi" <kbg@students.iitmandi.ac.in>
-Date: Fri, 28 Aug 2026 04:52:32 +0530
-Subject: NEEV 1.0 Pre-Hackathon: Build Before You Battle 🚀
-Snippet: Hello Everyone!
-
-*Hackathons se dar lagta hai? 🤔*
-*"Kya karen? Kuch samajh hi nahi aa raha?"*
-*"Coding aati hai, par start kahan se karun?"*
-*"Idea hai... implementation ka kya?"*
-
-If you've ever had these thoughts, *NEEV 1.0* is exactly where you need to
-be.
-
-Before you dive into hackatho
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a043044ba870a14
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Thu, 27 Aug 2026 17:08:50 +0530
-Subject: Re: Session on AI Tools by Google Developer Group
-Snippet: A gentle reminder!
-
-
-*Piyush Roy*
-*Technical Secretary*
-*Student Gymkhana, IIT Mandi **Phone *- +91 6260553385
-*Email *- B23355@students.iitmandi.ac.in
-
-
-On Thu, 27 Aug 2026 at 9:25 AM, Piyush Roy  wrote:
-
-> Dear Students,
->
-> As AI continues to transform how we learn, build, and solve
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a042e568398836d
-From: "'DCS OFFICE' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 27 Aug 2026 16:35:18 +0530
-Subject: [Announcement] Scheduled Service Downtime for UPS & Server Room Maintenance – 30 August 2026
-Snippet: Dear IIT Mandi Users,
-This is to inform you that a planned maintenance activity is scheduled on Sunday, 30 August 2026, from 5:30 PM to 6:30 PM. During this period, all services may experience temporary interruptions or may be unavailable. The maintenance window has been limited to one hour.
-We re
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0424e0d961ee01
-From: "'Preeti  Rana' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 27 Aug 2026 13:49:56 +0530
-Subject: [Announcement] Ph.D. Synopsis Seminar of Mr. Kshitij Tandon (D21030) || 31-08-2026 || A11-05-43
-Snippet: Dear All,
-You are cordially invited to attend the Ph.D. Synopsis Seminar of Mr. Kshitij Tandon (D21030) as per the details below:-Date:- 31st August, 2026 (Monday), Time:- 04:00 PMVenue:&nbsp;&nbsp;A11-05-43 (SCEnE, Conference Room)Link: https://meet.google.com/rgj-vboj-yqe 
-Title:&nbsp;Time-Depen
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a04242ef0f2a83b
-From: Kaustav Goswami <dd25007@students.iitmandi.ac.in>
-Date: Thu, 27 Aug 2026 13:37:18 +0530
-Subject: IC-272 Thursday Lab Seat Allocation
-Snippet: Hello students,
-Please find below your lab seating arrangement for today's (27 Aug) Lab.
-Please make sure that you note down your allotted seat number and seat only
-in that seat.
-
-You have to complete the lab tasks and verify it from your TA, only then
-lab attendance will be given. You are sug
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
