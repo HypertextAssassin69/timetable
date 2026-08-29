@@ -1,4 +1,74 @@
-Found 16 emails in the last 2 days:
+Found 20 emails in the last 2 days:
+
+Message ID: 1a04e57c85e26742
+From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
+Date: Sat, 29 Aug 2026 21:55:53 +0530
+Subject: Freshers Improv Game Night !!
+Snippet: Dear Freshers,
+
+We know the first few weeks at IIT Mandi can be quite hectic with classes,
+labs, yoga sessions, and various mandatory activities. So, it’s time for a
+little break!
+
+As promised, Gustaakh Saale brings to you:
+
+🎭 FRESHERS IMPROV GAME NIGHT
+
+An evening of fun, laughter, intera
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a04de06cc88532d
+From: "'Jaspreet Kaur Randhawa' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 29 Aug 2026 19:45:40 +0530
+Subject: [Announcement] Second open seminar of Ms. Pallavi Kadian (D21019) II 31.08.2026 II 12 Noon II A-4 conference room
+Snippet: Dear all,
+Please attend the open seminar of Ms. Pallavi Kadian (D21019) as per the below details:
+Date: 31.08.2026
+Time: 12 Noon
+Venue: A-4 conference room, South campus
+Title:&nbsp;Silica coated hematite Core-Shell Nanoarchitectures as Multifunctional Theranostic agents
+Abstract
+The developm
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a04dcfc1d3bc1fd
+From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
+Date: Sat, 29 Aug 2026 19:27:20 +0530
+Subject: Re: 3...2...1... MIC DROP | UhlLekh Open Mic 🎤
+Snippet: Apologies for the typo in the previous email. The date for the *Open Mic *event
+is *30th August*.
+
+Warm Regards,
+Arpit Mishra
+Literary Secretary — Student Gymkhana
+IIT Mandi
+
+
+On Sat, 29 Aug, 2026, 7:16 pm Arpit Mishra - Literary Secretary,  wrote:
+
+> Hey Freshers! 👀
+>
+> Got a thought w
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a04dc583ccdbf3b
+From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
+Date: Sat, 29 Aug 2026 19:16:10 +0530
+Subject: 3...2...1... MIC DROP | UhlLekh Open Mic 🎤
+Snippet: Hey Freshers! 👀
+
+Got a thought worth sharing? A poem in your notes? A song in your head? Or
+an idea too crazy to keep to yourself?
+
+Then the mic is waiting for *YOU! *🎤
+
+UhlLekh Club brings you an *OPEN MIC* — a space where ideas find a voice,
+thoughts find an audience, and creativity takes
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a04d62c807647e2
 From: "'Pratim Kundu' via EE203" <ee203@courses.iitmandi.ac.in>
@@ -169,65 +239,6 @@ available on the LMS.
 Best wishes,
 Satyajit
 Dear Students,The slides for Lecture 10 and Assignment 3 (due date: 5 September) are now available on the LMS.Best wishes,Satyajit
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a046c568c7dfb12
-From: "'Prasad  Kasturi' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 28 Aug 2026 10:38:49 +0530
-Subject: [Announcement] Second open seminar by Ms. Rushali Kamat (D21110) on Tuesday 1st, September 2026, at 3 PM in A4 Conference Room
-Snippet: Dear all,
-&nbsp;
-You are cordially invited to attend the second open seminar by Ms. Rushali Kamat (D21110), School of Biosciences and Bioengineering, as per the following schedule.
-&nbsp;
-Date and Time: 1st, September 2026, at 3 PM 
-&nbsp;
-Venue: &nbsp;A4 Conference room
-&nbsp;
-Title: &nbsp;
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0468da81505f62
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Fri, 28 Aug 2026 09:37:41 +0530
-Subject: KQuant session on Basics of Finance and Trading
-Snippet: Hello all,
-
-Ever wondered what Finance is really about—beyond stocks, charts, and
-numbers?
-
-Here’s your chance to find out.
-
-KQuant, IIT Mandi invites you to a beginner-friendly session on “Basics of
-Finance & Trading”—where no prior knowledge is required, just curiosity and
-enthusiasm.
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a046856253e178d
-From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
-Date: Fri, 28 Aug 2026 09:28:46 +0530
-Subject: Gandhigiri 2026 — New Date, Same Fire! ⚖️
-Snippet: Dear Freshers,
-
-🔥 GANDHIGIRI 2026 — THE FLAGSHIP DEBATE OF TSOD 🔥
-
-With several events clashing this weekend, we’ve decided to postpone
-Gandhigiri to the weekend.
-
-But don’t wait for the new date to start preparing! Gather your friends,
-form your teams, and register now:
-
-📝 Registration:
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a04645cf8ddd551
-From: The Ken <info@the-ken.com>
-Date: Fri, 28 Aug 2026 02:49:34 +0000 (UTC)
-Subject: 72-year-old Voltas turns to 14-year-old Atomberg for help
-Snippet: #email-template {margin: auto;min-width:300px;max-width: 600px;-webkit-text-size-adjust:100%;-webkit-text-size-adjust:100%;}a{color:#f33;}p{color: #321F1F;font-family: Georgia;font-size: 16px;font-style: normal;font-weight: 400;line-height: 24px;letter-spacing: -0.16px
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
