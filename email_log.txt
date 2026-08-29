@@ -1,4 +1,27 @@
-Found 20 emails in the last 2 days:
+Found 16 emails in the last 2 days:
+
+Message ID: 1a04bfa138537aac
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Sat, 29 Aug 2026 10:54:17 +0530
+Subject: Technical Induction Program session on Design Thinking!
+Snippet: Dear Students,
+
+E-Cell, IIT Mandi, is organizing an interactive session on *Design Thinking*
+as a part of the Technical Induction Program.
+
+Design Thinking is more than a framework for generating ideas. It is a
+structured approach to understanding problems, identifying user needs,
+developing
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a04baeccd9a6a04
+From: Jia from Unstop <noreply@unstop.news>
+Date: Sat, 29 Aug 2026 09:32:21 +0530
+Subject: I am going on a short break!
+Snippet: Will be back soon!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a0486b4dbd224d5
 From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
@@ -203,39 +226,6 @@ in that seat.
 
 You have to complete the lab tasks and verify it from your TA, only then
 lab attendance will be given. You are sug
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a041bb7d1fbff07
-From: "'Pratim Kundu' via EE203" <ee203@courses.iitmandi.ac.in>
-Date: Thu, 27 Aug 2026 11:09:46 +0530
-Subject: Inconvenience in Class due to my Absence
-Snippet: Dear Students,
-
-I lost my father a few days back and will not be able to be present in the
-class till 3rd Sept.
-
-During this period, the TAs will be taking the classes. If you are having
-doubts in concepts, derivations or numericals you can clarify with me once
-I return.
-
-Thanks and Regards
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0417d0dbbae6f5
-From: AARAV ARYA <b25243@students.iitmandi.ac.in>
-Date: Thu, 27 Aug 2026 10:01:11 +0530
-Subject: Re: Session on AI Tools by Google Developer Group
-Snippet: Bhaiya we have our ml lab from 6- 8pm
-
-On Thu, 27 Aug 2026, 09:26 Piyush Roy,  wrote:
-
-> Dear Students,
->
-> As AI continues to transform how we learn, build, and solve problems, we
-> are organizing an interactive session on AI Tools to help students make the
-> most of the evolving AI ecosyst
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
