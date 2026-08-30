@@ -1,4 +1,50 @@
-Found 18 emails in the last 2 days:
+Found 15 emails in the last 2 days:
+
+Message ID: 1a0525a92023b610
+From: "'Registrar IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Sun, 30 Aug 2026 16:29:23 +0530
+Subject: Fwd: TATA AIG Scholarship 2026 | Request for Circulation Among Eligible Students
+Snippet: *Sincerely,Dr. Kumar Sambhav Pandey*
+
+
+
+
+
+*Registrar Indian Institute of Technology (IIT )-MandiVPO Kamand-175075,
+Distt. Mandi (Himachal Pradesh), IndiaE-mail:registrar@iitmandi.ac.in
+; URL:http://iitmandi.ac.in/
+ Tele: +91-1905-267015 Fax :
++91-1905-267075================================
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a052349a88f5486
+From: Ananya Bhatt <noreply@unstop.news>
+Date: Sun, 30 Aug 2026 15:56:13 +0530
+Subject: Final Call: €80K grant with Infosys
+Snippet: E.ON Future Makers Challenge
+@media only screen and (max-width: 640px) {
+    .container {
+        width: 100% !important
+        }
+    .padding {
+        padding: 20px !important
+        }
+    .hero {
+        padding: 26px 18px !important
+        }
+    h1 {
+        font-size: 26px !important
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a050c99c33122fb
+From: Team Unstop <noreply@unstop.news>
+Date: Sun, 30 Aug 2026 09:19:45 +0530
+Subject: Bank of America Internship Alert!
+Snippet: Earn upto 1 lakh per month!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#6527
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a04e57c85e26742
 From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
@@ -186,59 +232,6 @@ We're back with another workshop! A little more technical but hey, that's
 the fun part isn't it 😉
 
 This i
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a047c4d47ee1ff0
-From: Ananya Bhatt <noreply@unstop.news>
-Date: Fri, 28 Aug 2026 15:17:56 +0530
-Subject: Up to €80K in funding for your deep-tech startup
-Snippet: E.ON Future Makers Challenge
-@media only screen and (max-width: 640px) {
-    .container {
-        width: 100% !important
-        }
-    .padding {
-        padding: 20px !important
-        }
-    .hero {
-        padding: 26px 18px !important
-        }
-    h1 {
-        font-size: 26px !important
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a04788a20ab69d1
-From: "Kamand Bioengineering Group, IIT Mandi" <kbg@students.iitmandi.ac.in>
-Date: Fri, 28 Aug 2026 10:41:58 +0200
-Subject: NEEV 1.0 Pre-Hackathon: Build Before You Battle 🚀
-Snippet: Hello Everyone!
-
-*Hackathons se dar lagta hai? 🤔*
-*"Kya karen? Kuch samajh hi nahi aa raha?"*
-*"Coding aati hai, par start kahan se karun?"*
-*"Idea hai... implementation ka kya?"*
-
-If you've ever had these thoughts, *NEEV 1.0* is exactly where you need to
-be.
-
-Before you dive into hackatho
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a046ea78c0153a6
-From: "'Satyajitsinh A. Thakor' via EE260" <ee260@courses.iitmandi.ac.in>
-Date: Fri, 28 Aug 2026 11:19:13 +0530
-Subject: EE260 Course Information
-Snippet: Dear Students,
-
-The slides for Lecture 10 and Assignment 3 (due date: 5 September) are now
-available on the LMS.
-
-Best wishes,
-Satyajit
-Dear Students,The slides for Lecture 10 and Assignment 3 (due date: 5 September) are now available on the LMS.Best wishes,Satyajit
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
