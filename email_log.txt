@@ -1,4 +1,21 @@
-Found 19 emails in the last 2 days:
+Found 16 emails in the last 2 days:
+
+Message ID: 1a0588dc8c0d1155
+From: "'Puran Singh' via all" <all@students.iitmandi.ac.in>
+Date: Mon, 31 Aug 2026 21:30:43 +0530
+Subject: [Announcement] Startup Idea Diagnostic Clinic | Sep 2, 8:30 PM | Hangout with Students
+Snippet: Dear Students,
+&nbsp;
+Have a startup idea?
+-Maybe it is just a thought right now.
+-Maybe you have been thinking about it for months.
+-Maybe you have already started working on it.
+&nbsp;
+Bring it to the Idea Diagnostic Clinic.&nbsp;Get it diagnosed.&nbsp;Know your next steps.
+&nbsp;
+In ou
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a0576342839b6dc
 From: "'Ms. Bune Bethseba LD' via all" <all@students.iitmandi.ac.in>
@@ -201,14 +218,6 @@ Snippet: E.ON Future Makers Challenge
         }
     h1 {
         font-size: 26px !important
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a050c99c33122fb
-From: Team Unstop <noreply@unstop.news>
-Date: Sun, 30 Aug 2026 09:19:45 +0530
-Subject: Bank of America Internship Alert!
-Snippet: Earn upto 1 lakh per month!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#6527
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
