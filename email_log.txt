@@ -1,4 +1,12 @@
-Found 16 emails in the last 2 days:
+Found 17 emails in the last 2 days:
+
+Message ID: 1a055b7961d5b6fd
+From: The Ken <info@the-ken.com>
+Date: Mon, 31 Aug 2026 02:48:09 +0000 (UTC)
+Subject: Netflix went from Sacred Games to Kapil Sharma. And it’s paying off
+Snippet: #email-template {margin: auto;min-width:300px;max-width: 600px;-webkit-text-size-adjust:100%;-webkit-text-size-adjust:100%;}a{color:#f33;}p{color: #321F1F;font-family: Georgia;font-size: 16px;font-style: normal;font-weight: 400;line-height: 24px;letter-spacing: -0.16px
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a05285243706514
 From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
@@ -219,21 +227,6 @@ Subject: [Announcement] Last Chance to Register: IK592_11 – Advanced Mnemonic 
 Snippet: Dear Students,
 The Indian Knowledge System and Mental Health Applications Centre (IKSMHA) is pleased to announce the&nbsp;IK592_11 &ndash; Advanced Mnemonic Techniques (Super Memory)&nbsp;course for this semester.
 This unique 2-credit course helps you develop practical, science-backed memory techn
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a04bfa138537aac
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Sat, 29 Aug 2026 10:54:17 +0530
-Subject: Technical Induction Program session on Design Thinking!
-Snippet: Dear Students,
-
-E-Cell, IIT Mandi, is organizing an interactive session on *Design Thinking*
-as a part of the Technical Induction Program.
-
-Design Thinking is more than a framework for generating ideas. It is a
-structured approach to understanding problems, identifying user needs,
-developing
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
