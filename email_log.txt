@@ -1,4 +1,40 @@
-Found 16 emails in the last 2 days:
+Found 17 emails in the last 2 days:
+
+Message ID: 1a05bb9cb4c32cb5
+From: "'Nalini' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 1 Sep 2026 12:17:52 +0530
+Subject: Re: [Announcement] Invitation to attend Synopsis Seminar of Ms. Kajal (S23083)
+Snippet: Dear All,
+
+A gentle reminder.
+
+On Mon, Aug 31, 2026 at 2:28 PM sceeoffice  wrote:
+
+> Dear All,
+>
+> You are cordially invited to attend the *Synopsis Seminar* of M.Tech. by
+> Research scholar *Ms. Kajal (S23083)* as per the following schedule:
+>
+> *Date:* 01 September 2026 (Tuesday)
+> *Ti
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a05af01436b9491
+From: "'Prasad  Kasturi' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 01 Sep 2026 08:37:49 +0530
+Subject: [Announcement] Reminder: Second open seminar by Ms. Rushali Kamat (D21110) on Tuesday 1st, September 2026, at 3 PM in A4 Conference Room
+Snippet: Dear all,
+&nbsp;
+You are cordially invited to attend the second open seminar by Ms. Rushali Kamat (D21110), School of Biosciences and Bioengineering, as per the following schedule.
+&nbsp;
+Date and Time: 1st, September 2026, at 3 PM 
+&nbsp;
+Venue: &nbsp;A4 Conference room
+&nbsp;
+Title: &nbsp;
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a0588dc8c0d1155
 From: "'Puran Singh' via all" <all@students.iitmandi.ac.in>
@@ -181,43 +217,5 @@ Time: 9.30 AM
 Venue: A1-NKN, South campus&nbsp;
 Engineering Multifunctional Silica-Coated Iron Oxide Core&ndash;Shell Nanoarchitectur
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0525a92023b610
-From: "'Registrar IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 30 Aug 2026 16:29:23 +0530
-Subject: Fwd: TATA AIG Scholarship 2026 | Request for Circulation Among Eligible Students
-Snippet: *Sincerely,Dr. Kumar Sambhav Pandey*
-
-
-
-
-
-*Registrar Indian Institute of Technology (IIT )-MandiVPO Kamand-175075,
-Distt. Mandi (Himachal Pradesh), IndiaE-mail:registrar@iitmandi.ac.in
-; URL:http://iitmandi.ac.in/
- Tele: +91-1905-267015 Fax :
-+91-1905-267075================================
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a052349a88f5486
-From: Ananya Bhatt <noreply@unstop.news>
-Date: Sun, 30 Aug 2026 15:56:13 +0530
-Subject: Final Call: €80K grant with Infosys
-Snippet: E.ON Future Makers Challenge
-@media only screen and (max-width: 640px) {
-    .container {
-        width: 100% !important
-        }
-    .padding {
-        padding: 20px !important
-        }
-    .hero {
-        padding: 26px 18px !important
-        }
-    h1 {
-        font-size: 26px !important
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
