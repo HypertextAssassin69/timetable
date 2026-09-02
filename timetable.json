@@ -285,10 +285,20 @@
       "note": "No class for Network Theory",
       "id": "gmail_1a02f8a35b5b4430_1",
       "source": "gmail_sync"
+    },
+    {
+      "course": "EE-203",
+      "action": "CANCEL",
+      "date": "2026-09-03",
+      "new_time": null,
+      "new_venue": null,
+      "note": "no class",
+      "id": "gmail_1a062597b174346e_0",
+      "source": "gmail_sync"
     }
   ],
   "metadata": {
-    "last_synced": "2026-08-23T18:25:11Z",
+    "last_synced": "2026-09-02T18:24:57Z",
     "processed_emails": [
       "19fc371f6875c0cc",
       "19fc3040590c53f8",
@@ -609,7 +619,10 @@
       "1a060530b302b063",
       "1a061eda0fff2a00",
       "1a061e8c1cd49a65",
-      "1a06193e486213bd"
+      "1a06193e486213bd",
+      "1a0625ce178fa734",
+      "1a062597b174346e",
+      "1a0625628b5ab840"
     ]
   }
 }

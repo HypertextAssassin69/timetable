@@ -1,4 +1,56 @@
-Found 11 emails in the last 2 days:
+Found 13 emails in the last 2 days:
+
+Message ID: 1a0625ce178fa734
+From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
+Date: Wed, 2 Sep 2026 19:13:52 +0530
+Subject: Multiverse Mayhem headed your way!!!
+Snippet: There are universes. There are timelines. There are retcons.
+
+And then there’s Multiverse Mayhem.
+
+Qurosity, The Quizzing Club of IIT Mandi, invites you to a quiz that dives
+into the worlds of comics and movies, from superheroes and supervillains to
+iconic storylines, fictional universes, orig
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a062597b174346e
+From: "'Pratim Kundu' via EE203" <ee203@courses.iitmandi.ac.in>
+Date: Wed, 2 Sep 2026 19:10:09 +0530
+Subject: No Class on 03-09
+Snippet: Hello Everyone,
+
+There will be no class on Thursday (03-09) for Network Theory (EE203).
+
+Regards
+Pratim
+Hello Everyone,There will be no class on Thursday (03-09) for Network Theory (EE203).RegardsPratim
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0625628b5ab840
+From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
+Date: Wed, 2 Sep 2026 19:06:31 +0530
+Subject: Re: 3...2...1... MIC DROP | UhlLekh Open Mic 🎤
+Snippet: The wait is finally over! 🎤
+
+The UhlLekh Open Mic is happening tomorrow.
+
+*Date: 3rd September*
+*Time: 6:30 PM*
+*Venue: In front of B14 Hostel*
+
+Come join us, participate, or just cheer for your friends.
+
+See you there!
+
+Regards,
+UhlLekh
+IIT Mandi
+
+On Sun, 30 Aug, 2026, 5:23 pm Arpit
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a061eda0fff2a00
 From: "'office_scene' via all" <all@students.iitmandi.ac.in>
@@ -137,23 +189,6 @@ Date and Time: 1st, September 2026, at 3 PM
 Venue: &nbsp;A4 Conference room
 &nbsp;
 Title: &nbsp;
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0588dc8c0d1155
-From: "'Puran Singh' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 31 Aug 2026 21:30:43 +0530
-Subject: [Announcement] Startup Idea Diagnostic Clinic | Sep 2, 8:30 PM | Hangout with Students
-Snippet: Dear Students,
-&nbsp;
-Have a startup idea?
--Maybe it is just a thought right now.
--Maybe you have been thinking about it for months.
--Maybe you have already started working on it.
-&nbsp;
-Bring it to the Idea Diagnostic Clinic.&nbsp;Get it diagnosed.&nbsp;Know your next steps.
-&nbsp;
-In ou
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
