@@ -1,4 +1,44 @@
-Found 13 emails in the last 2 days:
+Found 11 emails in the last 2 days:
+
+Message ID: 1a061eda0fff2a00
+From: "'office_scene' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 02 Sep 2026 17:12:30 +0530
+Subject: [Announcement] ACES 2.0: Annual Civil Engineering Symposium
+Snippet: Dear IIT Mandi Community,
+&nbsp;
+We are excited to announce that ACES 2.0, the Annual Civil Engineering Symposium, is back, Mark your calendars, because this year promises to be bigger, more engaging, and full of opportunities to showcase your work.
+Date: October 8 &ndash; 10, 2026 (Thursday&ndas
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a061e8c1cd49a65
+From: Cultural Secretary <cultural_secretary@students.iitmandi.ac.in>
+Date: Wed, 2 Sep 2026 17:06:59 +0530
+Subject: Join Us in Celebrating Janmashtami 2026
+Snippet: Dear All,
+
+On the most auspicious occasion of *Janmashtami 2026*, we warmly invite you
+and your family to join us in celebrating the *5,253rd divine appearance of
+Lord Krishna* at IIT Mandi.
+
+This year, we have prepared a special evening filled with *devotion, music,
+dance, drama, and joyful
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a06193e486213bd
+From: SMSEagle Team <marketing@smseagle.eu>
+Date: Wed, 2 Sep 2026 12:04:37 +0200
+Subject: SMSEagle Newsletter - August 2026
+Snippet: AARAV, your systems may run 24/7, but this newsletter only needs two minutes. 😉
+
+Hello AARAV!
+
+Did you know that the average person makes thousands of decisions every day? 🤔
+
+Good news: this one should be easy. Grab a coffee and take a quick look at the latest updates, new resources, and inter
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a060eec0c5f9890
 From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
@@ -114,80 +154,6 @@ Have a startup idea?
 Bring it to the Idea Diagnostic Clinic.&nbsp;Get it diagnosed.&nbsp;Know your next steps.
 &nbsp;
 In ou
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0576342839b6dc
-From: "'Ms. Bune Bethseba LD' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 31 Aug 2026 16:05:10 +0530
-Subject: [Announcement] Himalayan Reflections | Talk on Life in the Borderlands by Nary and Irfan | 3 September 2026
-Snippet: Dear All,
-We are pleased to invite you to the eighth talk in the Himalayan Reflections Series. Our speakers for this session are Nary Kirit Parmar and Mohd Irfan.&nbsp;
-In their talk, titled Life on the Borderlands: Stories from Nubra Valley of Ladakh, the two speakers will reflect on their two-mo
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a057404f0d68957
-From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 31 Aug 2026 15:26:58 +0530
-Subject: [Announcement] AYURVEDA PANCHAKARMA THERAPY scheduled for next week
-Snippet: Dear All,
-
-
-The basic AYURVEDA PANCHAKARMA THERAPY AND CONSULTATION schedule for upcoming week&nbsp; 07 September 2026&nbsp; to 11 September 2026 is as follows:-
-
-
-&nbsp;
-
-
-Sr.No
-Therapy Name
-Benefits
-
-
-1
-Akshi Tarpan (Eye Therapy)
-Prevents eye degeneration.
-
-
-Removes drynes
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0570edbafacaca
-From: Adhavan RK <adhavan@the-ken.com>
-Date: Mon, 31 Aug 2026 09:03:04 +0000 (UTC)
-Subject: Finish setting up your team for The Ken's Case-Build Competition
-Snippet: Dear Aarav,
-
-Thank you for signing up for The Ken's Case-Build Competition. You're most of the way through your registration.
-
-What's left is your team: naming it, picking a track, and bringing in up to two people who'll build it with you. You can compete solo, but most teams do better split by
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0570a58c7f1bc4
-From: "'sceeoffice' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 31 Aug 2026 14:28:02 +0530
-Subject: [Announcement] Invitation to attend Synopsis Seminar of Ms. Kajal (S23083)
-Snippet: Dear All,
-You are cordially invited to attend the Synopsis Seminar of M.Tech. by Research scholar Ms. Kajal (S23083) as per the following schedule:
-Date: 01 September 2026 (Tuesday)Time: 4:00 PMVenue: SCEE Conference Room
-Title: Explainable and Efficient Deep Learning for Automated OSSN Detection
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a056d163c1338f8
-From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 31 Aug 2026 13:25:50 +0530
-Subject: [Announcement] Reminder : First open seminar by Scholar Ms Memansa Thapa, School of Physical Sciences, on 1st September 2026, at 10:00 AM, in A4 Conference room
-Snippet: Dear All,
-A Gentle reminder..............
-You are invited to the&nbsp;first&nbsp;open&nbsp;seminar&nbsp;by scholar Ms. Memansa Thapa, School of Physical Sciences, as per the following schedule:
-Date: 01, September 2026&nbsp;
-Time:&nbsp;10:00 AM
-Venue: A4 Conference Room, South Campus
-Title:&nb
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
