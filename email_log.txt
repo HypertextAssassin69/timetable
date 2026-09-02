@@ -1,4 +1,4 @@
-Found 15 emails in the last 2 days:
+Found 14 emails in the last 2 days:
 
 Message ID: 1a05c471d5eefe41
 From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
@@ -204,13 +204,5 @@ Time: 12 Noon
 Venue: A-4 conference room, South campus
 Title:&nbsp;Silica coated hematite Core-Shell Nanoarchitectures as Multifunct
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a055b7961d5b6fd
-From: The Ken <info@the-ken.com>
-Date: Mon, 31 Aug 2026 02:48:09 +0000 (UTC)
-Subject: Netflix went from Sacred Games to Kapil Sharma. And it’s paying off
-Snippet: #email-template {margin: auto;min-width:300px;max-width: 600px;-webkit-text-size-adjust:100%;-webkit-text-size-adjust:100%;}a{color:#f33;}p{color: #321F1F;font-family: Georgia;font-size: 16px;font-style: normal;font-weight: 400;line-height: 24px;letter-spacing: -0.16px
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
