@@ -1,4 +1,42 @@
-Found 14 emails in the last 2 days:
+Found 13 emails in the last 2 days:
+
+Message ID: 1a060eec0c5f9890
+From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 02 Sep 2026 12:34:06 +0530
+Subject: [Announcement] Reminder: SPS Seminar || Solar Coronal Mass Ejections || Thursday 4 pm || A4 Conference Room
+Snippet: Dear All,
+&nbsp;
+A gentle reminder..!The School of Physical Sciences is pleased to invite you all for the following seminar. The details of the&nbsp;seminar&nbsp;are as follows:
+Title:&nbsp;&nbsp;Unveiling Turbulence in Near-Earth Solar Coronal Mass Ejections
+Speaker:&nbsp;&nbsp;Dr.&nbsp;Debesh
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a060595d0d51b8b
+From: "'Assoc. Dean Courses' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 2 Sep 2026 09:50:41 +0530
+Subject: Invitation — Teachers' Day 2026 Celebration on 5th Sept at 5 PM
+Snippet: Dear Faculty Members, Staff, and Students,
+
+On the occasion of Teachers' Day 2026, our students are organizing a
+celebration to honour our teachers and express gratitude for their
+invaluable contributions. Teachers play a pivotal role in nurturing young
+minds, guiding them with knowledge and va
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a060530b302b063
+From: "'cair  office' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 02 Sep 2026 09:44:02 +0530
+Subject: [Announcement] Invitation to Attend M.Tech. (R) Synopsis Seminar –  Ms. Piyali Dutta (S22054)
+Snippet: Dear All,&nbsp;
+You are cordially invited to attend the Open Synopsis Seminar- Ms. Piyali Dutta (S22054) M.Tech (R), CAIR, as per the following schedule:
+Date: 03-09-2026
+Time: 16:00 &ndash; 17:00 hrs
+Venue: FDP Lab, Ground Floor, (North Campus).
+Online link: https://meet.google.com/ihr-fubb-hr
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a05c471d5eefe41
 From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
@@ -150,59 +188,6 @@ Date: 01, September 2026&nbsp;
 Time:&nbsp;10:00 AM
 Venue: A4 Conference Room, South Campus
 Title:&nb
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a056960cd979ba0
-From: "'Kharerin  Hungyo' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 31 Aug 2026 12:14:22 +0530
-Subject: [Announcement] Invitation to First Open Seminar by Ms. Ananya Chandra (D22017), School of Biosciences and Bioengineering (SBB) | 3rd September 2026
-Snippet: Dear All,
-You are cordially invited to attend the First Open Seminar by Ms. Ananya Chandra (D22017), a PhD scholar in the School of Biosciences and Bioengineering, as per the following details:
-Title: Chromatin in motion: The role of histone Post-translational modifications in Metabolic Gene Reg
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0563ae76a872cb
-From: caretaker saraswati <caretaker_saraswati@iitmandi.ac.in>
-Date: Mon, 31 Aug 2026 10:41:19 +0530
-Subject: 
-Snippet: Dear Students,
-
-The Mess Bill for the month of August 2026 has been generated and is
-attached herewith.
-
-All students are requested to carefully check their mess bill and report
-any discrepancy, if any, to the Hostel Office on or before *02 September
-2026*. After this date, no requests for co
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0561830fd2ee09
-From: "'office_scene' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 31 Aug 2026 10:03:32 +0530
-Subject: [Announcement] Reminder || Ph.D. Synopsis Seminar of Mr. Kshitij Tandon (D21030) || 31-08-2026 || A11-05-43.
-Snippet: Dear All,
-&nbsp;
-A Gentle Reminder.............
-&nbsp;
-You are cordially invited to attend the Ph.D. Synopsis Seminar of Mr. Kshitij Tandon (D21030) as per the details below:-
-Date:- 31st August, 2026 (Monday), Time:- 04:00 PMVenue: &nbsp;A11-05-43 (SCEnE, Conference Room)Link: https://meet.goo
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a055e406859ab8c
-From: "'scs office' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 31 Aug 2026 09:06:34 +0530
-Subject: [Announcement] Reminder: Second open seminar of Ms. Pallavi Kadian (D21019) II 31.08.2026 II 12 Noon II A-4 conference room
-Snippet: A gentle reminder for today's seminar.
-&nbsp;
-Dear all,
-Please attend the open seminar of Ms. Pallavi Kadian (D21019) as per the below details:
-Date: 31.08.2026
-Time: 12 Noon
-Venue: A-4 conference room, South campus
-Title:&nbsp;Silica coated hematite Core-Shell Nanoarchitectures as Multifunct
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
