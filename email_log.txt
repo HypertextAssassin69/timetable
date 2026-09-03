@@ -1,4 +1,62 @@
-Found 14 emails in the last 2 days:
+Found 17 emails in the last 2 days:
+
+Message ID: 1a0660972744ea4a
+From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 03 Sep 2026 12:21:22 +0530
+Subject: [Announcement] Reminder: SPS Seminar || Solar Coronal Mass Ejections || 03.09.26, Thursday 4 :00 PM || A4 Conference Room
+Snippet: Dear All,
+&nbsp;
+A gentle reminder..!The School of Physical Sciences is pleased to invite you all for the following seminar. The details of the&nbsp;seminar&nbsp;are as follows:
+Title:&nbsp;&nbsp;Unveiling Turbulence in Near-Earth Solar Coronal Mass Ejections
+Speaker:&nbsp;&nbsp;Dr.&nbsp;Debesh
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a065ded487a2060
+From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 03 Sep 2026 11:27:55 +0530
+Subject: [Announcement] [Reminder] Invitation to Attend Ph.D. Synopsis Seminar by Mr. Ravi Anand (D22142), || September 07, 2026 (Monday) || SCEE Conference Room (Room No. A17-02-43) || @11:00 AM
+Snippet: Dear All,
+A gentle reminder regarding the Ph.D. synopsis seminar of Mr. Ravi Anand (D22142), as per the following schedule: -
+&nbsp;
+Date:&nbsp;07 September, 2026 (Monday)
+Venue:&nbsp;&nbsp;SCEE Conference Room (Room No. A17-02-43), 2nd&nbsp;Floor, A17 Building.
+Time:&nbsp;11:00 AM
+Link:&nbsp;
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a065dcb5a451fc4
+From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 03 Sep 2026 11:32:30 +0530
+Subject: [Announcement] [Reminder] Invitation to attend the open seminar of M.Tech (R) student Miss Kritika Manglesh (S24092), in the School of Computing and Electrical Engineering on 07.09.2026 (Monday)
+Snippet: Dear All,&nbsp;
+A gentle reminder regarding the open seminar of M.Tech (R), student Miss Kritika Manglesh (S24092), as per the details below:-
+&nbsp;
+Date: 7th&nbsp;September 2026 (Monday)&nbsp;
+Time: 12:30 PM to 1:30 PM&nbsp;
+Link:&nbsp;open seminar of M.Tech (R) student Miss&nbsp;Kritika&nbsp
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0658f3371e37bc
+From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 03 Sep 2026 10:07:50 +0530
+Subject: [Announcement] Admissions Open for Certificate & Diploma Courses in Sanskrit Language at IIT Mandi
+Snippet: Dear All,Namaste!श्रद्धावाँल्लभते ज्ञानम् - When nurtured in devotion, knowledge&nbsp;blossoms.
+With this spirit, the Centre for Sanskrit Learning at IKSMHA Centre, IIT Mandi, in collaboration with Central Sanskrit University, New Delhi, is warmly invites you to join the Certificate and Diploma Cou
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0655e86c516480
+From: "'Kharerin  Hungyo' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 03 Sep 2026 09:14:42 +0530
+Subject: [Announcement] First Open Seminar by Ms. Ananya Chandra (D22017), School of Biosciences and Bioengineering (SBB) | Today 11AM A4 room
+Snippet: Dear All,
+You are cordially invited to attend the First Open Seminar by Ms. Ananya Chandra (D22017), a PhD scholar in the School of Biosciences and Bioengineering, as per the following details:
+Title: Nucleosome in motion: The role of histone Post-translational modifications in Metabolic Gene Re
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a064f063dba0454
 From: The Ken <info@the-ken.com>
@@ -147,68 +205,6 @@ Date: 03-09-2026
 Time: 16:00 &ndash; 17:00 hrs
 Venue: FDP Lab, Ground Floor, (North Campus).
 Online link: https://meet.google.com/ihr-fubb-hr
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a05c471d5eefe41
-From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
-Date: Tue, 1 Sep 2026 14:52:21 +0530
-Subject: Dear Sensei — Some Thank-Yous Deserve Ink
-Snippet: Teacher's Day is almost here, and with it, *Dear Sensei* returns with
-another chance to put into ink what you've never quite said out loud.
-
-You may write about the professor who explained a concept until it finally
-made sense, or the one who noticed you were struggling before you'd said a
-word
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a05c452fc366a88
-From: "'Ms. Bune Bethseba LD' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 01 Sep 2026 14:50:23 +0530
-Subject: [Announcement] Himalayan Reflections | Talk on Life in the Borderlands by Nary and Irfan | Rescheduled
-Snippet: Dear All,
-Please note that the eighth talk in the Himalayan Reflections Series has been rescheduled to Thursday, 10 September 2026.
-All other details remain unchanged:
-Title: Life on the Borderlands: Stories from Nubra Valley of Ladakh 
-Speakers: Nary Kirit Parmar and Mohd Irfan
-Date: Thursday,
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a05bb9cb4c32cb5
-From: "'Nalini' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 1 Sep 2026 12:17:52 +0530
-Subject: Re: [Announcement] Invitation to attend Synopsis Seminar of Ms. Kajal (S23083)
-Snippet: Dear All,
-
-A gentle reminder.
-
-On Mon, Aug 31, 2026 at 2:28 PM sceeoffice  wrote:
-
-> Dear All,
->
-> You are cordially invited to attend the *Synopsis Seminar* of M.Tech. by
-> Research scholar *Ms. Kajal (S23083)* as per the following schedule:
->
-> *Date:* 01 September 2026 (Tuesday)
-> *Ti
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a05af01436b9491
-From: "'Prasad  Kasturi' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 01 Sep 2026 08:37:49 +0530
-Subject: [Announcement] Reminder: Second open seminar by Ms. Rushali Kamat (D21110) on Tuesday 1st, September 2026, at 3 PM in A4 Conference Room
-Snippet: Dear all,
-&nbsp;
-You are cordially invited to attend the second open seminar by Ms. Rushali Kamat (D21110), School of Biosciences and Bioengineering, as per the following schedule.
-&nbsp;
-Date and Time: 1st, September 2026, at 3 PM 
-&nbsp;
-Venue: &nbsp;A4 Conference room
-&nbsp;
-Title: &nbsp;
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
