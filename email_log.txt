@@ -1,4 +1,27 @@
-Found 20 emails in the last 2 days:
+Found 22 emails in the last 2 days:
+
+Message ID: 1a06825f787bc219
+From: "'Nirmalya  Kajuri' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 03 Sep 2026 22:11:44 +0530
+Subject: [Announcement] First Open Seminar of Arundhati Goldar on 09/06/2026
+Snippet: Dear all,You are cordially invited to attend the first open seminar of Arundhati Goldar (d21086). Details below:&nbsp;
+Date:&nbsp;09 September 2026Time:&nbsp;2:00 PM &ndash; 3:00 PMVenue:&nbsp;A4 Conference Room, South Campus
+Title:&nbsp;Probing Bulk Physics Through the Boundary: From AdS to de Si
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a067e981958afef
+From: "'Abhay Pratap Singh' via all" <all@students.iitmandi.ac.in>
+Date: Thu, 03 Sep 2026 21:05:41 +0530
+Subject: [Announcement] You are cordially invited to attend the Synopsis Seminar of Mr. Rahul (S23086), M.Tech. (R) Scholar, Centre for Artificial Intelligence and Robotics (CAIR), IIT Mandi.
+Snippet: Dear All,
+You are cordially invited to attend the&nbsp;Synopsis Seminar&nbsp;of&nbsp;Mr. Rahul (S23086), M.Tech. (R) Scholar, Centre for Artificial Intelligence and Robotics (CAIR), IIT Mandi.
+The seminar details are as follows:
+
+Date:&nbsp;September 5, 2026
+Time:&nbsp;11:30 AM &ndash; 12:30 PM
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a0675321aa63e4b
 From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
@@ -174,41 +197,6 @@ There will be no class on Thursday (03-09) for Network Theory (EE203).
 Regards
 Pratim
 Hello Everyone,There will be no class on Thursday (03-09) for Network Theory (EE203).RegardsPratim
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0625628b5ab840
-From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
-Date: Wed, 2 Sep 2026 19:06:31 +0530
-Subject: Re: 3...2...1... MIC DROP | UhlLekh Open Mic 🎤
-Snippet: The wait is finally over! 🎤
-
-The UhlLekh Open Mic is happening tomorrow.
-
-*Date: 3rd September*
-*Time: 6:30 PM*
-*Venue: In front of B14 Hostel*
-
-Come join us, participate, or just cheer for your friends.
-
-See you there!
-
-Regards,
-UhlLekh
-IIT Mandi
-
-On Sun, 30 Aug, 2026, 5:23 pm Arpit
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a061eda0fff2a00
-From: "'office_scene' via all" <all@students.iitmandi.ac.in>
-Date: Wed, 02 Sep 2026 17:12:30 +0530
-Subject: [Announcement] ACES 2.0: Annual Civil Engineering Symposium
-Snippet: Dear IIT Mandi Community,
-&nbsp;
-We are excited to announce that ACES 2.0, the Annual Civil Engineering Symposium, is back, Mark your calendars, because this year promises to be bigger, more engaging, and full of opportunities to showcase your work.
-Date: October 8 &ndash; 10, 2026 (Thursday&ndas
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
