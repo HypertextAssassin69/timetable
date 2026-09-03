@@ -1,4 +1,24 @@
-Found 13 emails in the last 2 days:
+Found 14 emails in the last 2 days:
+
+Message ID: 1a064f063dba0454
+From: The Ken <info@the-ken.com>
+Date: Thu, 03 Sep 2026 01:44:29 +0000 (UTC)
+Subject: The great Bengaluru rental survey
+Snippet: ... run by The Ken sprang many a surprise. Here’s the deep dive
+
+https://the-ken.com/
+
+Ka-Ching!
+
+Thu, 03 Sep 26
+
+A weekly newsletter about how finance is getting supercharged by tech in India, and how you can make money work for you.
+
+https://the-ken.com/
+
+A weekly newsletter about how
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a0625ce178fa734
 From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
