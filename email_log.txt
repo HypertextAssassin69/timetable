@@ -1,4 +1,18 @@
-Found 18 emails in the last 2 days:
+Found 19 emails in the last 2 days:
+
+Message ID: 1a06e6bd4554a23f
+From: Aditya Tayal - Academic Secretary <academic_secretary@students.iitmandi.ac.in>
+Date: Sat, 5 Sep 2026 03:25:33 +0530
+Subject: Invitation to Teachers’ Day Celebration 2026
+Snippet: Dear Students & Research Scholars,
+
+*Teachers’ Day* is one of those occasions that feels more meaningful when
+we celebrate it together.
+We are pleased to welcome *Prof. Prem Kumar Kalra, Director, Dayalbagh
+Educational Institute (Deemed to be University), Agra* as the *Chief Guest*
+for the occ
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a06b5fe5fa1c393
 From: The Ken <info@the-ken.com>
@@ -184,19 +198,6 @@ Date:&nbsp;07 September, 2026 (Monday)
 Venue:&nbsp;&nbsp;SCEE Conference Room (Room No. A17-02-43), 2nd&nbsp;Floor, A17 Building.
 Time:&nbsp;11:00 AM
 Link:&nbsp;
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a065dcb5a451fc4
-From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 03 Sep 2026 11:32:30 +0530
-Subject: [Announcement] [Reminder] Invitation to attend the open seminar of M.Tech (R) student Miss Kritika Manglesh (S24092), in the School of Computing and Electrical Engineering on 07.09.2026 (Monday)
-Snippet: Dear All,&nbsp;
-A gentle reminder regarding the open seminar of M.Tech (R), student Miss Kritika Manglesh (S24092), as per the details below:-
-&nbsp;
-Date: 7th&nbsp;September 2026 (Monday)&nbsp;
-Time: 12:30 PM to 1:30 PM&nbsp;
-Link:&nbsp;open seminar of M.Tech (R) student Miss&nbsp;Kritika&nbsp
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
