@@ -1,4 +1,30 @@
-Found 24 emails in the last 2 days:
+Found 23 emails in the last 2 days:
+
+Message ID: 1a06a9ba10008864
+From: "'Dileep Kumar' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 04 Sep 2026 09:39:31 +0530
+Subject: [Announcement] Special Invited Talk by Prof. Prem Kumar Kalra on 06 September, 2026
+Snippet: Dear Sir/ Madam and Students,
+&nbsp;
+We are pleased to inform you that&nbsp; Prof. Prem Kumar Kalra, will deliver an Invited talk on &ldquo;Reasoning Through the Unknown: From the Mathematics of Uncertainty to Agentic AI&rdquo;.&nbsp;The details of the talk are as follows;
+&nbsp;
+Title:&nbsp;-&n
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a06a840f1a74dbd
+From: "'Ayush' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 04 Sep 2026 09:13:47 +0530
+Subject: [Announcement] Janmashtami 2026 | Merchandise & Book Stall from 10:30 AM Today
+Snippet: Dear IIT Mandi Community,
+&nbsp;
+Today is Janmashtami!
+&nbsp;
+As we prepare for the grand Janmashtami celebrations beginning from 6:00 PM onwards, the Janmashtami Merchandise &amp; Book Stall will be open for the entire campus community from 10:30 AM onwards today.
+&nbsp;
+👕 Janmashtami Merchan
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a06a511f71d6028
 From: The Ken <info@the-ken.com>
@@ -160,36 +186,6 @@ Date: Thu, 03 Sep 2026 10:07:50 +0530
 Subject: [Announcement] Admissions Open for Certificate & Diploma Courses in Sanskrit Language at IIT Mandi
 Snippet: Dear All,Namaste!श्रद्धावाँल्लभते ज्ञानम् - When nurtured in devotion, knowledge&nbsp;blossoms.
 With this spirit, the Centre for Sanskrit Learning at IKSMHA Centre, IIT Mandi, in collaboration with Central Sanskrit University, New Delhi, is warmly invites you to join the Certificate and Diploma Cou
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0655e86c516480
-From: "'Kharerin  Hungyo' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 03 Sep 2026 09:14:42 +0530
-Subject: [Announcement] First Open Seminar by Ms. Ananya Chandra (D22017), School of Biosciences and Bioengineering (SBB) | Today 11AM A4 room
-Snippet: Dear All,
-You are cordially invited to attend the First Open Seminar by Ms. Ananya Chandra (D22017), a PhD scholar in the School of Biosciences and Bioengineering, as per the following details:
-Title: Nucleosome in motion: The role of histone Post-translational modifications in Metabolic Gene Re
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a064f063dba0454
-From: The Ken <info@the-ken.com>
-Date: Thu, 03 Sep 2026 01:44:29 +0000 (UTC)
-Subject: The great Bengaluru rental survey
-Snippet: ... run by The Ken sprang many a surprise. Here’s the deep dive
-
-https://the-ken.com/
-
-Ka-Ching!
-
-Thu, 03 Sep 26
-
-A weekly newsletter about how finance is getting supercharged by tech in India, and how you can make money work for you.
-
-https://the-ken.com/
-
-A weekly newsletter about how
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
