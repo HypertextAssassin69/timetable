@@ -1,4 +1,24 @@
-Found 23 emails in the last 2 days:
+Found 21 emails in the last 2 days:
+
+Message ID: 1a06b5fe5fa1c393
+From: The Ken <info@the-ken.com>
+Date: Fri, 04 Sep 2026 07:44:00 +0000 (UTC)
+Subject: All that glitters in Augmont’s IPO is not (digital) gold
+Snippet: Shares popped 22% on listing day. But there is the other side of India’s gold rush
+
+https://the-ken.com/
+
+The Collection
+
+Fri, 04 Sep 26
+
+Multiple stories, multiple perspectives, one theme worth your time—every week.
+
+https://the-ken.com/
+
+Multiple stories, multiple perspectives, one the
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a06a9ba10008864
 From: "'Dileep Kumar' via all" <all@students.iitmandi.ac.in>
@@ -177,15 +197,6 @@ A gentle reminder regarding the open seminar of M.Tech (R), student Miss Kritika
 Date: 7th&nbsp;September 2026 (Monday)&nbsp;
 Time: 12:30 PM to 1:30 PM&nbsp;
 Link:&nbsp;open seminar of M.Tech (R) student Miss&nbsp;Kritika&nbsp
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0658f3371e37bc
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 03 Sep 2026 10:07:50 +0530
-Subject: [Announcement] Admissions Open for Certificate & Diploma Courses in Sanskrit Language at IIT Mandi
-Snippet: Dear All,Namaste!श्रद्धावाँल्लभते ज्ञानम् - When nurtured in devotion, knowledge&nbsp;blossoms.
-With this spirit, the Centre for Sanskrit Learning at IKSMHA Centre, IIT Mandi, in collaboration with Central Sanskrit University, New Delhi, is warmly invites you to join the Certificate and Diploma Cou
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
