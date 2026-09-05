@@ -1,4 +1,4 @@
-Found 18 emails in the last 2 days:
+Found 13 emails in the last 2 days:
 
 Message ID: 1a06e6bd4554a23f
 From: Aditya Tayal - Academic Secretary <academic_secretary@students.iitmandi.ac.in>
@@ -172,32 +172,6 @@ Subject: [Announcement] Second open seminar of Mr. Abhishek Sharma, 07.09.2026, 
 Snippet: Dear all,You are cordially invited to attend the second open seminar of Mr. Abhishek Sharma (D22027), PhD Scholar, SPS, as per the following schedule:
 Date:&nbsp;Monday, 07 September 2026Time:&nbsp;12:00 PMVenue:&nbsp;A-4 conference room
 Title: From a Single Rod to Flocking: Motile Rods in a Sea o
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0660972744ea4a
-From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 03 Sep 2026 12:21:22 +0530
-Subject: [Announcement] Reminder: SPS Seminar || Solar Coronal Mass Ejections || 03.09.26, Thursday 4 :00 PM || A4 Conference Room
-Snippet: Dear All,
-&nbsp;
-A gentle reminder..!The School of Physical Sciences is pleased to invite you all for the following seminar. The details of the&nbsp;seminar&nbsp;are as follows:
-Title:&nbsp;&nbsp;Unveiling Turbulence in Near-Earth Solar Coronal Mass Ejections
-Speaker:&nbsp;&nbsp;Dr.&nbsp;Debesh
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a065ded487a2060
-From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 03 Sep 2026 11:27:55 +0530
-Subject: [Announcement] [Reminder] Invitation to Attend Ph.D. Synopsis Seminar by Mr. Ravi Anand (D22142), || September 07, 2026 (Monday) || SCEE Conference Room (Room No. A17-02-43) || @11:00 AM
-Snippet: Dear All,
-A gentle reminder regarding the Ph.D. synopsis seminar of Mr. Ravi Anand (D22142), as per the following schedule: -
-&nbsp;
-Date:&nbsp;07 September, 2026 (Monday)
-Venue:&nbsp;&nbsp;SCEE Conference Room (Room No. A17-02-43), 2nd&nbsp;Floor, A17 Building.
-Time:&nbsp;11:00 AM
-Link:&nbsp;
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
