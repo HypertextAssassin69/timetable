@@ -1,4 +1,36 @@
-Found 11 emails in the last 2 days:
+Found 10 emails in the last 2 days:
+
+Message ID: 1a071f14d89e9567
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Sat, 5 Sep 2026 19:50:08 +0530
+Subject: Re: Inter IIT - Astronomy Problem Statements
+Snippet: Dear all,
+
+Hope you are doing well in the problem statement, please find the
+submission form - https://forms.gle/y7Y5NjgPV9pxcFMM6.
+
+Deadline - Today's EOD.
+
+Regards,
+
+
+
+
+
+*Piyush RoyTechnical SecretaryStudent Gymkhana, IIT Mandi Phone - +91
+6260553385Linkedin
+|Email -
+B23355@student
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a071aab6b9193bf
+From: "'cultural secretary' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 05 Sep 2026 18:33:19 +0530
+Subject: [Announcement] Chal Paka Mat'26
+Snippet: &ldquo;Hello, I am XYZ from XYZ branch.&rdquo;ARRE BAS YAAR!&nbsp;Ek mahina ho gaya college mein, aur abhi bhi wahi naam, branch wala thakela introduction? &mdash; thoda style, aur thoda masala toh banta hai!&nbsp;So, Gustaakh Saale presents its FLAGSHIP EVENT -&nbsp;CHAL PAKA MAT!&nbsp;The co
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a07163cec46e8f6
 From: Aditya Tayal - Academic Secretary <academic_secretary@students.iitmandi.ac.in>
@@ -117,49 +149,5 @@ The evening will feature:
 &nbsp;Gotipua Acrobatic Dashavatar Dance
 &nbsp
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a06825f787bc219
-From: "'Nirmalya  Kajuri' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 03 Sep 2026 22:11:44 +0530
-Subject: [Announcement] First Open Seminar of Arundhati Goldar on 09/06/2026
-Snippet: Dear all,You are cordially invited to attend the first open seminar of Arundhati Goldar (d21086). Details below:&nbsp;
-Date:&nbsp;09 September 2026Time:&nbsp;2:00 PM &ndash; 3:00 PMVenue:&nbsp;A4 Conference Room, South Campus
-Title:&nbsp;Probing Bulk Physics Through the Boundary: From AdS to de Si
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a067e981958afef
-From: "'Abhay Pratap Singh' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 03 Sep 2026 21:05:41 +0530
-Subject: [Announcement] You are cordially invited to attend the Synopsis Seminar of Mr. Rahul (S23086), M.Tech. (R) Scholar, Centre for Artificial Intelligence and Robotics (CAIR), IIT Mandi.
-Snippet: Dear All,
-You are cordially invited to attend the&nbsp;Synopsis Seminar&nbsp;of&nbsp;Mr. Rahul (S23086), M.Tech. (R) Scholar, Centre for Artificial Intelligence and Robotics (CAIR), IIT Mandi.
-The seminar details are as follows:
-
-Date:&nbsp;September 5, 2026
-Time:&nbsp;11:30 AM &ndash; 12:30 PM
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0675321aa63e4b
-From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
-Date: Thu, 3 Sep 2026 18:21:19 +0530
-Subject: Re: 3...2...1... MIC DROP | UhlLekh Open Mic 🎤
-Snippet: Reminder for the *Open Mic* event!!
-
-Venue is changed to *Basketball court*, North Campus.
-
-Warm Regards,
-Arpit Mishra
-Literary Secretary — Student Gymkhana
-IIT Mandi
-
-On Wed, 2 Sept, 2026, 7:06 pm Arpit Mishra - Literary Secretary,  wrote:
-
-> The wait is finally over! 🎤
->
-> The UhlLekh
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
