@@ -1,4 +1,12 @@
-Found 10 emails in the last 2 days:
+Found 11 emails in the last 2 days:
+
+Message ID: 1a0728f1d74c5027
+From: "'APARNA SHARMA' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 05 Sep 2026 22:42:47 +0530
+Subject: [Announcement] Film in South campus this Sunday evening | The Name of the Rose
+Snippet: Dear all,Let's watch a film together this Sunday evening!Film: The Name of the Rose (1986), an adaptation of the novel by Umberto Eco(English, with English subtitles)Runtime: ~2 hoursDate:&nbsp;Sunday, September 6, 2026Time:&nbsp;5:00 pmVenue:&nbsp;CL 2, South CampusAs we will begin sharp at 5:00 PM
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a071f14d89e9567
 From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
