@@ -1,4 +1,42 @@
-Found 10 emails in the last 2 days:
+Found 13 emails in the last 2 days:
+
+Message ID: 1a077b81ebdf7455
+From: "'Puran Singh' via all" <all@students.iitmandi.ac.in>
+Date: Sun, 06 Sep 2026 22:45:43 +0530
+Subject: [Announcement] Startup Hangout for Students | Knowledge Session | Build what sells | Sep 9, 8:00 PM
+Snippet: Dear Students,
+Greetings.
+&nbsp;
+&nbsp;
+People Don&rsquo;t Buy Products. They Buy Solutions. Do you know the difference? Join me for a startup knowledge session in the upcoming hangout.
+&nbsp;
+&nbsp;
+Title:&nbsp;Build What Sells: How to build something worth paying for?
+Description: Understa
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0778ba908daa4b
+From: "'cultural secretary' via all" <all@students.iitmandi.ac.in>
+Date: Sun, 06 Sep 2026 21:57:09 +0530
+Subject: [Announcement] Showdown 4.0 announcement
+Snippet: READY TO TEAR UP THE STAGE AND STEAL THE SHOW? &nbsp;The spotlight has your name on it!
+ SHOWDOWN 4.0 
+ Venue: Auditorium Date: Friday, 11th September 2026 Time: 5:00 PM &ndash; 9:00 PM
+The biggest dance battle of the year is officially back! Showdown 4.0 isn't just a competition, it's your ulti
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0777d0d9416a14
+From: "'cultural secretary' via all" <all@students.iitmandi.ac.in>
+Date: Sun, 06 Sep 2026 21:41:11 +0530
+Subject: [Announcement] Showdown 4.0 announcement
+Snippet: READY TO TEAR UP THE STAGE AND STEAL THE SHOW? &nbsp;The spotlight has your name on it!
+ SHOWDOWN 4.0 
+ Venue: Auditorium Date: Friday, 11th September 2026 Time: 5:00 PM &ndash; 9:00 PM
+The biggest dance battle of the year is officially back! Showdown 4.0 isn't just a competition, it's your ul
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a075b19c4f8fdea
 From: "'APARNA SHARMA' via all" <all@students.iitmandi.ac.in>
