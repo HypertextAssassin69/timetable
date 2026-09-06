@@ -1,4 +1,4 @@
-Found 13 emails in the last 2 days:
+Found 12 emails in the last 2 days:
 
 Message ID: 1a077b81ebdf7455
 From: "'Puran Singh' via all" <all@students.iitmandi.ac.in>
@@ -169,20 +169,6 @@ Time : 1 PM
 Venue : A10- 1B
 
 And before you say “But I’ve never debated
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a06e6bd4554a23f
-From: Aditya Tayal - Academic Secretary <academic_secretary@students.iitmandi.ac.in>
-Date: Sat, 5 Sep 2026 03:25:33 +0530
-Subject: Invitation to Teachers’ Day Celebration 2026
-Snippet: Dear Students & Research Scholars,
-
-*Teachers’ Day* is one of those occasions that feels more meaningful when
-we celebrate it together.
-We are pleased to welcome *Prof. Prem Kumar Kalra, Director, Dayalbagh
-Educational Institute (Deemed to be University), Agra* as the *Chief Guest*
-for the occ
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
