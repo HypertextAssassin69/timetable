@@ -1,4 +1,4 @@
-Found 11 emails in the last 2 days:
+Found 9 emails in the last 2 days:
 
 Message ID: 1a0728f1d74c5027
 From: "'APARNA SHARMA' via all" <all@students.iitmandi.ac.in>
@@ -136,26 +136,5 @@ As we prepare for the grand Janmashtami celebrations beginning from 6:00 PM onwa
 &nbsp;
 👕 Janmashtami Merchan
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a06a511f71d6028
-From: The Ken <info@the-ken.com>
-Date: Fri, 04 Sep 2026 02:48:15 +0000 (UTC)
-Subject: A peptide party that never happened has raised questions Indian sellers are yet to answer
-Snippet: #email-template {margin: auto;min-width:300px;max-width: 600px;-webkit-text-size-adjust:100%;-webkit-text-size-adjust:100%;}a{color:#f33;}p{color: #321F1F;font-family: Georgia;font-size: 16px;font-style: normal;font-weight: 400;line-height: 24px;letter-spacing: -0.16px
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a06a2a5ddb9174e
-From: "'Mayank  Chaurasiya' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 04 Sep 2026 07:35:48 +0530
-Subject: [Announcement] [Announcement] Cordial Invitation to Janmashtami || Today, 6:00 PM onwards
-Snippet: Dear All,
-This is a gentle reminder to join us&nbsp;today, 4th September 2026, at 6:00 PM&nbsp;for the&nbsp;Janmashtami 2026 celebration&nbsp;at IIT Mandi, commemorating the&nbsp;5,253rd divine appearance of Lord Krishna.
-The evening will feature:
-
-&nbsp;Gotipua Acrobatic Dashavatar Dance
-&nbsp
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
