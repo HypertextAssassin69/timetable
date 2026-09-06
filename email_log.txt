@@ -1,5 +1,13 @@
 Found 10 emails in the last 2 days:
 
+Message ID: 1a075b19c4f8fdea
+From: "'APARNA SHARMA' via all" <all@students.iitmandi.ac.in>
+Date: Sun, 06 Sep 2026 13:19:21 +0530
+Subject: [Announcement] Film this evening | Quick Reminder
+Snippet: Dear all,Just a quick reminder about the film this evening.Film:&nbsp;The Name of the Rose (1986), an adaptation of the novel by Umberto Eco(English, with English subtitles)Runtime: ~2 hoursPoster link: https://drive.google.com/file/d/1Nrc1Tsr4FtoOPVHOcijhvauerCWmQUpG/view?usp=sharingDate:&nbsp;Sund
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
 Message ID: 1a07590665f9eda1
 From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
 Date: Sun, 6 Sep 2026 12:42:56 +0530
@@ -138,25 +146,5 @@ We are pleased to welcome *Prof. Prem Kumar Kalra, Director, Dayalbagh
 Educational Institute (Deemed to be University), Agra* as the *Chief Guest*
 for the occ
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a06b5fe5fa1c393
-From: The Ken <info@the-ken.com>
-Date: Fri, 04 Sep 2026 07:44:00 +0000 (UTC)
-Subject: All that glitters in Augmont’s IPO is not (digital) gold
-Snippet: Shares popped 22% on listing day. But there is the other side of India’s gold rush
-
-https://the-ken.com/
-
-The Collection
-
-Fri, 04 Sep 26
-
-Multiple stories, multiple perspectives, one theme worth your time—every week.
-
-https://the-ken.com/
-
-Multiple stories, multiple perspectives, one the
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
