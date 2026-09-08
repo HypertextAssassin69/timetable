@@ -1,4 +1,43 @@
-Found 18 emails in the last 2 days:
+Found 21 emails in the last 2 days:
+
+Message ID: 1a07ee96af265fad
+From: Notion Team <notify@mail.notion.com>
+Date: Tue, 08 Sep 2026 02:47:01 +0000
+Subject: RIHAANSH SARASWAT and 1 other made updates in The Robotronics Club IIT Mandi's Notion
+Snippet: .notion-email,td{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:subpixel-antialiased}.n
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a07ecb261d4c7a3
+From: "'Satyajitsinh A. Thakor' via EE260" <ee260@courses.iitmandi.ac.in>
+Date: Tue, 8 Sep 2026 07:43:43 +0530
+Subject: Re: EE260 Course Information
+Snippet: Dear Students,
+
+Today’s class scheduled at *10:00 AM* is canceled due to another important
+meeting.
+
+Best wishes,
+Satyajit
+
+On Fri, Aug 28, 2026 at 11:19 AM Satyajitsinh A. Thakor  wrote:
+
+> Dear Students,
+>
+> The slides for Lecture 10 and Assignment 3 (due date: 5 September) are now
+>
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a07eb59bf31815d
+From: "'himanshu Pathak' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 08 Sep 2026 07:20:17 +0530
+Subject: [Announcement] Open Seminar | Shubham Parmar (MTech-R) | 09 September 2026 at 12:00 PM | SMME Meeting Room, A11-04-17, North Campus
+Snippet: Dear All,
+You are cordially invited to attain open seminar by Shubham Parmar a MTech-R Scholar&nbsp;under SMME. The scheduled is given below:
+Tittle: Graphene- Enhanced Carbon- Aramid Hybrid Polymer Composite for integrated Mechanical Strength and Electro-magnetic Stealth Characteristics for Aero-
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a07c03528d9db4a
 From: "'Venkata Krishnan' via all" <all@students.iitmandi.ac.in>
@@ -192,35 +231,5 @@ People Don&rsquo;t Buy Products. They Buy Solutions. Do you know the difference?
 Title:&nbsp;Build What Sells: How to build something worth paying for?
 Description: Understa
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0778ba908daa4b
-From: "'cultural secretary' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 06 Sep 2026 21:57:09 +0530
-Subject: [Announcement] Showdown 4.0 announcement
-Snippet: READY TO TEAR UP THE STAGE AND STEAL THE SHOW? &nbsp;The spotlight has your name on it!
- SHOWDOWN 4.0 
- Venue: Auditorium Date: Friday, 11th September 2026 Time: 5:00 PM &ndash; 9:00 PM
-The biggest dance battle of the year is officially back! Showdown 4.0 isn't just a competition, it's your ulti
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a0777d0d9416a14
-From: "'cultural secretary' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 06 Sep 2026 21:41:11 +0530
-Subject: [Announcement] Showdown 4.0 announcement
-Snippet: READY TO TEAR UP THE STAGE AND STEAL THE SHOW? &nbsp;The spotlight has your name on it!
- SHOWDOWN 4.0 
- Venue: Auditorium Date: Friday, 11th September 2026 Time: 5:00 PM &ndash; 9:00 PM
-The biggest dance battle of the year is officially back! Showdown 4.0 isn't just a competition, it's your ul
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a075b19c4f8fdea
-From: "'APARNA SHARMA' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 06 Sep 2026 13:19:21 +0530
-Subject: [Announcement] Film this evening | Quick Reminder
-Snippet: Dear all,Just a quick reminder about the film this evening.Film:&nbsp;The Name of the Rose (1986), an adaptation of the novel by Umberto Eco(English, with English subtitles)Runtime: ~2 hoursPoster link: https://drive.google.com/file/d/1Nrc1Tsr4FtoOPVHOcijhvauerCWmQUpG/view?usp=sharingDate:&nbsp;Sund
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
