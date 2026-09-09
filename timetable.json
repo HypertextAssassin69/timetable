@@ -305,10 +305,20 @@
       "note": "due to another important meeting",
       "id": "gmail_1a07ecb261d4c7a3_0",
       "source": "gmail_sync"
+    },
+    {
+      "course": "EE-203",
+      "action": "EXTRA",
+      "date": "2026-09-09",
+      "new_time": "18:00 - 19:00",
+      "new_venue": null,
+      "note": "Extra class to compensate for missed classes",
+      "id": "gmail_1a085aec75ea4ca6_0",
+      "source": "gmail_sync"
     }
   ],
   "metadata": {
-    "last_synced": "2026-09-08T03:00:43Z",
+    "last_synced": "2026-09-09T22:54:57Z",
     "processed_emails": [
       "19fc371f6875c0cc",
       "19fc3040590c53f8",
@@ -677,7 +687,17 @@
       "1a07b429423061cc",
       "1a07ee96af265fad",
       "1a07ecb261d4c7a3",
-      "1a07eb59bf31815d"
+      "1a07eb59bf31815d",
+      "1a0878472e3bd8cc",
+      "1a08720671f38902",
+      "1a086ef085b252ae",
+      "1a08629687a54276",
+      "1a085aec75ea4ca6",
+      "1a08559d593f852e",
+      "1a085100e7c7b965",
+      "1a084446de33cd29",
+      "1a0841801bba5d47",
+      "1a084110a029c8c2"
     ]
   }
 }

@@ -1,235 +1,228 @@
-Found 21 emails in the last 2 days:
+Found 24 emails in the last 2 days:
 
-Message ID: 1a07ee96af265fad
-From: Notion Team <notify@mail.notion.com>
-Date: Tue, 08 Sep 2026 02:47:01 +0000
-Subject: RIHAANSH SARASWAT and 1 other made updates in The Robotronics Club IIT Mandi's Notion
-Snippet: .notion-email,td{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:subpixel-antialiased}.n
+Message ID: 1a0878472e3bd8cc
+From: "'Srinivasu Bodapati' via EE212" <ee212@courses.iitmandi.ac.in>
+Date: Thu, 10 Sep 2026 00:23:04 +0530
+Subject: Extra class
+Snippet: Hi,
+Please let me know when I can take an extra class as compensation for the
+class missed on Aug 11.
+
+
+
+-- 
+
+Regards
+B.SRINIVASU
+Associate Professor,
+School of Computing and Electrical Engineering
+Indian Institute of Technology Mandi
+Mandi-175005, Himachal Pradesh
+webpage 
+Hi,Please
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a08720671f38902
+From: "'SAURABH' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 09 Sep 2026 22:30:36 +0530
+Subject: [Announcement] Inter IIT Chess Trials
+Snippet: Hello everyone,
+&nbsp;
+We are organizing the Inter IIT trials, with the following details:
+&nbsp;
+Date: 14 Sept, 2026 (Monday)Timing: 6:00 pm onwardsVenue: Sports Complex (North Campus)Time Control: Rapid (15+10)Tournament Format: Swiss System (Offline)
+&nbsp;
+This tournament is open to all st
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a086ef085b252ae
+From: Team Unstop <noreply@unstop.news>
+Date: Wed, 09 Sep 2026 21:40:07 +0530
+Subject: What If Your Next Internship Is With Gul Panag?
+Snippet: Your profile is a great match!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#6
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
-Message ID: 1a07ecb261d4c7a3
+Message ID: 1a08629687a54276
+From: "'Varun Dutt' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 09 Sep 2026 18:04:06 +0530
+Subject: [Announcement] Open Seminar by Mr. Devansh Shrestha | 3:00 pm | 10-September-2026 | DORA Office Conference Room
+Snippet: Dear All,You are cordially invited to attend an open seminar by M.Tech. Research Scholar, Mr. Devansh Shrestha (S24133), as per the following schedule:Date: 10-September-2026Time: 3:00 PMVenue: DORA Office Conference Room, 3rd floor, A9 building, North Campus, IIT Mandi
+Colleagues who want to atten
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a085aec75ea4ca6
+From: "'Pratim Kundu' via EE203" <ee203@courses.iitmandi.ac.in>
+Date: Wed, 9 Sep 2026 15:50:06 +0530
+Subject: Re: Extra Classes for Network Theory
+Snippet: Reminder for today's (09-09) class at 6 pm.
+
+On Tue, Sep 8, 2026 at 3:28 PM Pratim Kundu  wrote:
+
+> Dear All,
+>
+> As discussed in the class today, we will have an extra class on Wednesday
+> (09-09-2026) at 6 pm. The venue remains the same.
+>
+> Regards
+> Pratim
+>
+> On Tue, Sep 8, 2026 at
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a08559d593f852e
+From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 09 Sep 2026 14:17:23 +0530
+Subject: [Announcement] Last call to register: 1-credit (14-hour) course on Sanskrit Grammar Level-2
+Snippet: Dear Students,This is the last call to register for the course IK591_10 (Sanskrit Grammar Level-2). Course Code: IK591_10Credits: 1 (L-T-P-C: 1-0-0-1)Slot: (NS) No SlotEligibility: Open to Ph.D., Master's, and Undergraduate studentsCourse Overview: Sanskrit Grammar Level-2 is an advanced Sanskrit gr
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a085100e7c7b965
+From: "'Srinivasu Bodapati' via EE212" <ee212@courses.iitmandi.ac.in>
+Date: Wed, 9 Sep 2026 12:56:40 +0530
+Subject: collecting assignment papers
+Snippet: Hi all,
+    Please collect your assignments from the CANE lab on Monday from 4 PM
+to 7 PM
+only.
+
+Pragun,
+     Do not allow any students to collect the assignments.
+
+
+regards
+srini
+
+-- 
+
+Regards
+B.SRINIVASU
+Associate Professor,
+School of Computing and Electrical Engineering
+Indian I
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a084446de33cd29
+From: "'Nalini' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 9 Sep 2026 09:14:10 +0530
+Subject: Re: [Announcement] Invitation to attend Synopsis Seminar of Mr. Abishek Gourave(S21026)
+Snippet: Dear All,
+
+A gentle reminder.
+
+On Tue, Sep 8, 2026 at 9:34 AM sceeoffice  wrote:
+
+> Dear All,
+>
+> You are cordially invited to attend the *Synopsis seminar* of *Mr.
+> Abishek Gourave(S21026)*, as per the following schedule:
+>
+> *Date*: 09.09.2026
+> *Time*: 3:00 PM
+> *Venue*: SCEE Confer
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a0841801bba5d47
 From: "'Satyajitsinh A. Thakor' via EE260" <ee260@courses.iitmandi.ac.in>
-Date: Tue, 8 Sep 2026 07:43:43 +0530
+Date: Wed, 9 Sep 2026 08:25:42 +0530
 Subject: Re: EE260 Course Information
 Snippet: Dear Students,
 
-Today’s class scheduled at *10:00 AM* is canceled due to another important
+Today’s class scheduled at *12:00 PM* is canceled due to another important
 meeting.
+There will be a makeup class on *Saturday at 11 AM*.
 
 Best wishes,
 Satyajit
 
-On Fri, Aug 28, 2026 at 11:19 AM Satyajitsinh A. Thakor  wrote:
+On Tue, Sep 8, 2026 at 7:43 AM Satyajitsinh A. Thakor  wrote:
 
 > Dear Students,
 >
-> The slides for Lecture 10 and Assignment 3 (due date: 5 September) are now
->
+> Today’s class scheduled at
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
-Message ID: 1a07eb59bf31815d
-From: "'himanshu Pathak' via all" <all@students.iitmandi.ac.in>
-Date: Tue, 08 Sep 2026 07:20:17 +0530
-Subject: [Announcement] Open Seminar | Shubham Parmar (MTech-R) | 09 September 2026 at 12:00 PM | SMME Meeting Room, A11-04-17, North Campus
-Snippet: Dear All,
-You are cordially invited to attain open seminar by Shubham Parmar a MTech-R Scholar&nbsp;under SMME. The scheduled is given below:
-Tittle: Graphene- Enhanced Carbon- Aramid Hybrid Polymer Composite for integrated Mechanical Strength and Electro-magnetic Stealth Characteristics for Aero-
+Message ID: 1a084110a029c8c2
+From: The Ken <info@the-ken.com>
+Date: Wed, 09 Sep 2026 02:48:23 +0000 (UTC)
+Subject: IIT, IIM reunions and that warm, fuzzy feeling of … making a donation
+Snippet: #email-template {margin: auto;min-width:300px;max-width: 600px;-webkit-text-size-adjust:100%;-webkit-text-size-adjust:100%;}a{color:#f33;}p{color: #321F1F;font-family: Georgia;font-size: 16px;font-style: normal;font-weight: 400;line-height: 24px;letter-spacing: -0.16px
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
-Message ID: 1a07c03528d9db4a
-From: "'Venkata Krishnan' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 07 Sep 2026 18:46:18 +0530
-Subject: [Announcement] Ph.D. synopsis seminar of Anitya Sharma (D22149)
-Snippet: Dear All,
-&nbsp;
-The Ph.D. synopsis seminar of my scholar, Mr. Anitya Sharma (D22149) is scheduled as follows.
-&nbsp;
-Date: Sep. 09, 2026 (Wednesday)
-Time: 11:00 am
-Venue: A-4 Conference Room, South Campus
-&nbsp;
-The title and abstract are given below.
-&nbsp;
-All are cordially invited.
-&n
+Message ID: 1a0840a09e2d339d
+From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
+Date: Wed, 9 Sep 2026 08:10:27 +0530
+Subject: Inter IIT Bootcamp - Let the Quizzing Begin!
+Snippet: Dear Nerds,
+
+Think you know a little bit of everything? Time to find out.
+
+The Inter IIT Bootcamp for Quizzing is happening this Friday, Saturday &
+Sunday, with three days packed with questions, surprises, and hopefully,
+fewer “I knew this!” moments after the quiz.
+
+The Line-Up
+
+Friday
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
-Message ID: 1a07b429423061cc
-From: "'Milan  Behl' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 07 Sep 2026 15:15:48 +0530
-Subject: [Announcement] AYURVEDA PANCHAKARMA THERAPY scheduled for next week
-Snippet: Dear All,
-
-
-The basic AYURVEDA PANCHAKARMA THERAPY AND CONSULTATION schedule for upcoming week&nbsp; 14 September 2026&nbsp; to 18 September 2026 is as follows:-
-
-
-&nbsp;
-
-
-Sr.No
-Therapy Name
-Benefits
-
-
-1
-Akshi Tarpan (Eye Therapy)
-Prevents eye degeneration.
-
-
-Removes drynes
-Pre-filter Potentially Relevant: False
+Message ID: 1a083caa153a1a0b
+From: "'Nirmalya  Kajuri' via all" <all@students.iitmandi.ac.in>
+Date: Wed, 09 Sep 2026 07:01:21 +0530
+Subject: [Announcement] Reminder:First Open Seminar of Arundhati Goldar
+Snippet: Dear all,You are cordially invited to attend the first open seminar of&nbsp;Arundhati&nbsp;Goldar (d21086). Details below:&nbsp;
+Date:&nbsp;09 September 2026Time:&nbsp;2:00 PM &ndash; 3:00 PMVenue:&nbsp;A4 Conference Room, South Campus
+Title:&nbsp;Probing Bulk Physics Through the Boundary: From Ad
+Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
-Message ID: 1a07acbb925964c9
+Message ID: 1a0820cefe1d1233
 From: Aditya Tayal - Academic Secretary <academic_secretary@students.iitmandi.ac.in>
-Date: Mon, 7 Sep 2026 13:05:48 +0530
-Subject: Re: Invitation — Teachers' Day 2026 Celebration on 5th Sept at 5 PM
-Snippet: Dear All,
-
-Please find the photographs from the *Teachers’ Day* programme: Link
-
-
---
-Thanks & Regards
-
-*Aditya Tayal*
-UG Academic Secretary, Student Gymkhana
-Indian Institute of Technology Mandi
-Mob: +91-9098488077
-
-On Sat, 5 Sept, 2026, 10:42 Aditya Tayal - Academic Secretary,  wrote:
+Date: Tue, 8 Sep 2026 22:54:17 +0530
+Subject: Re: Request to reopen planmydegree.app
+Snippet: The point is not just about attendance. The issue is that most of you did
+not make an effort to arrive on time. A lot of students seemed to be coming
+primarily for attendance, with many arriving towards the end simply because
+refreshments were being distributed. I understand that some of you migh
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 
-Message ID: 1a07a9367985f9c2
-From: "'office_scene' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 07 Sep 2026 12:04:27 +0530
-Subject: [Announcement] Ph.D. viva-voce examination of Mr. Sukh Sagar Shukla (D22178) || 08-09-2026 || A11-05-43.
-Snippet: Dear all,
-&nbsp;
-You are cordially invited to attend the Ph.D. viva voce examination of Mr. Sukh Sagar Shukla (D22178), Ph.D. Scholar in the School of Civil and Environmental Engineering, as per the following schedule:-
-Date: 8th September, 2026 (Tuesday)Time: 2:00 PM &ndash; 3:00 PMVenue: A11-05
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a07a63b81b501a0
-From: "'himanshu Pathak' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 07 Sep 2026 11:12:23 +0530
-Subject: [Announcement] PhD Viva-Voce Examination: Mr Lokesh Raj (D22050) | 11 Sept 2026 (Friday)-11:15 AM | SMME Conference Room-A11
-Snippet: Dear Faculty Colleagues and Students,
-You are invited to attain PhD viva-voce of scholar Mr Lokesh Raj (D22050) under SMME as per the following details:
-Date &amp; Time: 11 Sept 2026 (Friday), 11:15 AM 
-Venue: SMME Conference Room, A11-4th Floor, North Campus
-Thesis Tittle: Thermomechanical Fati
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a07a5de9d31644d
-From: "'spsoffice' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 07 Sep 2026 11:06:02 +0530
-Subject: [Announcement] Reminder: Second open seminar of Mr. Abhishek Sharma, 07.09.2026, 12:00 PM, A-4 conference room
-Snippet: Dear all,
-A Gentle reminder..........
-&nbsp;
-You are cordially invited to attend the second open seminar of Mr. Abhishek Sharma (D22027), PhD Scholar, SPS, as per the following schedule:
-Date:&nbsp;Monday, 07 September 2026Time:&nbsp;12:00 PMVenue:&nbsp;A-4 conference room
-Title:&nbsp;From a Si
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a07a3ba2524cc02
-From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
-Date: Mon, 7 Sep 2026 10:28:25 +0530
-Subject: CP 101 Coding Challenge – Second Year Exclusive!
-Snippet: Hi everyone,
-
-Get ready to put your coding skills to the ultimate test!
-
-The Programming Club is thrilled to announce a special, second-year-only
-edition of our Competitive Programming contest: *CP 101*
-
-Whether you're looking to sharpen your algorithmic thinking or just
-starting out, this b
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a07a2ac207aec03
-From: "'Prabhakar Palni' via IC222P" <ic222p@courses.iitmandi.ac.in>
-Date: Mon, 7 Sep 2026 10:10:01 +0530
-Subject: Final Warning Regarding Lab Regulations and Notebook Compliance
-Snippet: Good Morning Students,
-This is the final warning for all students with incomplete lab notebooks. Please review and strictly adhere to the following guidelines;
-Incomplete Notebook: Your lab notebook must be fully complete by 2:00 PM. You may arrive early (at 1:00 PM or earlier) to finish your grap
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a07a28872a6e1be
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 7 Sep 2026 10:07:03 +0530
-Subject: Re: [Announcement] Invitation to attend Synopsis Seminar of Ms. Shilpa Chandra (D22115) | 12 PM | 7th Sep 2026 |
-Snippet: A Gentle Reminder.
-
-On Thu, Sep 3, 2026 at 3:27 PM IKSMHA IIT Mandi 
-wrote:
-
-> Dear All,
->
-> You are cordially invited to attend the Synopsis Seminar of Ph.D.
-> Scholar Shilpa Chandra (D22115), as per the following schedule:
->
-> *Date:* 07/09/2026 (Monday)
-> *Time:* 12:00 PM
->
-> *Venue:
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a079cb04a5e1bb1
-From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 07 Sep 2026 08:25:36 +0530
-Subject: [Announcement] [Reminder] Invitation to attend the open seminar of M.Tech (R) student Miss Kritika Manglesh (S24092), in the School of Computing and Electrical Engineering on 07.09.2026 (Monday)
-Snippet: Dear All,&nbsp;
-A gentle reminder regarding the open seminar of M.Tech (R), student Miss&nbsp;Kritika&nbsp;Manglesh (S24092), as per the details below:-
-&nbsp;
-Date: 7th&nbsp;September 2026 (Monday)&nbsp;
-Time: 12:30 PM to 1:30 PM&nbsp;
-Link:&nbsp;open seminar of M.Tech (R) student Miss&nbsp;Kr
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a079c8fe6cbeb13
-From: "'Animesh Biswas' via all" <all@students.iitmandi.ac.in>
-Date: Mon, 07 Sep 2026 08:23:22 +0530
-Subject: [Announcement] [Reminder] Invitation to Attend Ph.D. Synopsis Seminar by Mr. Ravi Anand (D22142), || September 07, 2026 (Monday) || SCEE Conference Room (Room No. A17-02-43) || @11:00 AM
-Snippet: Dear All,
-A gentle reminder regarding the Ph.D. synopsis seminar of Mr. Ravi Anand (D22142), as per the following schedule: -
-&nbsp;
-Date:&nbsp;07 September, 2026 (Monday)
-&nbsp;
-Venue:&nbsp;&nbsp;SCEE Conference Room (Room No. A17-02-43), 2nd&nbsp;Floor, A17 Building.
-Time:&nbsp;11:00 AM
-Lin
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a077b81ebdf7455
-From: "'Puran Singh' via all" <all@students.iitmandi.ac.in>
-Date: Sun, 06 Sep 2026 22:45:43 +0530
-Subject: [Announcement] Startup Hangout for Students | Knowledge Session | Build what sells | Sep 9, 8:00 PM
+Message ID: 1a080ceb5f306269
+From: "'Dean Students Office' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 8 Sep 2026 17:06:49 +0530
+Subject: Advisory for Safe Walking Along the Road Towards Ganga, Saraswati and Rewalsar Hostels
 Snippet: Dear Students,
-Greetings.
-&nbsp;
-&nbsp;
-People Don&rsquo;t Buy Products. They Buy Solutions. Do you know the difference? Join me for a startup knowledge session in the upcoming hangout.
-&nbsp;
-&nbsp;
-Title:&nbsp;Build What Sells: How to build something worth paying for?
-Description: Understa
+
+This is to advise all students to exercise utmost caution while walking
+along the roads towards Ganga, Saraswati and Rewalsar Hostel, particularly
+near the railing/edge side of the road and steep slope areas.
+
+Students are advised not to walk close to the railing or road edge a
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a0807ebeafa6dc1
+From: "'Harsh  Soni' via all" <all@students.iitmandi.ac.in>
+Date: Tue, 08 Sep 2026 15:39:37 +0530
+Subject: [Announcement] PhD synopsis seminar of Mr. Abhishek Sharma, Sep 11, 1100 AM, A-4 conference room
+Snippet: Dear all,
+
+
+
+You are cordially invited to attend the PhD synopsis seminar of Mr. Abhishek Sharma (D22027), PhD Scholar, SPS, as per the following schedule:
+Date:&nbsp;Monday, 11 September 2026Time:&nbsp;11:00 AMVenue:&nbsp;A-4 conference room
+Title:&nbsp;Motility in Active Nematics
+Abstract:
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
