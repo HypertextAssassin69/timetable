@@ -1,5 +1,44 @@
 Found 21 emails in the last 2 days:
 
+Message ID: 1a0902d8f0152e1f
+From: "'APARNA SHARMA' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 11 Sep 2026 16:44:52 +0530
+Subject: [Announcement] Film in South Campus | "The Name of the Rose"
+Snippet: Dear all,
+We're delighted to invite you to watch a film together this Saturday evening in South Campus.
+Film: The Name of the Rose (1986)English, with English subtitlesRun time: ~2 hours
+The film is an adaptation of Umberto Eco's classic novel by the same title.&nbsp;
+Date: Saturday, Sep 12, 202
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a09009132d5ddfd
+From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 11 Sep 2026 16:04:47 +0530
+Subject: Instruction for Institute Colloquium
+Snippet: Dear Students,
+
+The entrance gate will be closed at *04:59 PM sharp*. All students must
+reach the venue and be seated before the scheduled start of the colloquium.
+No entry will be permitted after the gate is closed.
+
+Students must remain seated and maintain proper discipline throughout the
+c
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a08fe600e51a91d
+From: "'Pratim Kundu' via EE203" <ee203@courses.iitmandi.ac.in>
+Date: Fri, 11 Sep 2026 15:26:38 +0530
+Subject: Class on 12-09
+Snippet: There will be class tomorrow (12-09) as per Thursday's schedule.
+
+Regards
+Pratim
+There will be class tomorrow (12-09) as per Thursday&#39;s schedule.RegardsPratim
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
 Message ID: 1a08f47fe8b999fa
 From: "'office_scene' via all" <all@students.iitmandi.ac.in>
 Date: Fri, 11 Sep 2026 12:34:05 +0530
@@ -182,60 +221,5 @@ in that seat.
 From this week the labs will be *graded*, the assignment which you have to
 solve in the lab is already uploaded in
 Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a08acb4f77776a4
-From: "'Tanushree Roy' via IC222P" <ic222p@courses.iitmandi.ac.in>
-Date: Thu, 10 Sep 2026 15:39:20 +0530
-Subject: Attention_Thursday batch
-Snippet: Dear students,
-(Thursday Batch),
-
-Please note that your next experiment is scheduled for *12th September
-(Saturday)*, as the Academic Office has announced next Thursday (17th Sept)
-as a holiday.
-
-Thanks and regards,
-Tanushree
-
-
--- 
-........................................................
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a08aca0afea2160
-From: "'Satyajitsinh A. Thakor' via EE260" <ee260@courses.iitmandi.ac.in>
-Date: Thu, 10 Sep 2026 15:37:53 +0530
-Subject: Re: EE260 Course Information
-Snippet: Dear students,
-
-Since this Saturday we have a Thursday schedule, the makeup class is moved
-to *Sunday at 11 AM*.
-
-Best wishes,
-Satyajit
-
-On Wed, Sep 9, 2026 at 8:25 AM Satyajitsinh A. Thakor  wrote:
-
-> Dear Students,
->
-> Today’s class scheduled at *12:00 PM* is canceled due to another
->
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a089b39ea795991
-From: "'Ms. Bune Bethseba LD' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 10 Sep 2026 10:33:57 +0530
-Subject: [Announcement] Reminder | Himalayan Reflections | Life on the Borderlands | 10 September 2026
-Snippet: Dear All,&nbsp;
-This is a gentle reminder for today&rsquo;s talk in the Himalayan Reflections Series.&nbsp;
-Title: &nbsp;Life on the Borderlands: Stories from Nubra Valley of Ladakh
-Speakers: Nary Kirit Parmar and Mohd Irfan
-Date: Thursday, 10 September 2026
-Time: 3:00 pm to 4:00 pm
-Venue: Lib
-Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 

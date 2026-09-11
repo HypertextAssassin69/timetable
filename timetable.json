@@ -315,10 +315,20 @@
       "note": "Extra class to compensate for missed classes",
       "id": "gmail_1a085aec75ea4ca6_0",
       "source": "gmail_sync"
+    },
+    {
+      "course": "EE-203",
+      "action": "EXTRA",
+      "date": "2026-09-12",
+      "new_time": null,
+      "new_venue": null,
+      "note": "as per Thursday's schedule",
+      "id": "gmail_1a08fe600e51a91d_0",
+      "source": "gmail_sync"
     }
   ],
   "metadata": {
-    "last_synced": "2026-09-09T22:54:57Z",
+    "last_synced": "2026-09-11T13:13:46Z",
     "processed_emails": [
       "19fc371f6875c0cc",
       "19fc3040590c53f8",
@@ -707,7 +717,10 @@
       "1a08c29b6a0baab3",
       "1a08b1d165f1f16b",
       "1a08b0b882b1d6f6",
-      "1a08afdced1fbac9"
+      "1a08afdced1fbac9",
+      "1a0902d8f0152e1f",
+      "1a09009132d5ddfd",
+      "1a08fe600e51a91d"
     ]
   }
 }
