@@ -1,4 +1,53 @@
-Found 21 emails in the last 2 days:
+Found 23 emails in the last 2 days:
+
+Message ID: 1a091186c2054f3a
+From: Team Unstop <noreply@unstop.news>
+Date: Fri, 11 Sep 2026 21:01:31 +0530
+Subject: Want to Handle Social Media for Gul Panag’s Company?
+Snippet: Your profile is a great match!&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#65279; &#847;&#8199; &#6
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a090fbf94a4f5c7
+From: "'cultural secretary' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 11 Sep 2026 20:30:19 +0530
+Subject: [Announcement] Invitation to PMC’s Basics of Photography & Hands-on Session
+Snippet: Respected Faculty Members and PhD Scholars,
+&nbsp;
+The Photography and Moviemaking Club (PMC) is pleased to invite you to a Basics of Photography and Hands-on Session 
+&nbsp;
+The session will be a fun and interactive introduction to the fundamentals of photography, followed by a hands-on experie
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
+
+Message ID: 1a090f7c82a193ad
+From: "'cultural secretary' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 11 Sep 2026 20:25:45 +0530
+Subject: [Announcement] Chal Paka Mat'26 Results
+Snippet: Deviyo aur Sajjano,
+&nbsp;
+Intezaar ki ghadiya khatm hui!!
+&nbsp;
+
+We finally have our WINNERS of Chal Paka Mat &rsquo;26! 
+&nbsp;
+Choosing winners from all of you was extremely tough, everyone brought something special, and we&rsquo;re genuinely happy to see so much new talent coming up!
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a090ab3ba376145
+From: "'PIYUSH KANWAT' via all" <all@students.iitmandi.ac.in>
+Date: Fri, 11 Sep 2026 19:02:08 +0530
+Subject: [Announcement] Get Ready for HANUMAN ANSH at IIT Mandi! 🎬
+Snippet: Dear IIT Mandi Community,
+&nbsp;
+The wait is over! Chalchitra is thrilled to bring the cinematic masterpiece, HANUMAN ANSH, right to our campus auditorium.
+&nbsp;
+With a phenomenal 9+ rating on IMDb, you won't want to miss this visually stunning blockbuster on the big screen!
+&nbsp;
+⚠️ Heads U
+Pre-filter Potentially Relevant: False
+------------------------------------------------------------
 
 Message ID: 1a0902d8f0152e1f
 From: "'APARNA SHARMA' via all" <all@students.iitmandi.ac.in>
@@ -168,58 +217,6 @@ A Gentle reminder..................
 You are cordially invited to attend the PhD synopsis seminar of Mr. Abhishek Sharma (D22027), PhD Scholar, SPS, as per the following schedule:
 Date: Friday, 11th&nbsp; September 2026Time:&nbsp;11:00 AMVenue:&nbsp;A-4 conference room
 Tit
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a08b0b882b1d6f6
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 10 Sep 2026 16:49:36 +0530
-Subject: [Announcement] Invitation to attend First Open Seminar of Mr. Ajay Chaturvedi (PTD2428) | 11:30 AM | 11th September 2026 |
-Snippet: Dear All,
-You are cordially invited to attend the First Open Seminar of Part-time PhD. Scholar Mr. Ajay Chaturvedi (PTD2428), as per the following schedule:
-Date: 11/09/2026 (Friday)Time: 11:30 AM&nbsp;
-Venue: A-9, Director&rsquo;s Board Room, North Campus
-Topic: Kāla J&ntilde;āna: Natural Time,
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a08afdced1fbac9
-From: "'IKSMHA IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 10 Sep 2026 16:34:35 +0530
-Subject: [Announcement] Admissions Open for Certificate & Diploma in Sanskrit Language - *Orientation Programme on 12th Sep, Classes start from 15th Sep, Registrations till 30th Sep, 2026 (CSU x IIT Mandi)
-Snippet: Dear All,Namaste!_श्रद्धावाँल्लभते ज्ञानम्_ - When nurtured in devotion, knowledge blossoms.With this spirit, the Centre for Sanskrit Learning at IKSMHA Centre, IIT Mandi, in collaboration with Central Sanskrit University, New Delhi, warmly invites you to join the Certificate and Diploma Courses in
-Pre-filter Potentially Relevant: True
-------------------------------------------------------------
-
-Message ID: 1a08ae8a37bd264c
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Thu, 10 Sep 2026 16:11:20 +0530
-Subject: Institute Colloquium : Dr. Siddharth Panwar on 11th Sept. 2026 at 05:00 PM
-Snippet: Dear Sir/ Madam and Students,
-
-
-
-The Institute Colloquium Cell, is pleased to inform you that  Dr. Siddharth
-Panwar, will deliver a talk (Institute Colloquium)*. *The details of the
-colloquia talk are as follows;
-
-
-
-*Title of the talk: - **Rethinking Intelligence: Building Deep Tech from
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a08adf35435b591
-From: Kaustav Goswami <dd25007@students.iitmandi.ac.in>
-Date: Thu, 10 Sep 2026 16:00:38 +0530
-Subject: IC-272 Thursday Lab Seat Allocation
-Snippet: Hello students,
-Please find below your lab seating arrangement for today's (10 Sep) Lab.
-Please make sure that you note down your allotted seat number and seat only
-in that seat.
-
-From this week the labs will be *graded*, the assignment which you have to
-solve in the lab is already uploaded in
 Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
