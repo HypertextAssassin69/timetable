@@ -1,5 +1,27 @@
 Found 24 emails in the last 2 days:
 
+Message ID: 1a096513b52a94a2
+From: "'Srinivasu Bodapati' via EE212" <ee212@courses.iitmandi.ac.in>
+Date: Sat, 12 Sep 2026 21:21:23 +0530
+Subject: Re: Extra class
+Snippet: No class tomorrow.
+
+On Sat, Sep 12, 2026 at 8:13 PM KANISHK GOEL 
+wrote:
+
+> Respected sir,
+> Will we be having class tmrw?
+>
+> With Regards,
+> Kanishk Goel
+> B.Tech Microelectronics and VLSI
+> Indian Institute of Technology Mandi
+> B25500
+>
+> On Sat, 12 Sept 2026, 1:11 am KANISHK GOEL,
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
 Message ID: 1a0955a1c9871aff
 From: "'PIYUSH KANWAT' via all" <all@students.iitmandi.ac.in>
 Date: Sat, 12 Sep 2026 16:51:38 +0530
@@ -179,18 +201,6 @@ The wait is over! Chalchitra is thrilled to bring the cinematic masterpiece, HAN
 With a phenomenal 9+ rating on IMDb, you won't want to miss this visually stunning blockbuster on the big screen!
 &nbsp;
 ⚠️ Heads U
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a0902d8f0152e1f
-From: "'APARNA SHARMA' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 11 Sep 2026 16:44:52 +0530
-Subject: [Announcement] Film in South Campus | "The Name of the Rose"
-Snippet: Dear all,
-We're delighted to invite you to watch a film together this Saturday evening in South Campus.
-Film: The Name of the Rose (1986)English, with English subtitlesRun time: ~2 hours
-The film is an adaptation of Umberto Eco's classic novel by the same title.&nbsp;
-Date: Saturday, Sep 12, 202
 Pre-filter Potentially Relevant: False
 ------------------------------------------------------------
 

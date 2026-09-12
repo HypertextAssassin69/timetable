@@ -335,10 +335,20 @@
       "note": "10 mark class test. Duration: 30 minutes. Syllabus up to Lecture 5 (circuit response of signals).",
       "id": "gmail_1a094d9d771a211c_0",
       "source": "gmail_sync"
+    },
+    {
+      "course": "EE-212",
+      "action": "CANCEL",
+      "date": "2026-09-13",
+      "new_time": null,
+      "new_venue": null,
+      "note": "Cancellation of the class proposed for tomorrow.",
+      "id": "gmail_1a096513b52a94a2_0",
+      "source": "gmail_sync"
     }
   ],
   "metadata": {
-    "last_synced": "2026-09-12T10:04:42Z",
+    "last_synced": "2026-09-12T17:43:24Z",
     "processed_emails": [
       "19fc371f6875c0cc",
       "19fc3040590c53f8",
@@ -744,7 +754,8 @@
       "1a093ef9fd3e1082",
       "1a093aee25c36211",
       "1a0955a1c9871aff",
-      "1a09538ba5d5c7f7"
+      "1a09538ba5d5c7f7",
+      "1a096513b52a94a2"
     ]
   }
 }
