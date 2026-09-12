@@ -325,10 +325,20 @@
       "note": "as per Thursday's schedule",
       "id": "gmail_1a08fe600e51a91d_0",
       "source": "gmail_sync"
+    },
+    {
+      "course": "EE-203",
+      "action": "EXTRA",
+      "date": "2026-09-15",
+      "new_time": null,
+      "new_venue": null,
+      "note": "10 mark class test. Duration: 30 minutes. Syllabus up to Lecture 5 (circuit response of signals).",
+      "id": "gmail_1a094d9d771a211c_0",
+      "source": "gmail_sync"
     }
   ],
   "metadata": {
-    "last_synced": "2026-09-11T13:13:46Z",
+    "last_synced": "2026-09-12T10:04:42Z",
     "processed_emails": [
       "19fc371f6875c0cc",
       "19fc3040590c53f8",
@@ -724,7 +734,15 @@
       "1a091186c2054f3a",
       "1a090fbf94a4f5c7",
       "1a090f7c82a193ad",
-      "1a090ab3ba376145"
+      "1a090ab3ba376145",
+      "1a09512aa19079cf",
+      "1a094d9d771a211c",
+      "1a094d421715ecd7",
+      "1a09499a21a88ca5",
+      "1a0940a9fab7e218",
+      "1a09400b97523207",
+      "1a093ef9fd3e1082",
+      "1a093aee25c36211"
     ]
   }
 }
