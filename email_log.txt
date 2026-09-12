@@ -1,4 +1,33 @@
-Found 29 emails in the last 2 days:
+Found 24 emails in the last 2 days:
+
+Message ID: 1a0955a1c9871aff
+From: "'PIYUSH KANWAT' via all" <all@students.iitmandi.ac.in>
+Date: Sat, 12 Sep 2026 16:51:38 +0530
+Subject: [Announcement] 🎟️ On-Spot Booking from 5:45 PM | HANUMAN ANSH Screening Today
+Snippet: Dear IIT Mandi Community,
+On-spot booking will be available for today&rsquo;s HANUMAN ANSH screening!
+&nbsp;
+If you are facing any issue with the online booking portal, are unable to book online, or simply want to get your ticket at the venue, you can book your seat directly at the Auditorium.
+&
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
+
+Message ID: 1a09538ba5d5c7f7
+From: Piyush Roy <technical_secretary@students.iitmandi.ac.in>
+Date: Sat, 12 Sep 2026 16:14:55 +0530
+Subject: Re: Inter IIT Tech Meet Introduction : MOST IMPORTANT SESSION OF THE YEAR
+Snippet: *Piyush RoyTechnical SecretaryStudent Gymkhana, IIT Mandi Phone - +91
+6260553385Linkedin  | E
+mail - B23355@students.iitmandi.ac.in *
+
+
+
+On Sat, Sep 12, 2026 at 10:34 AM Piyush Roy  wrote:
+
+> Dear Students, *REMINDER*: The Inter IIT Tech Meet Introduction Session
+> is happening TODAY at 5 P
+Pre-filter Potentially Relevant: True
+------------------------------------------------------------
 
 Message ID: 1a09512aa19079cf
 From: Arpit Mishra - Literary Secretary <literary_secretary@students.iitmandi.ac.in>
@@ -163,32 +192,5 @@ Film: The Name of the Rose (1986)English, with English subtitlesRun time: ~2 hou
 The film is an adaptation of Umberto Eco's classic novel by the same title.&nbsp;
 Date: Saturday, Sep 12, 202
 Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a09009132d5ddfd
-From: "'Institute Colloquium - IIT Mandi' via all" <all@students.iitmandi.ac.in>
-Date: Fri, 11 Sep 2026 16:04:47 +0530
-Subject: Instruction for Institute Colloquium
-Snippet: Dear Students,
-
-The entrance gate will be closed at *04:59 PM sharp*. All students must
-reach the venue and be seated before the scheduled start of the colloquium.
-No entry will be permitted after the gate is closed.
-
-Students must remain seated and maintain proper discipline throughout the
-c
-Pre-filter Potentially Relevant: False
-------------------------------------------------------------
-
-Message ID: 1a08fe600e51a91d
-From: "'Pratim Kundu' via EE203" <ee203@courses.iitmandi.ac.in>
-Date: Fri, 11 Sep 2026 15:26:38 +0530
-Subject: Class on 12-09
-Snippet: There will be class tomorrow (12-09) as per Thursday's schedule.
-
-Regards
-Pratim
-There will be class tomorrow (12-09) as per Thursday&#39;s schedule.RegardsPratim
-Pre-filter Potentially Relevant: True
 ------------------------------------------------------------
 
