@@ -2,9 +2,10 @@ import os
 import json
 import base64
 import re
-import urllib.request
-import urllib.parse
 from datetime import datetime, timedelta
+
+# Import Composio
+from composio import ComposioToolSet
 
 # Import Gemini API library
 try:
@@ -26,107 +27,32 @@ REGISTERED_COURSES = {
     "IC-202P": "Design Practicum (Gajendra Singh)"
 }
 
-# Standardize search queries for candidate emails
-KEYWORDS = [
-    "timetable", "cancelled", "cancelled class", "cancel", "rescheduled", 
-    "reschedule", "extra class", "room changed", "location change", 
-    "Moumita", "Pratim", "Khosla", "Satyajitsinh", "Bodapati", "Indu", "Joshi", "Palni", "Dwijasish"
-]
-
-def refresh_gmail_token(client_id, client_secret, refresh_token):
-    """Refreshes the OAuth2 token for Gmail API access via raw HTTP POST."""
-    url = "https://oauth2.googleapis.com/token"
-    data = urllib.parse.urlencode({
-        "client_id": client_id,
-        "client_secret": client_secret,
-        "refresh_token": refresh_token,
-        "grant_type": "refresh_token"
-    }).encode("utf-8")
-    
-    req = urllib.request.Request(url, data=data, method="POST")
-    try:
-        with urllib.request.urlopen(req) as response:
-            res_data = json.loads(response.read().decode("utf-8"))
-            return res_data["access_token"]
-    except Exception as e:
-        print(f"Error refreshing Gmail token: {e}")
-        raise
-
-def gmail_api_request(url, access_token):
-    """Makes a GET request to the Gmail API using urllib."""
-    req = urllib.request.Request(url)
-    req.add_header("Authorization", f"Bearer {access_token}")
-    req.add_header("Accept", "application/json")
-    try:
-        with urllib.request.urlopen(req) as response:
-            return json.loads(response.read().decode("utf-8"))
-    except Exception as e:
-        print(f"Gmail API Request failed for URL {url}: {e}")
-        return None
-
 def extract_body(payload):
     """Recursively decodes the body content of a Gmail MIME payload."""
     body_text = ""
     
-    # 1. Check if direct body data exists (often in plain text parts)
     if "body" in payload and "data" in payload["body"]:
         try:
             raw_data = payload["body"]["data"]
-            # Base64url decode
+            # Base64url decode (fix padding if necessary)
+            raw_data += "=" * ((4 - len(raw_data) % 4) % 4)
             decoded = base64.urlsafe_b64decode(raw_data).decode("utf-8", errors="ignore")
             body_text += decoded
         except Exception as e:
             print(f"Error decoding body data: {e}")
             
-    # 2. Check if multipart subparts exist and recursively extract
     if "parts" in payload:
         for part in payload["parts"]:
             body_text += extract_body(part)
             
     return body_text
 
-def get_email_details(message_id, access_token):
-    """Fetches details (From, Subject, Date, Body) of a specific email message."""
-    url = f"https://gmail.googleapis.com/gmail/v1/users/me/messages/{message_id}?format=full"
-    msg_data = gmail_api_request(url, access_token)
-    if not msg_data:
-        return None
-        
-    headers = msg_data.get("payload", {}).get("headers", [])
-    
-    subject = ""
-    sender = ""
-    date_str = ""
-    
-    for h in headers:
-        name = h.get("name", "").lower()
-        if name == "subject":
-            subject = h.get("value", "")
-        elif name == "from":
-            sender = h.get("value", "")
-        elif name == "date":
-            date_str = h.get("value", "")
-            
-    body = extract_body(msg_data.get("payload", {}))
-    # Basic cleanup: remove double spaces/newlines
-    body = re.sub(r'\n+', '\n', body)
-    
-    return {
-        "id": message_id,
-        "subject": subject,
-        "from": sender,
-        "date": date_str,
-        "body": body[:5000] # Limit size for token constraints
-    }
-
-def is_potentially_relevant(email):
+def is_potentially_relevant(subject, body):
     """Checks if the email mentions any whitelisted course codes or instructor names."""
-    text_to_check = (email["subject"] + " " + email["body"]).lower()
+    text_to_check = (subject + " " + body).lower()
     
-    # Check if it mentions any course code
     has_course = any(code.lower() in text_to_check for code in REGISTERED_COURSES.keys())
     
-    # Or matches names of teachers
     teachers = [
         "Moumita", "Das", "Pratim", "Kundu", "Robin", "Khosla", "Satyajitsinh", "Thakor", 
         "Srinivasu", "Bodapati", "Indu", "Joshi", "Prabhakar", "Palni", "Gajendra", "Singh", "Dwijasish"
@@ -135,6 +61,9 @@ def is_potentially_relevant(email):
     
     return has_course or has_teacher
 
+def normalizeTime(time_str):
+    return time_str
+
 def analyze_email_with_gemini(email, gemini_api_key):
     """Uses Gemini API to parse email text and output structured schedule overrides."""
     if not HAS_GEMINI_LIB:
@@ -142,13 +71,8 @@ def analyze_email_with_gemini(email, gemini_api_key):
         return analyze_email_raw_http(email, gemini_api_key)
         
     genai.configure(api_key=gemini_api_key)
+    generation_config = {"response_mime_type": "application/json"}
     
-    # Configure JSON response type
-    generation_config = {
-        "response_mime_type": "application/json"
-    }
-    
-    # System instructions describing task and constraints
     system_instruction = (
         "You are an AI assistant tracking college schedules. Analyze emails and extract schedule adjustments "
         "only for our courses. Ignore anything about other classes.\n"
@@ -214,13 +138,12 @@ def analyze_email_with_gemini(email, gemini_api_key):
         return result
     except Exception as e:
         print(f"Error calling Gemini SDK: {e}")
-        # Try raw HTTP fallback
         return analyze_email_raw_http(email, gemini_api_key)
 
 def analyze_email_raw_http(email, gemini_api_key):
     """Alternative raw HTTP POST request to Gemini API (failsafe)."""
+    import urllib.request, urllib.parse
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={gemini_api_key}"
-    
     system_instruction = (
         "Analyze emails and extract schedule adjustments "
         "only for our courses: EE-261, EE-203, EE-311, EE-260, EE-212, IC-272, EE-261P, IC-222P, IC-202P.\n"
@@ -230,27 +153,14 @@ def analyze_email_raw_http(email, gemini_api_key):
         "3. Compute exact date (YYYY-MM-DD) for overrides relative to the email Sent Date.\n"
         "4. Return JSON structure matching '{\"relevant\": true, \"overrides\": [...]}' or '{\"relevant\": false}'."
     )
-    
     payload = {
-        "contents": [{
-            "parts": [{
-                "text": f"Sent Date: {email['date']}\nSubject: {email['subject']}\nFrom: {email['from']}\nBody:\n{email['body']}"
-            }]
-        }],
-        "systemInstruction": {
-            "parts": [{
-                "text": system_instruction
-            }]
-        },
-        "generationConfig": {
-            "responseMimeType": "application/json"
-        }
+        "contents": [{"parts": [{"text": f"Sent Date: {email['date']}\\nSubject: {email['subject']}\\nFrom: {email['from']}\\nBody:\\n{email['body']}"}]}],
+        "systemInstruction": {"parts": [{"text": system_instruction}]},
+        "generationConfig": {"responseMimeType": "application/json"}
     }
-    
     data = json.dumps(payload).encode("utf-8")
     req = urllib.request.Request(url, data=data, method="POST")
     req.add_header("Content-Type", "application/json")
-    
     try:
         with urllib.request.urlopen(req) as response:
             res_data = json.loads(response.read().decode("utf-8"))
@@ -261,16 +171,14 @@ def analyze_email_raw_http(email, gemini_api_key):
         return {"relevant": False}
 
 def main():
-    print("Starting Gmail Sync Script...")
+    print("Starting Gmail Sync Script with Composio...")
     
     # 1. Load Secrets
-    client_id = os.environ.get("GMAIL_CLIENT_ID")
-    client_secret = os.environ.get("GMAIL_CLIENT_SECRET")
-    refresh_token = os.environ.get("GMAIL_REFRESH_TOKEN")
+    composio_api_key = os.environ.get("COMPOSIO_API_KEY")
     gemini_key = os.environ.get("GEMINI_API_KEY")
     
-    if not all([client_id, client_secret, refresh_token, gemini_key]):
-        print("Missing required environment secrets. Please set GMAIL_CLIENT_ID, GMAIL_CLIENT_SECRET, GMAIL_REFRESH_TOKEN, and GEMINI_API_KEY.")
+    if not all([composio_api_key, gemini_key]):
+        print("Missing required environment secrets. Please set COMPOSIO_API_KEY and GEMINI_API_KEY.")
         return
 
     # 2. Load timetable database
@@ -285,23 +193,33 @@ def main():
     processed_emails = database.get("metadata", {}).get("processed_emails", [])
     overrides = database.get("overrides", [])
 
-    # 3. Authenticate with Gmail
-    print("Authenticating with Gmail API...")
+    # 3. Authenticate with Composio
+    print("Initializing Composio ToolSet...")
     try:
-        access_token = refresh_gmail_token(client_id, client_secret, refresh_token)
+        toolset = ComposioToolSet(api_key=composio_api_key)
     except Exception as e:
-        print(f"Authentication failed: {e}")
+        print(f"Composio ToolSet initialization failed: {e}")
         return
 
-    # 4. Search Gmail Inbox
-    # Search both subject and body for keywords, restricted to last 2 days to get changes from yesterday till now
+    # 4. Search Gmail Inbox via Composio
     query = "(timetable OR class OR cancel OR reschedule OR extra OR room OR venue OR Moumita OR Pratim OR Khosla OR Satyajitsinh OR Bodapati OR Indu OR Joshi OR Palni OR Dwijasish) newer_than:2d"
-    print(f"Searching Gmail with query: '{query}'")
+    print(f"Searching Gmail via Composio with query: '{query}'")
     
-    url = f"https://gmail.googleapis.com/gmail/v1/users/me/messages?q={urllib.parse.quote(query)}"
-    res = gmail_api_request(url, access_token)
-    
-    messages = res.get("messages", [])
+    try:
+        res = toolset.execute_action(
+            action="GMAIL_FETCH_EMAILS", 
+            params={
+                "query": query,
+                "max_results": 10,
+                "include_payload": False,
+                "verbose": False
+            }
+        )
+    except Exception as e:
+        print(f"Failed to fetch emails via Composio: {e}")
+        return
+        
+    messages = res.get("data", {}).get("messages", [])
     if not messages:
         print("No matching emails found.")
         return
@@ -310,43 +228,63 @@ def main():
     
     new_overrides_count = 0
     
-    # Process messages (up to 10 to prevent rate limit bottlenecks)
-    for msg in messages[:10]:
-        msg_id = msg["id"]
-        
-        # Idempotency check: skip already processed email IDs
+    for msg in messages:
+        msg_id = msg.get("messageId")
+        if not msg_id:
+            continue
+            
         if msg_id in processed_emails:
             continue
             
-        print(f"Fetching details for email {msg_id}...")
-        email = get_email_details(msg_id, access_token)
-        if not email:
+        subject = msg.get("subject", "")
+        sender = msg.get("sender", "")
+        date_str = msg.get("messageTimestamp", "")
+        
+        print(f"Fetching full details for email {msg_id}...")
+        try:
+            full_msg_res = toolset.execute_action(
+                action="GMAIL_FETCH_MESSAGE_BY_MESSAGE_ID", 
+                params={
+                    "message_id": msg_id,
+                    "format": "full"
+                }
+            )
+            full_msg_data = full_msg_res.get("data", {})
+        except Exception as e:
+            print(f"Failed to fetch full message {msg_id}: {e}")
             continue
             
-        # Quick heuristic filter
-        if not is_potentially_relevant(email):
+        body = extract_body(full_msg_data.get("payload", {}))
+        body = re.sub(r'\\n+', '\\n', body)
+        
+        if not is_potentially_relevant(subject, body):
             print(f"Skipping email {msg_id} (pre-filter deemed irrelevant)")
             processed_emails.append(msg_id)
             continue
             
-        # Parse content with Gemini
+        email_obj = {
+            "id": msg_id,
+            "subject": subject,
+            "from": sender,
+            "date": date_str,
+            "body": body[:5000]
+        }
+            
         print(f"Analyzing content of email {msg_id} with Gemini...")
-        result = analyze_email_with_gemini(email, gemini_key)
+        result = analyze_email_with_gemini(email_obj, gemini_key)
         
         if result and result.get("relevant") is True:
             parsed_list = result.get("overrides", [])
             print(f"Gemini matched {len(parsed_list)} schedule override(s)!")
             
             for item in parsed_list:
-                # Add metadata parameters
                 item["id"] = f"gmail_{msg_id}_{new_overrides_count}"
                 item["source"] = "gmail_sync"
                 
-                # Check for duplicates in existing overrides to prevent double inserts
                 duplicate = any(
-                    o["date"] == item["date"] and 
-                    o["course"] == item["course"] and 
-                    o["action"] == item["action"] and
+                    o.get("date") == item.get("date") and 
+                    o.get("course") == item.get("course") and 
+                    o.get("action") == item.get("action") and
                     normalizeTime(o.get("new_time")) == normalizeTime(item.get("new_time"))
                     for o in overrides
                 )
@@ -359,10 +297,9 @@ def main():
         else:
             print(f"Email {msg_id} deemed irrelevant by Gemini.")
             
-        # Mark email as processed
         processed_emails.append(msg_id)
 
-    # 5. Save changes back to timetable.json
+    # 5. Save changes
     if new_overrides_count > 0:
         print(f"Added {new_overrides_count} new overrides from Gmail sync.")
         database["overrides"] = overrides
@@ -374,7 +311,6 @@ def main():
         print("Database updated successfully.")
     else:
         print("No new schedule changes detected. Database unchanged.")
-        # Save processed email list even if no overrides added
         database["metadata"]["processed_emails"] = processed_emails
         with open(db_path, "w", encoding="utf-8") as f:
             json.dump(database, f, indent=2)
